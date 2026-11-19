@@ -1,49 +1,52 @@
-# Relatório técnico - GNINA multialvo V3
+# GNINA multi-target V3: technical results
 
-Biblioteca: 40 compostos de literatura, 51 estruturas e 59 entradas conformacionais. Quatro alvos avaliados por redocking e três aprovados para a triagem. Resultados exploratórios de moléculas isoladas; nenhum composto confirmado nas amostras.
+The library comprises 40 literature-derived compounds, represented by 51 declared structures and 59 verified conformational inputs. Four targets were assessed by native-ligand redocking; three satisfied the prespecified criterion for candidate screening. Results are exploratory for isolated molecules. No project-specific chemical analysis confirmed the occurrence of any compound in study samples.
 
-## Redocking
+## Native-ligand redocking
 
-| Alvo | Critério top1 <=2 A | RMSD mediano (A) | Situação |
-|---|---:|---:|---|
-| ACHE_4EY7 | 5/5 | 1.070 | PASS |
-| ALOX5_6N2W | 0/5 | 3.549 | FAIL |
-| CB2_5ZTY | 5/5 | 0.537 | PASS |
-| COX2_5IKR | 5/5 | 0.481 | PASS |
+| Target | Top-ranked Energy pose with RMSD ≤2 Å | Median RMSD (Å) | Status |
+| --- | ---: | ---: | --- |
+| ACHE_4EY7 | 5/5 | 1.070 | Pass |
+| ALOX5_6N2W | 0/5 | 3.549 | Fail |
+| CB2_5ZTY | 5/5 | 0.537 | Pass |
+| COX2_5IKR | 5/5 | 0.481 | Pass |
 
-A análise principal contém 10620 poses de docking e 400 de redocking. Foram exportadas 10980 poses de docking no total: 180 ficaram em quarentena por divergência estereoquímica e 180 pertencem a uma correção metodológica mantida separada. A triagem completa dos alvos aprovados usou as sementes 42, 142 e 242, com até 20 poses por entrada e semente.
-Uma entrada herdada do óxido de cariofileno apresentou geometria 3D com identidade estereoquímica diferente da estrutura declarada. Foi excluída da análise principal. A substituta correta ficou como diagnóstico separado por não ser uma conformação suficientemente distinta das já retidas. A biblioteca principal tem 59 entradas verificadas.
-A 5-LOX apresentou poses amostradas abaixo de 2 A, mas a primeira pose ordenada por energia falhou nas cinco sementes. O alvo foi excluído da triagem de candidatos neste protocolo, sem escolher retrospectivamente uma pose para aprovar o controle. Isso não demonstra ausência de atividade biológica.
+The primary analysis contains 10,620 candidate-docking poses and 400 native-control poses. A total of 10,980 candidate-docking poses were exported: 180 were quarantined because of a stereochemical identity discrepancy and 180 belonged to a separately retained methodological correction. Candidate screening for accepted targets used seeds 42, 142, and 242, with up to 20 poses per input and seed.
 
-## Cobertura botânica
+One inherited caryophyllene-oxide input had a three-dimensional stereochemical identity that differed from its declared structure. It was excluded from the primary analysis. The verified replacement was retained as a separate diagnostic because it was not sufficiently conformationally independent from two already retained correct conformers. The primary library therefore contains 59 verified inputs.
 
-| Espécie | Compostos selecionados | Observação |
-|---|---:|---|
-| Varronia curassavica | 2 | literature_selection_not_exhaustive |
-| Campomanesia littoralis | 0 | no_chemical_assignment; no_generic_C_xanthocarpa_substitution |
-| Myrcia palustris | 3 | literature_selection_not_exhaustive |
-| Eugenia catharinae | 8 | extract_comparators_only; volatile_composition_pending |
-| Schinus terebinthifolia | 8 | literature_selection_not_exhaustive |
-| Psidium guajava | 11 | literature_selection_not_exhaustive |
-| Lippia alba | 19 | literature_selection_not_exhaustive |
+For 5-LOX, poses within 2 Å of the crystal structure were sampled, but the first Energy-ranked pose failed in each of the five seeds. The target was excluded from candidate screening under the recorded protocol, without retrospectively selecting a pose to pass the control. This outcome does not demonstrate absence of biological activity.
 
-Não houve acesso à GC-MS do projeto. E. catharinae está representada por comparadores de extratos; fragmentos indexados de sua tabela de óleo foram registrados como pistas bibliográficas e não como composição completa confirmada. C. littoralis permanece sem atribuição química.
+## Botanical coverage
 
-## Método
+| Species | Selected compounds | Archive note |
+| --- | ---: | --- |
+| *Varronia curassavica* | 2 | Literature selection not exhaustive |
+| *Campomanesia littoralis* | 0 | No sufficiently supported nominal chemical assignment; no generic *C. xanthocarpa* substitution |
+| *Myrcia palustris* | 3 | Literature selection not exhaustive |
+| *Eugenia catharinae* | 8 | Extract comparators only; volatile composition pending |
+| *Schinus terebinthifolia* | 8 | Literature selection not exhaustive |
+| *Psidium guajava* | 11 | Literature selection not exhaustive |
+| *Lippia alba* | 19 | Literature selection not exhaustive |
 
-GNINA 1.3.3, CPU; CNN fast como rescoring, Energy como ordenação principal, exhaustiveness 16, até 20 poses; mesmo protocolo de pontuação por alvo no redocking e na triagem. O CNN fast foi escolhido para a triagem ampliada e seus valores não devem ser comparados numericamente aos do ensemble padrão da entrega anterior.
-Redocking independente da conformação cristalográfica, cinco sementes, RMSD de átomos pesados com simetria no referencial fixo da proteína, sem alinhar o ligante. Regra definida antes dos resultados: primeira pose ate 2 A em pelo menos 4/5 sementes. Identidades químicas dos controles comparadas com o CCD do RCSB, considerando a protonação de donepezila.
-Receptores rígidos; coordenadas pesadas depositadas preservadas; hidrogênios no modelo pH 7,4; águas e glicanos excluídos. CB2 mantém a construção mutante com fusão T4-lisozima, sem membrana, em estado ligado a antagonista. 5-LOX mantém ferro com aproximação empírica e a desordem da região que recobre o sítio, sem reconstrução.
-Estruturas antigas preservadas e novas estruturas preparadas com ETKDGv3/MMFF; estereoquímica indefinida enumerada. Microestados do banco mantidos, com a exceção documentada do carboxilato de ácido rotúndico. Não foi calculada a distribuição por pKa, inclusive para fenólicos.
-Auditoria: conservação de identidade química, coordenadas finitas, contatos não metálicos <2 A, distância inferior a 70% da soma dos raios de van der Waals, energia empírica positiva, saída da caixa >0,1 A, variação de ligação >0,15 A e sobreposição intramolecular grave entre átomos separados por mais de três ligações. Contatos com metais registrados separadamente. Ausência de alerta é uma verificação limitada, não prova de ligação.
-Comprimentos de ligação comparados com correspondência de átomos; RMSD entre sementes calculado sem alinhamento. As proximidades de resíduos ate 4 A são geométricas e não foram automaticamente rotuladas como ligações de hidrogênio ou mecanismos.
+No project-specific GC–MS data were available. *E. catharinae* is represented by extract comparators; indexed fragments from its essential-oil table were retained as literature leads rather than as a confirmed complete composition. *C. littoralis* remains without a chemical assignment.
 
-## O que se pode concluir
+## Methodological record
 
-A ampliação oferece hipóteses estruturais rastreáveis e permite avaliar dependência de sementes, conformações e ordenação. A falha de um controle ficou registrada e impediu a triagem naquele alvo. Não há ranking de potência entre plantas ou proteínas, nem estimativa de atividade de misturas.
-Os scores não comprovam atividade anti-inflamatória, antimicrobiana, anticancerígena, antioxidante ou antidepressiva. A ligação prevista a CB2 não distingue agonismo de antagonismo. Os descritores físico-químicos calculados não são ensaios nem previsões validadas de toxicidade, biodisponibilidade ou segurança.
-Próximos passos: integrar GC-MS/índices de retenção por matriz e espécie, confirmar vouchers, resolver composição pendente, revisar as poses e confrontar as hipóteses com ensaios específicos.
+GNINA 1.3.3 was executed on CPU with CNN fast rescoring, Energy as the prespecified primary ranking, exhaustiveness 16, and up to 20 poses. The same target-specific scoring protocol was used for redocking and candidate screening. CNN fast was selected to make the expanded screen computationally tractable; its values should not be compared numerically with standard-ensemble values from earlier deliveries.
 
-## Arquivos
+Native-control inputs were prepared independently of crystal-ligand coordinates. The prespecified criterion was a symmetry-aware heavy-atom RMSD ≤2 Å for the first Energy-ranked pose in at least four of five seeds, evaluated in the fixed protein reference frame without ligand alignment. Chemical identities of controls were checked against RCSB CCD records, including the documented protonation state of donepezil.
 
-O PDF reúne a síntese visual e os métodos. As tabelas completas ficam em reports/ e results/<alvo>/. Identidades e fontes estão em structures.csv e literature_species_links.csv. target_rationale.json documenta as justificativas e ressalvas estruturais. Os scripts PyMOL de cada alvo usam o mesmo referencial, sem alinhamento.
+Receptors were rigid; deposited heavy-atom coordinates were retained and hydrogens were modelled at pH 7.4. Waters and glycans were excluded. The CB2 construct retains the mutant T4-lysozyme fusion without membrane or lipids and was deposited in an antagonist-bound state. The 5-LOX model retains iron under an empirical treatment and the deposited disorder of the site-covering region.
+
+The audit evaluates chemical identity, finite coordinates, non-metal contacts below 2 Å, distances below 70% of the summed van der Waals radii, positive empirical energy, box escape >0.1 Å, bond-length change >0.15 Å, and serious intramolecular overlap between atoms separated by more than three bonds. Metal contacts are recorded separately. Absence of an audit flag is a limited quality check and does not establish binding. Residue proximities ≤4 Å are geometric observations and were not automatically labelled as hydrogen bonds or mechanisms.
+
+## Interpretation
+
+The expansion provides traceable structural hypotheses and enables assessment of sensitivity to random seed, conformer, and pose ranking. A failing native control was retained and prevented screening for that target. The data do not provide a potency ranking across plants or proteins and do not estimate mixture activity.
+
+Docking scores do not establish anti-inflammatory, antimicrobial, anticancer, antioxidant, or antidepressant activity. Predicted CB2 binding does not distinguish agonism from antagonism. Calculated physicochemical descriptors are not experimental assays or validated predictions of toxicity, bioavailability, or safety.
+
+## Archive contents
+
+The PDF contains the visual and methodological summary. Complete tables are under `reports/` and `results/<target>/`. Chemical identities and literature sources are recorded in `structures.csv` and `literature_species_links.csv`. `target_rationale.json` documents target-selection reasoning and structural caveats. Target-specific PyMOL scripts use the same unaligned reference frame.
