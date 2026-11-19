@@ -1,0 +1,7 @@
+{
+  "verification_python": "3.12.14",
+  "verification_numpy": "2.3.5",
+  "verification_rdkit": "2026.09.1",
+  "verification_python_docx": "1.2.0",
+  "note": "This records the verification environment, distinct from the historical executed study environment in manuscript Table S6."
+}

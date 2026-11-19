@@ -1,0 +1,13 @@
+{
+  "original_manuscript_references": 23,
+  "chemical_library_sources_already_in_references": 2,
+  "chemical_library_sources_added": 8,
+  "revised_manuscript_references": 31,
+  "original_background_catalog_records": 42,
+  "chemical_library_named_compounds_mapped": 40,
+  "all_original_reference_identities_confirmed": true,
+  "all_background_records_located": true,
+  "all_background_fulltexts_reviewed": false,
+  "numerical_docking_results_changed": false,
+  "SI_source_internal_text_table_inconsistency_documented": true
+}

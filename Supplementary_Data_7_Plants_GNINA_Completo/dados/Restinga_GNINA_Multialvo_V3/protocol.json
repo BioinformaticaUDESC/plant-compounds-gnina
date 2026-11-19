@@ -1,0 +1,138 @@
+{
+  "GNINA_version": "gnina v1.3.3 master:6fe1ce2   Built Jun 30 2026.",
+  "binary_sha256": "3340c1f49cd3c7c84d8699182a1c6af13c7fa2a22448d1204640446106f72172",
+  "cnn_scoring": "rescore",
+  "cnn_model": "fast_builtin_pinned_GNINA_1.3.3",
+  "primary_pose_order": "Energy",
+  "exhaustiveness": 16,
+  "num_modes": 20,
+  "cpu": 4,
+  "gpu": false,
+  "docking_seeds": [
+    42,
+    142,
+    242
+  ],
+  "redocking_seeds": [
+    101,
+    202,
+    303,
+    404,
+    505
+  ],
+  "redocking_rule": "top1_fixed_frame_symmetry_heavy_atom_RMSD<=2A_in_at_least_4/5_seeds",
+  "library_manifest_sha256": "177d466a76772f54b1e978a1cbf4c4f2e20f1135caa7cc55ebb719e250653e38",
+  "batch_policy": "GNINA internally resets reported random seed for each ligand; same ordered complete library in each batch",
+  "comparison_limits": "Scores not compared as affinity across targets; fast-CNN scores not numerically comparable with previous builtin-default ensemble",
+  "targets": {
+    "ACHE_4EY7": {
+      "config": {
+        "target_id": "ACHE_4EY7",
+        "pdb": "4EY7",
+        "chain": "B",
+        "ligand": "E20",
+        "receptor": "targets/ACHE_4EY7/receptor_H.pdb",
+        "native_reference": "targets/ACHE_4EY7/native_reference.sdf",
+        "redock_input": "targets/ACHE_4EY7/redock_input.sdf",
+        "center": [
+          10.634,
+          -56.163,
+          -23.872999999999998
+        ],
+        "size": [
+          22.0,
+          26.753999999999998,
+          22.0
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "donepezil tertiary amine protonated +1; reference stereochemistry from deposited coordinates",
+        "near_site_missing_residue_warning": false
+      },
+      "receptor_sha256": "9831d215962131c83b50c6b9ff9e3f965fb29019de1a1358ce9fe3b7e4819e2b",
+      "reference_sha256": "6b7e8765fece442c335f65373b2f100912b2de1cfbfe02a38d15b3ead6797c27",
+      "redock_input_sha256": "e22125d96cc49be667c2b5ccf197132cc3f596f403490726e135bd7804f969fc"
+    },
+    "ALOX5_6N2W": {
+      "config": {
+        "target_id": "ALOX5_6N2W",
+        "pdb": "6N2W",
+        "chain": "B",
+        "ligand": "30Z",
+        "receptor": "targets/ALOX5_6N2W/receptor_H.pdb",
+        "native_reference": "targets/ALOX5_6N2W/native_reference.sdf",
+        "redock_input": "targets/ALOX5_6N2W/redock_input.sdf",
+        "center": [
+          35.8675,
+          65.3045,
+          38.4645
+        ],
+        "size": [
+          22.0,
+          22.0,
+          25.676999999999996
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "NDGA neutral deposited reference; engineered stable construct and disordered active-site capping region",
+        "near_site_missing_residue_warning": false
+      },
+      "receptor_sha256": "3759acf4183c6462ed78615cd900fcd978af542f51757f99b578720e2bc0d5b7",
+      "reference_sha256": "bbc4158fb4947b6e7e65b01f074fecf0b303ffebd9d747f51d1a764c0482dd3a",
+      "redock_input_sha256": "03da2b4b37a9a5ead2a221daba8e73b9e25e9f18331f2e391d8ae9504cc10e38"
+    },
+    "CB2_5ZTY": {
+      "config": {
+        "target_id": "CB2_5ZTY",
+        "pdb": "5ZTY",
+        "chain": "A",
+        "ligand": "9JU",
+        "receptor": "targets/CB2_5ZTY/receptor_H.pdb",
+        "native_reference": "targets/CB2_5ZTY/native_reference.sdf",
+        "redock_input": "targets/CB2_5ZTY/redock_input.sdf",
+        "center": [
+          9.8295,
+          0.10049999999999981,
+          -55.286
+        ],
+        "size": [
+          22.0,
+          22.469,
+          22.0
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "AM10257 neutral antagonist; engineered inactive CB2-T4 lysozyme fusion; membrane excluded",
+        "near_site_missing_residue_warning": false
+      },
+      "receptor_sha256": "8b963c71e6e57b5f3b70c93985e3fe3189b368ac48bc0f3f28ecdfd45119dc85",
+      "reference_sha256": "8842161439678e6b9eb97f3c0afd9b1a64efe1c26d0bed16b5527b1f3b91e7d7",
+      "redock_input_sha256": "253c13541fceae82451f88b3e3576fd49bd0a6f353e5945cecc545d0db112995"
+    },
+    "COX2_5IKR": {
+      "config": {
+        "pdb": "5IKR",
+        "ligand": "ID8",
+        "chain": "A",
+        "residue": "601",
+        "center": [
+          38.042,
+          2.131,
+          61.2795
+        ],
+        "size": [
+          22.0,
+          22.0,
+          22.0
+        ],
+        "pH_model": 7.4,
+        "receptor": "targets/COX2_5IKR/receptor_5IKR_AB_COH_H.pdb",
+        "note": "Exploratory rigid-receptor pilot; literature compounds, no GC-MS assignment.",
+        "target_id": "COX2_5IKR",
+        "native_reference": "targets/COX2_5IKR/native_reference.sdf",
+        "redock_input": "targets/COX2_5IKR/redock_input.sdf",
+        "biological_scope": "Inflammation hypothesis; same preparation as prior round"
+      },
+      "receptor_sha256": "3c34460131f95a83cf73d7fb042245ae8988185e5416926cf11e159dc9d5cfb8",
+      "reference_sha256": "da9e9a0288de96d670b759f6d178ca3c196184cc15ffd894106484f5b49d9b0a",
+      "redock_input_sha256": "955e417bae477e2cecff54bc9ed1555b49cc4fb64d2af7e245de404b785e3110"
+    }
+  }
+}

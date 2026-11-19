@@ -1,0 +1,82 @@
+[
+  {
+    "target_id": "EGFR_1M17",
+    "reference_self_RMSD_A": 0.0,
+    "reference_translated_10A_RMSD_A": 10.0,
+    "atom_reordered_reference_RMSD_A": 0.0,
+    "native_identity_key": "AAKJLRGGTJKAMG-UHFFFAOYSA-N",
+    "native_charge_bond_H_graph_key": "C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1",
+    "independent_input_same_charge_bond_H_graph": true,
+    "status": "PASS"
+  },
+  {
+    "target_id": "GYRB_1KZN",
+    "reference_self_RMSD_A": 0.0,
+    "reference_translated_10A_RMSD_A": 10.0,
+    "atom_reordered_reference_RMSD_A": 0.0,
+    "native_identity_key": "FJAQNRBDVKIIKK-LFLQOBSNSA-N",
+    "native_charge_bond_H_graph_key": "COC1C(OC(=O)c2ccc(C)[nH]2)C(O)C(Oc2ccc3c(O)c(NC(=O)c4ccc(O)c(CC=C(C)C)c4)c(=O)oc3c2Cl)OC1(C)C",
+    "independent_input_same_charge_bond_H_graph": true,
+    "status": "PASS"
+  },
+  {
+    "target_id": "KEAP1_4XMB",
+    "reference_self_RMSD_A": 0.0,
+    "reference_translated_10A_RMSD_A": 10.0,
+    "atom_reordered_reference_RMSD_A": 0.0,
+    "native_identity_key": "ZUIXHSIMKQZYPV-UHFFFAOYSA-N",
+    "native_charge_bond_H_graph_key": "COc1ccc(S(=O)(=O)N(CC(N)=O)c2ccc(N(CC(N)=O)S(=O)(=O)c3ccc(OC)cc3)c3ccccc23)cc1",
+    "independent_input_same_charge_bond_H_graph": true,
+    "status": "PASS"
+  },
+  {
+    "target_id": "MAOA_2Z5X",
+    "reference_self_RMSD_A": 0.0,
+    "reference_translated_10A_RMSD_A": 10.0,
+    "atom_reordered_reference_RMSD_A": 0.0,
+    "native_identity_key": "BXNJHAXVSOCGBA-UHFFFAOYSA-O",
+    "native_charge_bond_H_graph_key": "COc1ccc2c(c1)[nH]c1c(C)[nH+]ccc12",
+    "independent_input_same_charge_bond_H_graph": true,
+    "status": "PASS"
+  },
+  {
+    "target_id": "MAOB_2V61",
+    "reference_self_RMSD_A": 0.0,
+    "reference_translated_10A_RMSD_A": 10.0,
+    "atom_reordered_reference_RMSD_A": 0.0,
+    "native_identity_key": "JMGUSOLCNQVZCT-UHFFFAOYSA-N",
+    "native_charge_bond_H_graph_key": "CNCc1cc(=O)oc2cc(OCc3cccc(Cl)c3)ccc12",
+    "independent_input_same_charge_bond_H_graph": true,
+    "status": "PASS"
+  },
+  {
+    "target_id": "PARP1_7KK4",
+    "reference_self_RMSD_A": 0.0,
+    "reference_translated_10A_RMSD_A": 10.0,
+    "atom_reordered_reference_RMSD_A": 0.0,
+    "native_identity_key": "FDLYAMZZIXQODN-UHFFFAOYSA-N",
+    "native_charge_bond_H_graph_key": "O=C(c1cc(Cc2n[nH]c(=O)c3ccccc23)ccc1F)N1CCN(C(=O)C2CC2)CC1",
+    "independent_input_same_charge_bond_H_graph": true,
+    "status": "PASS"
+  },
+  {
+    "target_id": "SEH_3ANS",
+    "reference_self_RMSD_A": 0.0,
+    "reference_translated_10A_RMSD_A": 10.0,
+    "atom_reordered_reference_RMSD_A": 0.0,
+    "native_identity_key": "RPFFDFASGIBGIP-CVEARBPZSA-N",
+    "native_charge_bond_H_graph_key": "N#Cc1ccc(C(=O)NC2CC2c2ccccc2)cc1",
+    "independent_input_same_charge_bond_H_graph": true,
+    "status": "PASS"
+  },
+  {
+    "target_id": "TYRS_1JIL",
+    "reference_self_RMSD_A": 0.0,
+    "reference_translated_10A_RMSD_A": 10.0,
+    "atom_reordered_reference_RMSD_A": 0.0,
+    "native_identity_key": "KUCHJUZRDGYEDY-HRNUQJICSA-N",
+    "native_charge_bond_H_graph_key": "CC1OC(C(NC(=O)C([NH3+])Cc2ccc(O)cc2)C(=O)[O-])C(O)C(O)C1O",
+    "independent_input_same_charge_bond_H_graph": true,
+    "status": "PASS"
+  }
+]

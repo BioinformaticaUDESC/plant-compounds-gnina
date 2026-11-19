@@ -1,0 +1,18 @@
+{
+  "execution_date_local": "2026-10-25",
+  "timezone": "America/Sao_Paulo",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "mode": "CPU",
+  "GNINA_CPUs_per_job": 4,
+  "maximum_simultaneous_GNINA_jobs": 2,
+  "GPU_used": false,
+  "report_packages": {
+    "reportlab": "4.4.9",
+    "matplotlib": "3.10.8",
+    "Pillow": "12.3.0",
+    "pdfplumber": "0.11.9"
+  },
+  "calculation_environment_lock": "requirements-analysis.lock",
+  "report_environment_lock": "requirements-report.lock"
+}

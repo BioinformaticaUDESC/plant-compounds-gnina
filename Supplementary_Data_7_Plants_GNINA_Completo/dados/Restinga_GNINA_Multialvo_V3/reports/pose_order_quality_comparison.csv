@@ -1,0 +1,4 @@
+target_id,top1_observations,Energy_top1_with_flags,best_CNNscore_in_exported_Energy_pool_with_flags,note
+ACHE_4EY7,177,4,4,CNN comparison restricted to Energy-exported pool; not a second independent sampling run
+CB2_5ZTY,177,3,3,CNN comparison restricted to Energy-exported pool; not a second independent sampling run
+COX2_5IKR,177,15,27,CNN comparison restricted to Energy-exported pool; not a second independent sampling run

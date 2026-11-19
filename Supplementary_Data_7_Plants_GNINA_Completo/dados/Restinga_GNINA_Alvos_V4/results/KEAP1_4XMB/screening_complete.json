@@ -1,0 +1,11 @@
+{
+  "target_id": "KEAP1_4XMB",
+  "inputs_per_seed": 59,
+  "seeds": [
+    42,
+    142,
+    242
+  ],
+  "exported_poses": 3540,
+  "status": "COMPLETE_EXPLORATORY"
+}

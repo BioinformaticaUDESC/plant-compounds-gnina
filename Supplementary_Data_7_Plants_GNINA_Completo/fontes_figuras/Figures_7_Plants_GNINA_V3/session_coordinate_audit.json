@@ -1,0 +1,116 @@
+[
+  {
+    "target_id": "COX2_5IKR",
+    "kind": "native",
+    "heavy_atoms": 18,
+    "maximum_absolute_coordinate_difference_A": 3.1616210947049694e-06
+  },
+  {
+    "target_id": "COX2_5IKR",
+    "kind": "candidate",
+    "heavy_atoms": 15,
+    "maximum_absolute_coordinate_difference_A": 1.7761230495239033e-06
+  },
+  {
+    "target_id": "ACHE_4EY7",
+    "kind": "native",
+    "heavy_atoms": 28,
+    "maximum_absolute_coordinate_difference_A": 1.782226561886091e-06
+  },
+  {
+    "target_id": "ACHE_4EY7",
+    "kind": "candidate",
+    "heavy_atoms": 15,
+    "maximum_absolute_coordinate_difference_A": 1.702880858545086e-06
+  },
+  {
+    "target_id": "CB2_5ZTY",
+    "kind": "native",
+    "heavy_atoms": 31,
+    "maximum_absolute_coordinate_difference_A": 1.8310546892053026e-06
+  },
+  {
+    "target_id": "CB2_5ZTY",
+    "kind": "candidate",
+    "heavy_atoms": 16,
+    "maximum_absolute_coordinate_difference_A": 1.9042968730786924e-06
+  },
+  {
+    "target_id": "SEH_3ANS",
+    "kind": "native",
+    "heavy_atoms": 20,
+    "maximum_absolute_coordinate_difference_A": 3.7353515693894224e-06
+  },
+  {
+    "target_id": "SEH_3ANS",
+    "kind": "candidate",
+    "heavy_atoms": 16,
+    "maximum_absolute_coordinate_difference_A": 3.723144530454192e-06
+  },
+  {
+    "target_id": "KEAP1_4XMB",
+    "kind": "native",
+    "heavy_atoms": 42,
+    "maximum_absolute_coordinate_difference_A": 9.460449206244448e-07
+  },
+  {
+    "target_id": "KEAP1_4XMB",
+    "kind": "candidate",
+    "heavy_atoms": 16,
+    "maximum_absolute_coordinate_difference_A": 9.460449206244448e-07
+  },
+  {
+    "target_id": "PARP1_7KK4",
+    "kind": "native",
+    "heavy_atoms": 32,
+    "maximum_absolute_coordinate_difference_A": 8.911132809430455e-07
+  },
+  {
+    "target_id": "PARP1_7KK4",
+    "kind": "candidate",
+    "heavy_atoms": 15,
+    "maximum_absolute_coordinate_difference_A": 9.399414047095433e-07
+  },
+  {
+    "target_id": "TYRS_1JIL",
+    "kind": "native",
+    "heavy_atoms": 27,
+    "maximum_absolute_coordinate_difference_A": 3.723144530454192e-06
+  },
+  {
+    "target_id": "TYRS_1JIL",
+    "kind": "candidate",
+    "heavy_atoms": 16,
+    "maximum_absolute_coordinate_difference_A": 3.7597656188381734e-06
+  },
+  {
+    "target_id": "ALOX5_6N2W",
+    "kind": "native",
+    "heavy_atoms": 22,
+    "maximum_absolute_coordinate_difference_A": 3.6132812510913936e-06
+  },
+  {
+    "target_id": "MAOA_2Z5X",
+    "kind": "native",
+    "heavy_atoms": 16,
+    "maximum_absolute_coordinate_difference_A": 1.8554687528649083e-06
+  },
+  {
+    "target_id": "MAOB_2V61",
+    "kind": "native",
+    "heavy_atoms": 23,
+    "maximum_absolute_coordinate_difference_A": 6.616210924903498e-06
+  },
+  {
+    "target_id": "EGFR_1M17",
+    "kind": "native",
+    "heavy_atoms": 29,
+    "maximum_absolute_coordinate_difference_A": 1.861572265227096e-06
+  },
+  {
+    "target_id": "GYRB_1KZN",
+    "kind": "native",
+    "heavy_atoms": 49,
+    "maximum_absolute_coordinate_difference_A": 1.8493652333972932e-06
+  }
+]

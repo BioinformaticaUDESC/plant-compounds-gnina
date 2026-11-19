@@ -1,0 +1,13 @@
+{
+  "target_id": "ALOX5_6N2W",
+  "runs": 5,
+  "top1_passes": 0,
+  "required_passes": 4,
+  "median_top1_RMSD_A": 3.5486968925226625,
+  "prespecified_rule": "Energy_top1_heavy_atom_symmetry_fixed_frame_RMSD_le_2A_in_at_least_4_of_5_seeds",
+  "geometry_status": "FAIL",
+  "screening_eligible": false,
+  "limits": "NDGA neutral deposited reference; engineered stable construct and disordered active-site capping region",
+  "input_chemical_key": "HCZKYJDFEPMADG-RYUDHWBXSA-N",
+  "reference_chemical_key": "HCZKYJDFEPMADG-RYUDHWBXSA-N"
+}

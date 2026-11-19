@@ -1,0 +1,13 @@
+{
+  "target_id": "SEH_3ANS",
+  "runs": 5,
+  "top1_passes": 5,
+  "required_passes": 4,
+  "median_top1_RMSD_A": 1.2334339564808492,
+  "prespecified_rule": "Energy_top1_heavy_atom_symmetry_fixed_frame_RMSD_le_2A_in_at_least_4_of_5_seeds",
+  "geometry_status": "PASS",
+  "screening_eligible": true,
+  "limits": "Human soluble epoxide hydrolase C-terminal catalytic domain; neutral S38 reference; no full-length dynamics",
+  "input_chemical_key": "RPFFDFASGIBGIP-CVEARBPZSA-N",
+  "reference_chemical_key": "RPFFDFASGIBGIP-CVEARBPZSA-N"
+}

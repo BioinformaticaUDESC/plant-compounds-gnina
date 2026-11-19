@@ -1,0 +1,247 @@
+[
+  {
+    "path": "raw/09L_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/09L",
+    "sha256": "23f2b753ab813f1eee529cbdd337a0c2876e108bbafa080209f0b67d8cfe5113"
+  },
+  {
+    "path": "raw/09L_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/09L_ideal.sdf",
+    "sha256": "bfefcecea9f3e8ba21ac690c8b5683b4ffb9b419e4d6d8630351975364742fc6"
+  },
+  {
+    "path": "raw/1JIJ.pdb",
+    "url": "https://files.rcsb.org/download/1JIJ.pdb",
+    "sha256": "aa36a1f609c70eb9ee2328804873d5f6808fea7fb155f44d6be20049d5d3c03b"
+  },
+  {
+    "path": "raw/1JIJ_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/1JIJ",
+    "sha256": "1cd6fe3a603991b368320cb7c401be677479f18448b93fd1d93050a96707ea6e"
+  },
+  {
+    "path": "raw/1JIL.pdb",
+    "url": "https://files.rcsb.org/download/1JIL.pdb",
+    "sha256": "c2d29cb19b07a73ef0dcc3f49161b4dfb7073baaed0f0c5bc70eb134277efd30"
+  },
+  {
+    "path": "raw/1JIL_assembly1.pdb",
+    "url": "https://files.rcsb.org/download/1JIL.pdb1.gz",
+    "sha256": "7a8d6f51bd4c01bdb1b09a2ce9099c4ccb3aeb969255ad0a0144327033bfb83e"
+  },
+  {
+    "path": "raw/1JIL_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/1JIL",
+    "sha256": "f30d586068a330c80d76a85b30408a5d16069b7b4c023707b9a36e8fb29c8558"
+  },
+  {
+    "path": "raw/1KZN.pdb",
+    "url": "https://files.rcsb.org/download/1KZN.pdb",
+    "sha256": "72b1846c3c49716b610619fa19f5bdaf0a7813b4449fb7a80cb4f5f7a21e669a"
+  },
+  {
+    "path": "raw/1KZN_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/1KZN",
+    "sha256": "ec46b2255d67a4a53adf33d84e8bf8a48e18e00d50daa5387008f6953621ffb4"
+  },
+  {
+    "path": "raw/1M17.pdb",
+    "url": "https://files.rcsb.org/download/1M17.pdb",
+    "sha256": "5b020cd186307d657de80611793554b074f6936a3443d33f81d9b1a58004962e"
+  },
+  {
+    "path": "raw/1M17_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/1M17",
+    "sha256": "fd0c60f0e838d264d1049b6a0a751ddfc71b48eb87215fd35d57cdaaf8d92e12"
+  },
+  {
+    "path": "raw/1VV_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/1VV",
+    "sha256": "1954ff2de755e254562d2fd7ff2406cc933b51239bb9b69385819a7002fae4e4"
+  },
+  {
+    "path": "raw/1VV_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/1VV_ideal.sdf",
+    "sha256": "8691515edfe5e22cb5ec59aee032faed6f630156dd8223a3a8bfabe07670fec9"
+  },
+  {
+    "path": "raw/2V5Z.pdb",
+    "url": "https://files.rcsb.org/download/2V5Z.pdb",
+    "sha256": "c1d6b36bd06b4f761d96060108be9edef6adbdbd92aa7c2109587ed5b569a9d8"
+  },
+  {
+    "path": "raw/2V5Z_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/2V5Z",
+    "sha256": "523f691f58ad11fddbc7fe6ee7613a1b8ce5f9f101c2ce9589658923dbdae31b"
+  },
+  {
+    "path": "raw/2V61.pdb",
+    "url": "https://files.rcsb.org/download/2V61.pdb",
+    "sha256": "fb1adb03960d923ff016b889f76f4c60be2b8e33714601c966babb114ff44c00"
+  },
+  {
+    "path": "raw/2V61_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/2V61",
+    "sha256": "7710cd7870827f8a9eb2177aee543a96ef6ff310f993fc36e0716302739efece"
+  },
+  {
+    "path": "raw/2Z5X.pdb",
+    "url": "https://files.rcsb.org/download/2Z5X.pdb",
+    "sha256": "879a8f5c564a1cd5d10bb3a76a7333b3b2553811bf8cc4d658905160a5c8dbcb"
+  },
+  {
+    "path": "raw/2Z5X_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/2Z5X",
+    "sha256": "2ab128ce2aa2d7e5d3e81e860ecd080b8d2ea9e475c0f48e1fe3f8b0614c5e4a"
+  },
+  {
+    "path": "raw/3ANS.pdb",
+    "url": "https://files.rcsb.org/download/3ANS.pdb",
+    "sha256": "b3bdacf6098a021307991359535436759e8825fc9598760a3b99442f303c7340"
+  },
+  {
+    "path": "raw/3ANS_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/3ANS",
+    "sha256": "a03a1bfc97c5620d403e8f205e5c79eaf1f2067bb60ffaba2e43d84927611fca"
+  },
+  {
+    "path": "raw/41P_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/41P",
+    "sha256": "294cc2ed05d832992df609def53b622666b1629a05ed3f79efe706a98d191704"
+  },
+  {
+    "path": "raw/41P_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/41P_ideal.sdf",
+    "sha256": "8d711ea53bac130ec895fb7b2f0021ecc40e7b33326206248dc87c7af191fd80"
+  },
+  {
+    "path": "raw/485_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/485",
+    "sha256": "fdb26e0474e3ae6e5954892a2c3df068601ded0bd786baa8039072768e82b69f"
+  },
+  {
+    "path": "raw/485_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/485_ideal.sdf",
+    "sha256": "08ed5d3aa1445ba3eee4ab6841676222d1603d6198cc79412bda5ec1a0539dc6"
+  },
+  {
+    "path": "raw/4L7B.pdb",
+    "url": "https://files.rcsb.org/download/4L7B.pdb",
+    "sha256": "8679c17f2c89ab2713df0a667650218060a6c0d81f9882460632fa0cbc455da9"
+  },
+  {
+    "path": "raw/4L7B_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/4L7B",
+    "sha256": "f3f2759f7a71a5b47493a55fda260908f8c781fd209e3804b04dbd501943c33f"
+  },
+  {
+    "path": "raw/4XMB.pdb",
+    "url": "https://files.rcsb.org/download/4XMB.pdb",
+    "sha256": "d14d1ca507385ca749ea983cfdeccd2fcc0bdb7fb9c3d859a82930760bea7a53"
+  },
+  {
+    "path": "raw/4XMB_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/4XMB",
+    "sha256": "132ddd79d8a4c2125e237e45c6057386190c1e0351530fb5eb72057193703b0b"
+  },
+  {
+    "path": "raw/6HWS.pdb",
+    "url": "https://files.rcsb.org/download/6HWS.pdb",
+    "sha256": "9117fb3c5f2bba05f581500fc444f88fdf0af2a2aa06f5615d662b7e94002415"
+  },
+  {
+    "path": "raw/6HWS_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/6HWS",
+    "sha256": "41879b580fac75e1bb8e1ea5fa1603671c2a51c9fd7030424cde1552a20575bb"
+  },
+  {
+    "path": "raw/7KK4.pdb",
+    "url": "https://files.rcsb.org/download/7KK4.pdb",
+    "sha256": "0b070495586f6210cf6ca766efaef8a6511864493505c570a7d09ede87a40c46"
+  },
+  {
+    "path": "raw/7KK4_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/7KK4",
+    "sha256": "7d4744e8222edeeed0a983f9363599abbeb365c0d260dbdb4a90484bbea3a361"
+  },
+  {
+    "path": "raw/AQ4_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/AQ4",
+    "sha256": "5bcfc4bdb92580edb927e131314355abd6b294fd29042c07b671150294aab7b3"
+  },
+  {
+    "path": "raw/AQ4_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/AQ4_ideal.sdf",
+    "sha256": "ca37d8bf0aaab94e2e0d6fdbe1c74b9399038e29fbf37a34ed773c12fa0a77b9"
+  },
+  {
+    "path": "raw/C18_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/C18",
+    "sha256": "16646f46ad0cec5f74afb50367e32c07cbe308ebf71221a153b879cfd78e1912"
+  },
+  {
+    "path": "raw/C18_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/C18_ideal.sdf",
+    "sha256": "340b25c4cd304919b63052db2dce7a1d32305b1ae36d72b25aa1512cb6d9c95f"
+  },
+  {
+    "path": "raw/CBN_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/CBN",
+    "sha256": "557920baaf218a4449f17644a4b1c099f0424bdf97e30f0f67ec1867f76de266"
+  },
+  {
+    "path": "raw/CBN_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/CBN_ideal.sdf",
+    "sha256": "341da7b301216d871b9bdad1a322a5dc1af6e3c2b545ec69ce3c5bd9e8b2a694"
+  },
+  {
+    "path": "raw/FAD_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/FAD",
+    "sha256": "66894f9d73e7211032f0abd6e53cf095d3c414a382c1d3d269fc63c68aece884"
+  },
+  {
+    "path": "raw/FAD_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/FAD_ideal.sdf",
+    "sha256": "9a6e71dd91b605796a5d8f6fb02f90247b2a8da675421c8dc69b645741a97205"
+  },
+  {
+    "path": "raw/GX8_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/GX8",
+    "sha256": "d5e649d23a2dfe37d4b668d90b14fe1d422f4478e9203244a53703780445c8ba"
+  },
+  {
+    "path": "raw/GX8_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/GX8_ideal.sdf",
+    "sha256": "9291baec700f1faae3d0478f942ef3839e525f2b04f008069dd647bff049db07"
+  },
+  {
+    "path": "raw/HRM_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/HRM",
+    "sha256": "b2387c67d252bcbdef9fe0df0030902fc8bb7892454677b187f0bbcaae3dc0a4"
+  },
+  {
+    "path": "raw/HRM_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/HRM_ideal.sdf",
+    "sha256": "52ee506027cdce48979df6375c0fd999e3b40410db0a7ca2f61b6aca0e1d63cd"
+  },
+  {
+    "path": "raw/S38_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/S38",
+    "sha256": "744891f34221d01d1e258678d3107ab4e252c52fbf104792b4be272c8dbaefef"
+  },
+  {
+    "path": "raw/S38_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/S38_ideal.sdf",
+    "sha256": "2fc841da66d054c52a565a0d1157c0d77bfb7f5d2ce50d00ca4aea8098844b2f"
+  },
+  {
+    "path": "raw/SAG_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/SAG",
+    "sha256": "d8f4ebc014b29bdcdfc666d08b3d7d252c0000ef4b6959cb90c726a9196cb65a"
+  },
+  {
+    "path": "raw/SAG_ideal.sdf",
+    "url": "https://files.rcsb.org/ligands/download/SAG_ideal.sdf",
+    "sha256": "78e4a25ede1e9b3cabde14f4e74726d56fb51357c495d7cb6a9bf2c715fad814"
+  }
+]

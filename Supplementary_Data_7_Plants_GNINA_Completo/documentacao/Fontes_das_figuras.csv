@@ -1,0 +1,4 @@
+figure,original_source,composition_source,editable_source,provenance
+3 e 4 e S1 e S2,fontes_figuras/Figures_7_Plants_GNINA_V3/render_pymol.py,fontes_figuras/Figures_7_Plants_GNINA_V3/compose_pymol_figures.py,fontes_figuras/Figures_7_Plants_GNINA_V3/sessions/*.pse,Original archived scripts and all 19 sessions; molecular coordinates unchanged
+5 e S3–S7,fontes_figuras/Figures_7_Plants_GNINA_V3/build_molecule_figures.py,same script,fontes_figuras/Figures_7_Plants_GNINA_V3/molecules/*.svg,"Original archived script, 51 SVG and 51 PNG, declared SMILES and InChIKeys"
+2,Historical plotting source not recovered,fontes_figuras/Figura_2_reconstituida/rebuild_figure2.py,fontes_figuras/Figura_2_reconstituida/reconstructed/Figure_2_Rank_Map_Reconstructed.svg,"New reconstruction 2026-10-30; 224 ranks checked exactly; original embedded image retained separately, no pixel-identity claim"

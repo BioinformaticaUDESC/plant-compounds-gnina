@@ -1,0 +1,22 @@
+{
+  "target_id": "KEAP1_4XMB",
+  "pdb": "4XMB",
+  "chain": "A",
+  "ligand": "41P",
+  "receptor": "targets/KEAP1_4XMB/receptor_H.pdb",
+  "native_reference": "targets/KEAP1_4XMB/native_reference.sdf",
+  "redock_input": "targets/KEAP1_4XMB/redock_input.sdf",
+  "center": [
+    4.652,
+    0.47799999999999976,
+    -23.6595
+  ],
+  "size": [
+    22.0,
+    22.490000000000002,
+    24.315
+  ],
+  "pH_model": 7.4,
+  "preparation_note": "Human wild-type Kelch domain; native neutral diamide41P; noncovalent NRF2-binding-pocket hypothesis only, no electrophilic Cys151 mechanism; no missing standard sidechain heavy atoms",
+  "near_site_missing_residue_warning": false
+}

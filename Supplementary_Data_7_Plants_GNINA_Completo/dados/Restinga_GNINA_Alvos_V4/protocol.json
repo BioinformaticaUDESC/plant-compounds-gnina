@@ -1,0 +1,191 @@
+{
+  "GNINA_version": "gnina v1.3.3 master:6fe1ce2   Built Jun 30 2026.",
+  "binary_sha256": "3340c1f49cd3c7c84d8699182a1c6af13c7fa2a22448d1204640446106f72172",
+  "cnn_scoring": "rescore",
+  "cnn_model": "fast_builtin_pinned_GNINA_1.3.3",
+  "primary_pose_order": "Energy",
+  "exhaustiveness": 16,
+  "num_modes": 20,
+  "cpu": 4,
+  "gpu": false,
+  "docking_seeds": [
+    42,
+    142,
+    242
+  ],
+  "redocking_seeds": [
+    101,
+    202,
+    303,
+    404,
+    505
+  ],
+  "redocking_rule": "top1_fixed_frame_symmetry_heavy_atom_RMSD<=2A_in_at_least_4/5_seeds",
+  "library_manifest_sha256": "4533ddf0c82549eee3b1e4e0520b2f1be9b15dc82bfa5a0bf15eb457ec1daa54",
+  "batch_policy": "GNINA internally resets reported random seed for each ligand; same ordered complete library in each batch",
+  "comparison_limits": "Scores not compared as affinity across targets; fast-CNN scores not numerically comparable with previous builtin-default ensemble",
+  "targets": {
+    "EGFR_1M17": {
+      "config": {
+        "target_id": "EGFR_1M17",
+        "pdb": "1M17",
+        "chain": "A",
+        "ligand": "AQ4",
+        "receptor": "targets/EGFR_1M17/receptor_H.pdb",
+        "native_reference": "targets/EGFR_1M17/native_reference.sdf",
+        "redock_input": "targets/EGFR_1M17/redock_input.sdf",
+        "center": [
+          21.697499999999998,
+          0.30299999999999994,
+          52.0925
+        ],
+        "size": [
+          27.709,
+          22.0,
+          22.0
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "Human EGFR kinase domain; erlotinib-bound active-like state, no resistance mutations or cellular ATP competition modeled",
+        "near_site_missing_residue_warning": false
+      },
+      "receptor_sha256": "9139a56a435c4e9464036a9959021567e0cd99bd9eba52738c20d89fec46f539",
+      "reference_sha256": "44438b45ff9ffca240ab47a5035cc80d43326bb0353c2a76ab8784f1e6f41b8d",
+      "redock_input_sha256": "461596aae6c4849f7095ca1ee0c1a9819305543bed7172b21f9f1d93dff42aaa"
+    },
+    "GYRB_1KZN": {
+      "config": {
+        "target_id": "GYRB_1KZN",
+        "pdb": "1KZN",
+        "chain": "A",
+        "ligand": "CBN",
+        "receptor": "targets/GYRB_1KZN/receptor_H.pdb",
+        "native_reference": "targets/GYRB_1KZN/native_reference.sdf",
+        "redock_input": "targets/GYRB_1KZN/redock_input.sdf",
+        "center": [
+          18.325000000000003,
+          30.783,
+          36.7615
+        ],
+        "size": [
+          22.0,
+          26.081999999999997,
+          26.489
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "Escherichia coli GyrB 24kDa ATPase-domain pocket; deposited neutral clorobiocin state retained as explicit approximation; not whole-cell antimicrobial efficacy",
+        "near_site_missing_residue_warning": true
+      },
+      "receptor_sha256": "665a4950fd032f725406632fff00dfc39334202e9846811f89200c99b456648a",
+      "reference_sha256": "7f3e51063ed9d9ba6cbf6499001422305c8a84b806256c2389186e474e53f1cf",
+      "redock_input_sha256": "0b6667c8a480615b857879b2b2a500791647798ae324964b9124b712e48d49b7"
+    },
+    "KEAP1_4XMB": {
+      "config": {
+        "target_id": "KEAP1_4XMB",
+        "pdb": "4XMB",
+        "chain": "A",
+        "ligand": "41P",
+        "receptor": "targets/KEAP1_4XMB/receptor_H.pdb",
+        "native_reference": "targets/KEAP1_4XMB/native_reference.sdf",
+        "redock_input": "targets/KEAP1_4XMB/redock_input.sdf",
+        "center": [
+          4.652,
+          0.47799999999999976,
+          -23.6595
+        ],
+        "size": [
+          22.0,
+          22.490000000000002,
+          24.315
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "Human wild-type Kelch domain; native neutral diamide41P; noncovalent NRF2-binding-pocket hypothesis only, no electrophilic Cys151 mechanism; no missing standard sidechain heavy atoms",
+        "near_site_missing_residue_warning": false
+      },
+      "receptor_sha256": "5bfcb84dbd2e8e26fdf6b6c722908bfe115b4d72a2819118b8aaf10980326a34",
+      "reference_sha256": "14b886c25150584faac243dc36ff2f35227699c4b80da9fc44febd6f2d1a1ef5",
+      "redock_input_sha256": "009cb5bd3d449a6783a1feaa2fef647c3b296868964f8cc146bfda999f4d14a4"
+    },
+    "MAOA_2Z5X": {
+      "config": {
+        "target_id": "MAOA_2Z5X",
+        "pdb": "2Z5X",
+        "chain": "A",
+        "ligand": "HRM",
+        "receptor": "targets/MAOA_2Z5X/receptor_H.pdb",
+        "native_reference": "targets/MAOA_2Z5X/native_reference.sdf",
+        "redock_input": "targets/MAOA_2Z5X/redock_input.sdf",
+        "center": [
+          41.126000000000005,
+          26.795499999999997,
+          -15.023
+        ],
+        "size": [
+          22.0,
+          22.0,
+          22.0
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "Monoamine oxidase A; deposited monomer, oxidized covalent FAD retained; no membrane or redox model",
+        "near_site_missing_residue_warning": false
+      },
+      "receptor_sha256": "3a71470d9d04c89fbcdc6f0d8706066b9c26beeda000bd3d3d309600ba2e5d2c",
+      "reference_sha256": "dcd097de564fdd8f4745fff7f0a271d429074b1ec723c44287e50dd79fcefa43",
+      "redock_input_sha256": "f878944f39bc18abcb22af70ed3e17f9e150021819ab7bd78b474769381fd07b"
+    },
+    "MAOB_2V61": {
+      "config": {
+        "target_id": "MAOB_2V61",
+        "pdb": "2V61",
+        "chain": "A",
+        "ligand": "C18",
+        "receptor": "targets/MAOB_2V61/receptor_H.pdb",
+        "native_reference": "targets/MAOB_2V61/native_reference.sdf",
+        "redock_input": "targets/MAOB_2V61/redock_input.sdf",
+        "center": [
+          50.584,
+          155.807,
+          28.189
+        ],
+        "size": [
+          22.0,
+          22.0,
+          22.0
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "Monoamine oxidase B; C18 coumarin-related reference with exact deposited CCD connectivity retained, not reconstructed from common name; chain A of dimer and oxidized covalent FAD; no membrane or redox model",
+        "near_site_missing_residue_warning": false
+      },
+      "receptor_sha256": "13ffc21a99ca1e0ce41bc9918afab9dbf9978726bb5cbfda618b03693eb93c44",
+      "reference_sha256": "d29c61769b5b6d70b27732c2b4850d2a4d58a356ec147ebfb3fa72374fc00fe2",
+      "redock_input_sha256": "c2db884269a6fa6c6bac26170ca74a1c4f335e5e54eada34b0669b42401aeb11"
+    },
+    "SEH_3ANS": {
+      "config": {
+        "target_id": "SEH_3ANS",
+        "pdb": "3ANS",
+        "chain": "A",
+        "ligand": "S38",
+        "receptor": "targets/SEH_3ANS/receptor_H.pdb",
+        "native_reference": "targets/SEH_3ANS/native_reference.sdf",
+        "redock_input": "targets/SEH_3ANS/redock_input.sdf",
+        "center": [
+          25.5685,
+          24.975,
+          116.25450000000001
+        ],
+        "size": [
+          22.649,
+          22.0,
+          22.0
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "Human soluble epoxide hydrolase C-terminal catalytic domain; neutral S38 reference; no full-length dynamics",
+        "near_site_missing_residue_warning": false
+      },
+      "receptor_sha256": "94711ebef4bf8b4f792e73d164e7ed5c6d1dcf823aa05646deec2481ab9c8b10",
+      "reference_sha256": "9f68e5b70fd7de3c70e9158fe979dee788d12a0fd12d13075b3e957ebb300b59",
+      "redock_input_sha256": "1d7a681608efa1b78bcef17b167052426091829c4a441ec80f1cb4b33e94feab"
+    }
+  }
+}

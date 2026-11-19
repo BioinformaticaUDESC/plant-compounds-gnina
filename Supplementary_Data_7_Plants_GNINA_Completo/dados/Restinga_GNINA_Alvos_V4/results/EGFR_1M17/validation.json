@@ -1,0 +1,13 @@
+{
+  "target_id": "EGFR_1M17",
+  "runs": 5,
+  "top1_passes": 1,
+  "required_passes": 4,
+  "median_top1_RMSD_A": 7.824838136653537,
+  "prespecified_rule": "Energy_top1_heavy_atom_symmetry_fixed_frame_RMSD_le_2A_in_at_least_4_of_5_seeds",
+  "geometry_status": "FAIL",
+  "screening_eligible": false,
+  "limits": "Human EGFR kinase domain; erlotinib-bound active-like state, no resistance mutations or cellular ATP competition modeled",
+  "input_chemical_key": "AAKJLRGGTJKAMG-UHFFFAOYSA-N",
+  "reference_chemical_key": "AAKJLRGGTJKAMG-UHFFFAOYSA-N"
+}

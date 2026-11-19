@@ -1,0 +1,13 @@
+{
+  "target_id": "TYRS_1JIL",
+  "runs": 5,
+  "top1_passes": 4,
+  "required_passes": 4,
+  "median_top1_RMSD_A": 0.6201512957574375,
+  "prespecified_rule": "Energy_top1_heavy_atom_symmetry_fixed_frame_RMSD_le_2A_in_at_least_4_of_5_seeds",
+  "geometry_status": "PASS",
+  "screening_eligible": true,
+  "limits": "S.aureus tyrosyl-tRNA synthetase catalytic construction; ligandSB284485 amino-acid zwitterion; modeled323/420residues, single protomer, no full tRNA-recognition/dimer dynamics; not whole-cell antibacterial efficacy",
+  "input_chemical_key": "KUCHJUZRDGYEDY-HRNUQJICSA-N",
+  "reference_chemical_key": "KUCHJUZRDGYEDY-HRNUQJICSA-N"
+}

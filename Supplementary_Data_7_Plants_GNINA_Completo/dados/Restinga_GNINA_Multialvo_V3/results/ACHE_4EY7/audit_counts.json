@@ -1,0 +1,18 @@
+{
+  "target_id": "ACHE_4EY7",
+  "input_conformers": 59,
+  "attempted_inputs_including_quarantine": 61,
+  "stereochemical_structures": 51,
+  "compounds": 40,
+  "screening_seeds": 3,
+  "docking_poses": 3540,
+  "all_exported_docking_poses": 3660,
+  "quarantined_docking_poses": 60,
+  "diagnostic_correction_poses_outside_primary": 60,
+  "top1_observations": 177,
+  "top1_with_flags": 4,
+  "top1_without_flags": 173,
+  "input_conformers_all_3_seeds_without_flags": 57,
+  "input_conformers_pairwise_RMSD_le_2A": 49,
+  "audit_limits": "Operational geometry checks; absence of flags does not establish pose validity or biological activity"
+}

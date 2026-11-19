@@ -1,0 +1,22 @@
+{
+  "target_id": "ALOX5_6N2W",
+  "pdb": "6N2W",
+  "chain": "B",
+  "ligand": "30Z",
+  "receptor": "targets/ALOX5_6N2W/receptor_H.pdb",
+  "native_reference": "targets/ALOX5_6N2W/native_reference.sdf",
+  "redock_input": "targets/ALOX5_6N2W/redock_input.sdf",
+  "center": [
+    35.8675,
+    65.3045,
+    38.4645
+  ],
+  "size": [
+    22.0,
+    22.0,
+    25.676999999999996
+  ],
+  "pH_model": 7.4,
+  "preparation_note": "NDGA neutral deposited reference; engineered stable construct and disordered active-site capping region",
+  "near_site_missing_residue_warning": false
+}

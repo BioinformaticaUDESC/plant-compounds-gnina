@@ -1,0 +1,23 @@
+{
+  "pdb": "5IKR",
+  "ligand": "ID8",
+  "chain": "A",
+  "residue": "601",
+  "center": [
+    38.042,
+    2.131,
+    61.2795
+  ],
+  "size": [
+    22.0,
+    22.0,
+    22.0
+  ],
+  "pH_model": 7.4,
+  "receptor": "targets/COX2_5IKR/receptor_5IKR_AB_COH_H.pdb",
+  "note": "Exploratory rigid-receptor pilot; literature compounds, no GC-MS assignment.",
+  "target_id": "COX2_5IKR",
+  "native_reference": "targets/COX2_5IKR/native_reference.sdf",
+  "redock_input": "targets/COX2_5IKR/redock_input.sdf",
+  "biological_scope": "Inflammation hypothesis; same preparation as prior round"
+}

@@ -1,0 +1,12 @@
+structure_id,endpoint,raw_prediction,vendor_bounds,vendor_units
+alpha-bulnesene,PPBR_AZ,100.46368,0–100,%
+uvaol,PPBR_AZ,104.10309,0–100,%
+erythrodiol,PPBR_AZ,103.75371,0–100,%
+beta-sitosterol,PPBR_AZ,105.93960,0–100,%
+stigmasterol,PPBR_AZ,106.83257,0–100,%
+geranial,VDss_Lombardo,-0.80076,≥0,L/kg
+carvone_isomer1,VDss_Lombardo,-2.33657,≥0,L/kg
+carvone_isomer2,VDss_Lombardo,-1.92127,≥0,L/kg
+quercetin,Half_Life_Obach,-26.11891,≥0,hr
+catechin,Half_Life_Obach,-35.56112,≥0,hr
+myricitrin,Half_Life_Obach,-8.08673,≥0,hr

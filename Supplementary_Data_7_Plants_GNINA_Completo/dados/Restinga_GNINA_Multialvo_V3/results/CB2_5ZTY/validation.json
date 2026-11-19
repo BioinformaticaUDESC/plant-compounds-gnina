@@ -1,0 +1,13 @@
+{
+  "target_id": "CB2_5ZTY",
+  "runs": 5,
+  "top1_passes": 5,
+  "required_passes": 4,
+  "median_top1_RMSD_A": 0.5373964644468734,
+  "prespecified_rule": "Energy_top1_heavy_atom_symmetry_fixed_frame_RMSD_le_2A_in_at_least_4_of_5_seeds",
+  "geometry_status": "PASS",
+  "screening_eligible": true,
+  "limits": "AM10257 neutral antagonist; engineered inactive CB2-T4 lysozyme fusion; membrane excluded",
+  "input_chemical_key": "FMJXYCCDMAGPLE-AFJPGINASA-N",
+  "reference_chemical_key": "FMJXYCCDMAGPLE-AFJPGINASA-N"
+}

@@ -1,0 +1,112 @@
+{
+  "interpretation_policy": "Targets selected to expand mechanistic hypotheses across requested biological themes. No assertion that all species or all compounds experimentally act on these targets. No GC-MS or extract-composition results from project supplied.",
+  "targets": [
+    {
+      "target_id": "MAOA_2Z5X",
+      "name_pt": "Monoamina-oxidase A",
+      "axis_pt": "Neurotransmissão e hipótese relacionada ao humor",
+      "species": "Homo sapiens",
+      "pdb": "2Z5X",
+      "ligand": "HRM / harmina, hipótese monoprotonada +1",
+      "resolution_A": 2.2,
+      "structural_doi": "10.1073/pnas.0710626105",
+      "url": "https://www.rcsb.org/structure/2Z5X",
+      "caution_pt": "Interação prevista não demonstra inibição, exposição cerebral ou atividade antidepressiva. FAD retido, sem membrana ou modelo de reação."
+    },
+    {
+      "target_id": "MAOB_2V61",
+      "name_pt": "Monoamina-oxidase B",
+      "axis_pt": "Neurotransmissão; comparação estrutural com MAO-A",
+      "species": "Homo sapiens",
+      "pdb": "2V61",
+      "ligand": "C18 / derivado cumarínico, conectividade CCD neutra preservada",
+      "resolution_A": 1.7,
+      "structural_doi": "10.1021/jm070677y",
+      "url": "https://www.rcsb.org/structure/2V61",
+      "caution_pt": "Escores de MAO-A e MAO-B não estabelecem seletividade. C18 é a referência depositada, com conectividade conferida; não é safinamida. FAD retido."
+    },
+    {
+      "target_id": "SEH_3ANS",
+      "name_pt": "Epóxido-hidrolase solúvel",
+      "axis_pt": "Metabolismo de mediadores lipídicos e inflamação",
+      "species": "Homo sapiens",
+      "pdb": "3ANS",
+      "ligand": "S38 / inibidor sintético neutro",
+      "resolution_A": 1.98,
+      "structural_doi": "10.1021/jm101273e",
+      "functional_doi": "10.1073/pnas.0503279102",
+      "url": "https://www.rcsb.org/structure/3ANS",
+      "caution_pt": "Domínio catalítico C-terminal; ligação prevista não comprova inibição nem alteração de mediadores lipídicos em células."
+    },
+    {
+      "target_id": "KEAP1_4XMB",
+      "name_pt": "KEAP1, domínio Kelch",
+      "axis_pt": "Resposta celular ao estresse oxidativo via NRF2",
+      "species": "Homo sapiens",
+      "pdb": "4XMB",
+      "ligand": "41P / diamida neutra",
+      "resolution_A": 2.428,
+      "structural_doi": "10.1016/j.ejmech.2015.08.049",
+      "url": "https://www.rcsb.org/structure/4XMB",
+      "caution_pt": "Somente hipótese de ocupação não covalente do sítio de NRF2; não modela modificação de Cys151, ativação de NRF2, neutralização de radicais ou benefício antitumoral. O papel de NRF2 em câncer depende do contexto."
+    },
+    {
+      "target_id": "EGFR_1M17",
+      "name_pt": "EGFR, domínio quinase",
+      "axis_pt": "Sinalização proliferativa e hipótese antitumoral",
+      "species": "Homo sapiens",
+      "pdb": "1M17",
+      "ligand": "AQ4 / erlotinibe neutro",
+      "resolution_A": 2.6,
+      "structural_doi": "10.1074/jbc.M207135200",
+      "url": "https://www.rcsb.org/structure/1M17",
+      "caution_pt": "Domínio em estado ligado a erlotinibe, sem mutações de resistência declaradas; não demonstra citotoxicidade seletiva, inibição funcional ou eficácia anticancerígena."
+    },
+    {
+      "target_id": "GYRB_1KZN",
+      "name_pt": "DNA girase B, domínio ATPase",
+      "axis_pt": "Hipótese de mecanismo antibacteriano",
+      "species": "Escherichia coli",
+      "pdb": "1KZN",
+      "ligand": "CBN / clorobiocina neutra depositada",
+      "resolution_A": 2.3,
+      "structural_doi": "10.1021/bi0159837",
+      "url": "https://www.rcsb.org/structure/1KZN",
+      "caution_pt": "Domínio de24kDa com segmentos ausentes82A-D e101-115; flancos a cerca5,9A do ligante. Não é girase completa nem mede permeabilidade, efluxo, CIM ou efeito bactericida. Estado neutro da clorobiocina é aproximação explícita, sem cálculo de pKa."
+    },
+    {
+      "target_id": "PARP1_7KK4",
+      "name_pt": "PARP1, domínio catalítico",
+      "axis_pt": "Reparo de DNA e hipótese antitumoral",
+      "species": "Homo sapiens",
+      "pdb": "7KK4",
+      "ligand": "09L / olaparibe neutro",
+      "resolution_A": 1.96,
+      "structural_doi": "10.1074/jbc.RA120.016573",
+      "url": "https://www.rcsb.org/structure/7KK4",
+      "selection_round": "V4_B_complementary",
+      "caution_pt": "Domínio catalítico sem mutação declarada; ligação prevista não demonstra inibição, aprisionamento de PARP1 no DNA, letalidade sintética ou seletividade tumoral."
+    },
+    {
+      "target_id": "TYRS_1JIL",
+      "name_pt": "Tirosil-tRNA sintetase",
+      "axis_pt": "Síntese proteica e hipótese antibacteriana",
+      "species": "Staphylococcus aureus",
+      "pdb": "1JIL",
+      "ligand": "485 / SB284485, hipótese zwitteriônica de carga líquida zero",
+      "resolution_A": 2.2,
+      "structural_doi": "10.1110/ps.18001",
+      "url": "https://www.rcsb.org/structure/1JIL",
+      "selection_round": "V4_B_complementary",
+      "caution_pt": "Construção catalítica,323/420resíduos modelados; protômero único, parceiro da montagem biológica a9,91Å do ligante. Não avalia reconhecimento completo de tRNA, permeabilidade, CIM ou ação bactericida."
+    }
+  ],
+  "retained_baseline": [
+    "COX2_5IKR",
+    "ACHE_4EY7",
+    "CB2_5ZTY"
+  ],
+  "failed_baseline_retained": "ALOX5_6N2W: prior failure0/5, no candidate screening; not reoptimized or rerun here",
+  "not_assessed": "Experimental antioxidant capacity, ADMET, hERG/CYP toxicity, safety margins, antidepressant or antitumor efficacy, whole-cell antimicrobial activity, chemical presence or concentration in project samples",
+  "round_policy": "Initial six targets prospectively selected before their outcomes. Complementary PARP1/TyrS selected after initial control outcomes, before their own redocking/candidate results; explicit exploratory scope expansion, no failed targets replaced."
+}

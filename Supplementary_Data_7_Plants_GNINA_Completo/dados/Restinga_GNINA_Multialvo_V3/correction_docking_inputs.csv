@@ -1,0 +1,2 @@
+input_id,structure_id,compound,panel,input_path,conformer_rank,MMFF_energy_kcal_mol,delta_MMFF_kcal_mol,macrocycle,source_conformer_id,sha256
+caryophyllene_oxide_conf03_corrected,caryophyllene_oxide,caryophyllene oxide,volatile_literature_panel,prepared/ligands/caryophyllene_oxide_conf03_corrected.sdf,3,52.55323068906608,0.0,True,10,a8f534a6259cd2ac6f5b6886a89caac77d0d7fbfac1493353a46fc22c23ea611

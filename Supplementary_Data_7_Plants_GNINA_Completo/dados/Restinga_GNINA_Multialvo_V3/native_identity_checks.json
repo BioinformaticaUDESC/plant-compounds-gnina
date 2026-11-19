@@ -1,0 +1,20 @@
+[
+  {
+    "target": "ACHE_4EY7",
+    "reference_uncharged_identity_matches_RCSB_CCD": true,
+    "CCD_InChIKey": "ADEBPBSSDYVVLD-HXUWFJFHSA-N",
+    "screened_reference_charge": 1
+  },
+  {
+    "target": "ALOX5_6N2W",
+    "reference_uncharged_identity_matches_RCSB_CCD": true,
+    "CCD_InChIKey": "HCZKYJDFEPMADG-RYUDHWBXSA-N",
+    "screened_reference_charge": 0
+  },
+  {
+    "target": "CB2_5ZTY",
+    "reference_uncharged_identity_matches_RCSB_CCD": true,
+    "CCD_InChIKey": "FMJXYCCDMAGPLE-AFJPGINASA-N",
+    "screened_reference_charge": 0
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "target_id": "MAOA_2Z5X",
+  "pdb": "2Z5X",
+  "chain": "A",
+  "ligand": "HRM",
+  "receptor": "targets/MAOA_2Z5X/receptor_H.pdb",
+  "native_reference": "targets/MAOA_2Z5X/native_reference.sdf",
+  "redock_input": "targets/MAOA_2Z5X/redock_input.sdf",
+  "center": [
+    41.126000000000005,
+    26.795499999999997,
+    -15.023
+  ],
+  "size": [
+    22.0,
+    22.0,
+    22.0
+  ],
+  "pH_model": 7.4,
+  "preparation_note": "Monoamine oxidase A; deposited monomer, oxidized covalent FAD retained; no membrane or redox model",
+  "near_site_missing_residue_warning": false
+}

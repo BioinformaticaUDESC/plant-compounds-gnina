@@ -1,0 +1,34 @@
+{
+  "study": "Restinga GNINA V4: six additional target systems",
+  "selection_before_any_V4_redocking": true,
+  "target_ids": [
+    "MAOA_2Z5X",
+    "MAOB_2V61",
+    "SEH_3ANS",
+    "KEAP1_4XMB",
+    "EGFR_1M17",
+    "GYRB_1KZN"
+  ],
+  "library": "59 chemically verified conformer inputs, 51 stereochemical structures, 40 literature-derived parents; V3 quarantined input and diagnostic duplicate absent",
+  "inclusion_rule": "First Energy-ranked native pose, fixed-receptor-frame symmetry-aware heavy-atom RMSD <=2 A in at least 4/5 seeds (101,202,303,404,505)",
+  "candidate_screening": "Only systems satisfying the native-redocking gate; all curated inputs, seeds42/142/242; exhaustiveness16,20modes,CNNfast rescore, Energyorder, CPU4, noGPU",
+  "target_selection_changes_before_redocking": [
+    {
+      "initial": "KEAP1_4L7B",
+      "selected": "KEAP1_6HWS",
+      "reason": "R354D engineered mutation in4L7B;6HWS has no declared mutation and1.75Aresolution; deposition source used, associated citation remains to be published"
+    },
+    {
+      "initial": "MAOB_2V5Z",
+      "selected": "MAOB_2V61",
+      "reason": "SAG CCD has imine connectivity despite safinamide synonym; select C18 coumarin-series control from same primary article and preserve exact CCD connectivity instead of reconstructing a common-name drug"
+    },
+    {
+      "initial": "KEAP1_6HWS",
+      "selected": "KEAP1_4XMB",
+      "reason": "6HWS Arg380 lacksCZ,NH1,NH2 with existing residue3.0246Afromnative.4XMB is human wildtype2.428Awith no missing standard heavy sidechain atoms; neutraldiamide41P, associated primarypaper DOI10.1016/j.ejmech.2015.08.049. Selection before all V4 simulations."
+    }
+  ],
+  "retrospective_rule": "No substitution of failed controls based on favorable candidate scores; preserve all failed controls; a later protocol optimization must be a separately named study",
+  "scope": "Target hypotheses, not experimental plant-compound identification, clinical efficacy, antioxidant assay, whole-cell antimicrobial assay, or toxicology"
+}

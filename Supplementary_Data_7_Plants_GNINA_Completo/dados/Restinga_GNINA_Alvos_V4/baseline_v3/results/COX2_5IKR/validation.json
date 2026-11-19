@@ -1,0 +1,13 @@
+{
+  "target_id": "COX2_5IKR",
+  "runs": 5,
+  "top1_passes": 5,
+  "required_passes": 4,
+  "median_top1_RMSD_A": 0.48065008466543396,
+  "prespecified_rule": "Energy_top1_heavy_atom_symmetry_fixed_frame_RMSD_le_2A_in_at_least_4_of_5_seeds",
+  "geometry_status": "PASS",
+  "screening_eligible": true,
+  "limits": "Inflammation hypothesis; same preparation as prior round",
+  "input_chemical_key": "HYYBABOKPJLUIN-UHFFFAOYSA-M",
+  "reference_chemical_key": "HYYBABOKPJLUIN-UHFFFAOYSA-M"
+}

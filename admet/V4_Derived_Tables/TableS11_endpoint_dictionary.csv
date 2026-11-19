@@ -1,0 +1,42 @@
+endpoint,category,type,vendor_scale_units,reference_dataset_n,vendor_reference_metric
+HIA_Hou,Absorption,Class.,0–1 score,578.0,AUROC 0.994
+Bioavailability_Ma,Absorption,Class.,0–1 score,640.0,AUROC 0.716
+Solubility_AqSolDB,Absorption,Regr.,log(mol/L),9980.0,R² 0.817
+Lipophilicity_AstraZeneca,Absorption,Regr.,log-ratio,4200.0,R² 0.771
+HydrationFreeEnergy_FreeSolv,Absorption,Regr.,kcal/mol,642.0,R² 0.888
+Caco2_Wang,Absorption,Regr.,log(10^-6 cm/s),906.0,R² 0.707
+PAMPA_NCATS,Absorption,Class.,0–1 score,2034.0,AUROC 0.786
+Pgp_Broccatelli,Absorption,Class.,0–1 score,1212.0,AUROC 0.947
+BBB_Martins,Distribution,Class.,0–1 score,1975.0,AUROC 0.900
+PPBR_AZ,Distribution,Regr.,%,1614.0,R² 0.589
+VDss_Lombardo,Distribution,Regr.,L/kg,1111.0,R² -1.211
+Half_Life_Obach,Excretion,Regr.,hr,665.0,R² -2.386
+Clearance_Hepatocyte_AZ,Excretion,Regr.,uL/min/10^6 cells,1020.0,R² 0.264
+Clearance_Microsome_AZ,Excretion,Regr.,uL/min/mg,1102.0,R² 0.277
+CYP1A2_Veith,Metabolism,Class.,0–1 score,12579.0,AUROC 0.941
+CYP2C19_Veith,Metabolism,Class.,0–1 score,12665.0,AUROC 0.906
+CYP2C9_Veith,Metabolism,Class.,0–1 score,12092.0,AUROC 0.908
+CYP2D6_Veith,Metabolism,Class.,0–1 score,13130.0,AUROC 0.886
+CYP3A4_Veith,Metabolism,Class.,0–1 score,12328.0,AUROC 0.912
+CYP2C9_Substrate_CarbonMangels,Metabolism,Class.,0–1 score,666.0,AUROC 0.628
+CYP2D6_Substrate_CarbonMangels,Metabolism,Class.,0–1 score,664.0,AUROC 0.820
+CYP3A4_Substrate_CarbonMangels,Metabolism,Class.,0–1 score,667.0,AUROC 0.705
+hERG,Toxicity,Class.,0–1 score,648.0,AUROC 0.839
+ClinTox,Toxicity,Class.,0–1 score,1459.0,AUROC 0.928
+AMES,Toxicity,Class.,0–1 score,7255.0,AUROC 0.882
+DILI,Toxicity,Class.,0–1 score,475.0,AUROC 0.881
+Carcinogens_Lagunin,Toxicity,Class.,0–1 score,278.0,AUROC 0.772
+LD50_Zhu,Toxicity,Regr.,log(1/(mol/kg)),7342.0,R² 0.596
+Skin_Reaction,Toxicity,Class.,0–1 score,404.0,AUROC 0.718
+NR-AR,Toxicity,Class.,0–1 score,7258.0,AUROC 0.779
+NR-AR-LBD,Toxicity,Class.,0–1 score,6751.0,AUROC 0.883
+NR-AhR,Toxicity,Class.,0–1 score,6542.0,AUROC 0.904
+NR-Aromatase,Toxicity,Class.,0–1 score,5815.0,AUROC 0.906
+NR-ER,Toxicity,Class.,0–1 score,6186.0,AUROC 0.749
+NR-ER-LBD,Toxicity,Class.,0–1 score,6948.0,AUROC 0.826
+NR-PPAR-gamma,Toxicity,Class.,0–1 score,6443.0,AUROC 0.916
+SR-ARE,Toxicity,Class.,0–1 score,5825.0,AUROC 0.838
+SR-ATAD5,Toxicity,Class.,0–1 score,7065.0,AUROC 0.879
+SR-HSE,Toxicity,Class.,0–1 score,6460.0,AUROC 0.843
+SR-MMP,Toxicity,Class.,0–1 score,5804.0,AUROC 0.925
+SR-p53,Toxicity,Class.,0–1 score,6767.0,AUROC 0.880

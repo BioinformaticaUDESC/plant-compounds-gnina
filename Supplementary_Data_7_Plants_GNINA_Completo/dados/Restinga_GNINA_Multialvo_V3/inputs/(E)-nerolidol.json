@@ -1,0 +1,24 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5284507,
+        "MolecularFormula": "C15H26O",
+        "SMILES": "CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C",
+        "InChIKey": "FQTLCLSUCSAZDY-SDNWHVSQSA-N"
+      },
+      {
+        "CID": 8888,
+        "MolecularFormula": "C15H26O",
+        "SMILES": "CC(=CCCC(=CCCC(C)(C=C)O)C)C",
+        "InChIKey": "FQTLCLSUCSAZDY-UHFFFAOYSA-N"
+      },
+      {
+        "CID": 11241545,
+        "MolecularFormula": "C15H26O",
+        "SMILES": "CC(=CCC/C(=C/CC[C@](C)(C=C)O)/C)C",
+        "InChIKey": "FQTLCLSUCSAZDY-GOFCXVBSSA-N"
+      }
+    ]
+  }
+}

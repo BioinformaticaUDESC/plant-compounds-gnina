@@ -1,0 +1,13 @@
+{
+  "target_id": "MAOB_2V61",
+  "runs": 5,
+  "top1_passes": 0,
+  "required_passes": 4,
+  "median_top1_RMSD_A": 2.7009821656446458,
+  "prespecified_rule": "Energy_top1_heavy_atom_symmetry_fixed_frame_RMSD_le_2A_in_at_least_4_of_5_seeds",
+  "geometry_status": "FAIL",
+  "screening_eligible": false,
+  "limits": "Monoamine oxidase B; C18 coumarin-related reference with exact deposited CCD connectivity retained, not reconstructed from common name; chain A of dimer and oxidized covalent FAD; no membrane or redox model",
+  "input_chemical_key": "JMGUSOLCNQVZCT-UHFFFAOYSA-N",
+  "reference_chemical_key": "JMGUSOLCNQVZCT-UHFFFAOYSA-N"
+}

@@ -1,0 +1,21 @@
+component,recorded_value
+Analysis,Separate post hoc ADMET inference; archived reference run
+Execution,CPU; 4 PyTorch threads; num_workers = 0
+Analytical units,40 compounds; 51 structures; 59 SDF identities checked
+Primary outputs,"51 × 41 = 2,091 predictions"
+Additional sensitivity,One neutralized rotundic acid structure; 41 predictions
+Python,3.12.14
+admet-ai,2.0.1
+rdkit,2025.9.5
+torch,2.10.0+cpu
+chemprop,2.2.2
+lightning,2.6.1
+numpy,2.4.2
+pandas,3.0.0
+scipy,1.17.0
+Model settings,include_physchem = False; drugbank_path = None
+Model checkpoint files,10
+Input policy,Original isomeric SMILES and formal charges retained
+Run status,completed_full_inference
+Timing (UTC),2026-11-08T00:34:18.979383+00:00 to 2026-11-08T00:34:24.055902+00:00
+Reproducibility records,protocol.json; environment_freeze.txt; model_weights_sha256.json; input and output SHA256 records

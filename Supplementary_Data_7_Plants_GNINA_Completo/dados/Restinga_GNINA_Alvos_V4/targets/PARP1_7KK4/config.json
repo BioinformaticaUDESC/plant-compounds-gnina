@@ -1,0 +1,24 @@
+{
+  "target_id": "PARP1_7KK4",
+  "pdb": "7KK4",
+  "chain": "A",
+  "ligand": "09L",
+  "receptor": "targets/PARP1_7KK4/receptor_H.pdb",
+  "native_reference": "targets/PARP1_7KK4/native_reference.sdf",
+  "redock_input": "targets/PARP1_7KK4/redock_input.sdf",
+  "center": [
+    -9.457,
+    5.3585,
+    26.2795
+  ],
+  "size": [
+    22.0,
+    26.211,
+    22.0
+  ],
+  "pH_model": 7.4,
+  "preparation_note": "Human wild-type PARP1 catalytic-domain monomer, olaparib neutral reference; no DNA-binding/trapping, catalytic inhibition, synthetic lethality or tumor-cell selectivity demonstrated",
+  "near_site_missing_residue_warning": false,
+  "protocol_file": "protocol_round_b.json",
+  "selection_round": "V4_B_complementary_exploratory"
+}

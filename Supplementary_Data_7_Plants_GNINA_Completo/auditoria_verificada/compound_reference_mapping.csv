@@ -1,0 +1,41 @@
+compound,panel,archived_source_ids,manuscript_reference_numbers,source_reference_urls,project_sample_presence
+(E)-beta-ocimene,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+(E)-nerolidol,Volatile,P1,27,https://doi.org/10.1080/14786419.2019.1648462,not confirmed
+alpha-bulnesene,Volatile,M1,4,https://doi.org/10.33448/rsd-v10i3.13303,not confirmed
+alpha-cadinol,Volatile,P1,27,https://doi.org/10.1080/14786419.2019.1648462,not confirmed
+alpha-guaiene,Volatile,M1,4,https://doi.org/10.33448/rsd-v10i3.13303,not confirmed
+alpha-humulene,Volatile,V1,24,https://doi.org/10.1016/j.jep.2006.09.032,not confirmed
+alpha-phellandrene,Volatile,S1,25,https://doi.org/10.1007/s13197-018-3049-6,not confirmed
+alpha-pinene,Volatile,L1;P2;S1,"25, 28, 31",https://doi.org/10.1007/s13197-018-3049-6; https://doi.org/10.1016/j.heliyon.2024.e29063; https://doi.org/10.3390/antibiotics14010093,not confirmed
+alpha-terpineol,Volatile,L1;P2,"28, 31",https://doi.org/10.1016/j.heliyon.2024.e29063; https://doi.org/10.3390/antibiotics14010093,not confirmed
+beta-caryophyllene,Volatile,L1;P1;P2;V1,"24, 27, 28, 31",https://doi.org/10.1016/j.jep.2006.09.032; https://doi.org/10.1080/14786419.2019.1648462; https://doi.org/10.1016/j.heliyon.2024.e29063; https://doi.org/10.3390/antibiotics14010093,not confirmed
+beta-elemene,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+beta-phellandrene,Volatile,S1,25,https://doi.org/10.1007/s13197-018-3049-6,not confirmed
+beta-pinene,Volatile,S2,26,https://doi.org/10.3109/13880209.2012.666880,not confirmed
+beta-selinene,Volatile,M1;P2,"4, 31",https://doi.org/10.33448/rsd-v10i3.13303; https://doi.org/10.3390/antibiotics14010093,not confirmed
+bicyclogermacrene,Volatile,S2,26,https://doi.org/10.3109/13880209.2012.666880,not confirmed
+carvone,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+caryophyllene oxide,Volatile,P1;P2,"27, 31",https://doi.org/10.1080/14786419.2019.1648462; https://doi.org/10.3390/antibiotics14010093,not confirmed
+citronellol,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+delta-cadinene,Volatile,P2,31,https://doi.org/10.3390/antibiotics14010093,not confirmed
+elemol,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+eucalyptol,Volatile,L1;P2,"28, 31",https://doi.org/10.1016/j.heliyon.2024.e29063; https://doi.org/10.3390/antibiotics14010093,not confirmed
+gamma-muurolene,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+gamma-terpinene,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+geranial,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+geraniol,Volatile,L1;L3,"28, 30",https://doi.org/10.1016/j.heliyon.2024.e29063; https://doi.org/10.1016/j.jep.2024.118459,not confirmed
+germacrene D,Volatile,S2,26,https://doi.org/10.3109/13880209.2012.666880,not confirmed
+limonene,Volatile,L1;P1;P2;S1,"25, 27, 28, 31",https://doi.org/10.1007/s13197-018-3049-6; https://doi.org/10.1080/14786419.2019.1648462; https://doi.org/10.1016/j.heliyon.2024.e29063; https://doi.org/10.3390/antibiotics14010093,not confirmed
+linalool,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+myrcene,Volatile,L1;L2,"28, 29",https://doi.org/10.1016/j.heliyon.2024.e29063; https://doi.org/10.1590/s1517-838220110004000041,not confirmed
+neral,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+p-cymene,Volatile,L1;P2;S1,"25, 28, 31",https://doi.org/10.1007/s13197-018-3049-6; https://doi.org/10.1016/j.heliyon.2024.e29063; https://doi.org/10.3390/antibiotics14010093,not confirmed
+sabinene,Volatile,L1,28,https://doi.org/10.1016/j.heliyon.2024.e29063,not confirmed
+beta-sitosterol,Nonvolatile,E1,6,https://doi.org/10.1080/14786419.2015.1131981,not confirmed
+catechin,Nonvolatile,E1,6,https://doi.org/10.1080/14786419.2015.1131981,not confirmed
+erythrodiol,Nonvolatile,E1,6,https://doi.org/10.1080/14786419.2015.1131981,not confirmed
+myricitrin,Nonvolatile,E1,6,https://doi.org/10.1080/14786419.2015.1131981,not confirmed
+quercetin,Nonvolatile,E1,6,https://doi.org/10.1080/14786419.2015.1131981,not confirmed
+rotundic acid,Nonvolatile,E1,6,https://doi.org/10.1080/14786419.2015.1131981,not confirmed
+stigmasterol,Nonvolatile,E1,6,https://doi.org/10.1080/14786419.2015.1131981,not confirmed
+uvaol,Nonvolatile,E1,6,https://doi.org/10.1080/14786419.2015.1131981,not confirmed

@@ -1,0 +1,127 @@
+[
+  {
+    "file": "figures/Figure_3A_Native_Redocking.png",
+    "entries": [
+      {
+        "target_id": "COX2_5IKR",
+        "kind": "native",
+        "panel": "A"
+      },
+      {
+        "target_id": "ACHE_4EY7",
+        "kind": "native",
+        "panel": "B"
+      },
+      {
+        "target_id": "CB2_5ZTY",
+        "kind": "native",
+        "panel": "C"
+      },
+      {
+        "target_id": "SEH_3ANS",
+        "kind": "native",
+        "panel": "D"
+      }
+    ]
+  },
+  {
+    "file": "figures/Figure_3B_Native_Redocking.png",
+    "entries": [
+      {
+        "target_id": "KEAP1_4XMB",
+        "kind": "native",
+        "panel": "E"
+      },
+      {
+        "target_id": "PARP1_7KK4",
+        "kind": "native",
+        "panel": "F"
+      },
+      {
+        "target_id": "TYRS_1JIL",
+        "kind": "native",
+        "panel": "G"
+      }
+    ]
+  },
+  {
+    "file": "figures/Figure_4A_Candidate_Poses.png",
+    "entries": [
+      {
+        "target_id": "COX2_5IKR",
+        "kind": "candidate",
+        "panel": "A"
+      },
+      {
+        "target_id": "ACHE_4EY7",
+        "kind": "candidate",
+        "panel": "B"
+      },
+      {
+        "target_id": "CB2_5ZTY",
+        "kind": "candidate",
+        "panel": "C"
+      },
+      {
+        "target_id": "SEH_3ANS",
+        "kind": "candidate",
+        "panel": "D"
+      }
+    ]
+  },
+  {
+    "file": "figures/Figure_4B_Candidate_Poses.png",
+    "entries": [
+      {
+        "target_id": "KEAP1_4XMB",
+        "kind": "candidate",
+        "panel": "E"
+      },
+      {
+        "target_id": "PARP1_7KK4",
+        "kind": "candidate",
+        "panel": "F"
+      },
+      {
+        "target_id": "TYRS_1JIL",
+        "kind": "candidate",
+        "panel": "G"
+      }
+    ]
+  },
+  {
+    "file": "figures/Figure_S1_Failed_Controls.png",
+    "entries": [
+      {
+        "target_id": "ALOX5_6N2W",
+        "kind": "native",
+        "panel": "A"
+      },
+      {
+        "target_id": "MAOA_2Z5X",
+        "kind": "native",
+        "panel": "B"
+      },
+      {
+        "target_id": "MAOB_2V61",
+        "kind": "native",
+        "panel": "C"
+      }
+    ]
+  },
+  {
+    "file": "figures/Figure_S2_Failed_Controls.png",
+    "entries": [
+      {
+        "target_id": "EGFR_1M17",
+        "kind": "native",
+        "panel": "D"
+      },
+      {
+        "target_id": "GYRB_1KZN",
+        "kind": "native",
+        "panel": "E"
+      }
+    ]
+  }
+]

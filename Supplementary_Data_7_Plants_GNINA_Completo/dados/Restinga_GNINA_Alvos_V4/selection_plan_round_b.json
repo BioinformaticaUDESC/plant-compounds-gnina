@@ -1,0 +1,14 @@
+{
+ "round_id":"V4_B_complementary_target_expansion",
+ "selected_before_any_round_B_redocking_or_candidate_results":true,
+ "selected_after_initial_six_native_controls":true,
+ "initial_six_outcomes_known_at_selection":{"EGFR_1M17":"FAIL1/5","GYRB_1KZN":"FAIL0/5","KEAP1_4XMB":"PASS5/5","MAOA_2Z5X":"FAIL0/5","MAOB_2V61":"FAIL0/5","SEH_3ANS":"PASS5/5"},
+ "target_ids":["PARP1_7KK4","TYRS_1JIL"],
+ "reason":"Expand distinct DNA-repair and bacterial protein-synthesis hypotheses after documenting initial controls; no prior failed system is replaced or retrospectively approved",
+ "structure_choices_before_outcomes":{"PARP1":"7KK4 human wildtype catalytic domain with olaparib;1.96A; not constitutively active engineered5DS3","TYRS":"1JIL S.aureus TyrRS catalytic construction withSB284485;2.2A; better resolved than1JIJ3.2A; deposited truncation retained and qualified"},
+ "native_microstate_hypotheses":{"olaparib":"CCD neutral lactam state","SB284485":"amino-acid zwitterion: primary amino+1,carboxylate-1,net0; no predicted pKa distribution"},
+ "protocol_file":"protocol_round_b.json",
+ "primary_native_gate":"Energytop1 fixedframe heavyatom symmetryRMSD<=2A in at least4/5seeds101,202,303,404,505",
+ "candidate_screening":"Only native-gate-approved systems; same59curatedinputs,seeds42,142,242,exhaustiveness16,20modes,CNNfast,rescore,Energyorder,CPU4,noGPU",
+ "interpretation":"Complementary exploratory round selected in response to coverage gaps, not an independent confirmatory validation; all original failures remain in total counts"
+}

@@ -1,0 +1,87 @@
+{
+  "GNINA_version": "gnina v1.3.3 master:6fe1ce2   Built Jun 30 2026.",
+  "binary_sha256": "3340c1f49cd3c7c84d8699182a1c6af13c7fa2a22448d1204640446106f72172",
+  "cnn_scoring": "rescore",
+  "cnn_model": "fast_builtin_pinned_GNINA_1.3.3",
+  "primary_pose_order": "Energy",
+  "exhaustiveness": 16,
+  "num_modes": 20,
+  "cpu": 4,
+  "gpu": false,
+  "docking_seeds": [
+    42,
+    142,
+    242
+  ],
+  "redocking_seeds": [
+    101,
+    202,
+    303,
+    404,
+    505
+  ],
+  "redocking_rule": "top1_fixed_frame_symmetry_heavy_atom_RMSD<=2A_in_at_least_4/5_seeds",
+  "library_manifest_sha256": "4533ddf0c82549eee3b1e4e0520b2f1be9b15dc82bfa5a0bf15eb457ec1daa54",
+  "batch_policy": "GNINA internally resets reported random seed for each ligand; same ordered complete library in each batch",
+  "comparison_limits": "Scores not compared as affinity across targets; fast-CNN scores not numerically comparable with previous builtin-default ensemble",
+  "targets": {
+    "PARP1_7KK4": {
+      "config": {
+        "target_id": "PARP1_7KK4",
+        "pdb": "7KK4",
+        "chain": "A",
+        "ligand": "09L",
+        "receptor": "targets/PARP1_7KK4/receptor_H.pdb",
+        "native_reference": "targets/PARP1_7KK4/native_reference.sdf",
+        "redock_input": "targets/PARP1_7KK4/redock_input.sdf",
+        "center": [
+          -9.457,
+          5.3585,
+          26.2795
+        ],
+        "size": [
+          22.0,
+          26.211,
+          22.0
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "Human wild-type PARP1 catalytic-domain monomer, olaparib neutral reference; no DNA-binding/trapping, catalytic inhibition, synthetic lethality or tumor-cell selectivity demonstrated",
+        "near_site_missing_residue_warning": false,
+        "protocol_file": "protocol_round_b.json",
+        "selection_round": "V4_B_complementary_exploratory"
+      },
+      "receptor_sha256": "ba124dddd2d7493f18cb7874830de18c032090465174728148fe04a0630aa9ed",
+      "reference_sha256": "a89848a1934a24f9eea94f7a20c1f651ca2c46a0028e8374cce353de8dd99383",
+      "redock_input_sha256": "6b89b6ac2e11501c14f7c386faa5c8fb89d9d2c3aec24e04b8788bef84cbe511"
+    },
+    "TYRS_1JIL": {
+      "config": {
+        "target_id": "TYRS_1JIL",
+        "pdb": "1JIL",
+        "chain": "A",
+        "ligand": "485",
+        "receptor": "targets/TYRS_1JIL/receptor_H.pdb",
+        "native_reference": "targets/TYRS_1JIL/native_reference.sdf",
+        "redock_input": "targets/TYRS_1JIL/redock_input.sdf",
+        "center": [
+          30.790499999999998,
+          11.4225,
+          83.388
+        ],
+        "size": [
+          22.793,
+          22.0,
+          22.0
+        ],
+        "pH_model": 7.4,
+        "preparation_note": "S.aureus tyrosyl-tRNA synthetase catalytic construction; ligandSB284485 amino-acid zwitterion; modeled323/420residues, single protomer, no full tRNA-recognition/dimer dynamics; not whole-cell antibacterial efficacy",
+        "near_site_missing_residue_warning": false,
+        "protocol_file": "protocol_round_b.json",
+        "selection_round": "V4_B_complementary_exploratory"
+      },
+      "receptor_sha256": "8ccd49a521858227834fd9e421b886aa5987d225cde6a26d6ac539834ed2b8fe",
+      "reference_sha256": "ea5838c05a25df1ab21f87190b19a9dcaae552c9593d2773fe6b6dffdd5976da",
+      "redock_input_sha256": "58425316f951325e0664b1380f1c74f512303966b5d035b2388e93fc23a57420"
+    }
+  }
+}

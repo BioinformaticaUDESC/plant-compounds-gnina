@@ -1,0 +1,12 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 2758,
+        "MolecularFormula": "C10H18O",
+        "SMILES": "CC1(C2CCC(O1)(CC2)C)C",
+        "InChIKey": "WEEGYLXZBRQIMU-UHFFFAOYSA-N"
+      }
+    ]
+  }
+}

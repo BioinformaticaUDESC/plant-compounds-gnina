@@ -1,0 +1,12 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 1742210,
+        "MolecularFormula": "C15H24O",
+        "SMILES": "C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2",
+        "InChIKey": "NVEQFIOZRFFVFW-RGCMKSIDSA-N"
+      }
+    ]
+  }
+}

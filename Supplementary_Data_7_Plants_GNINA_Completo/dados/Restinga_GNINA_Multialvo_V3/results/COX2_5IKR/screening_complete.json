@@ -1,0 +1,11 @@
+{
+  "target_id": "COX2_5IKR",
+  "inputs_per_seed": 60,
+  "seeds": [
+    42,
+    142,
+    242
+  ],
+  "exported_poses": 3600,
+  "status": "COMPLETE_EXPLORATORY"
+}

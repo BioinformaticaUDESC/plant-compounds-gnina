@@ -1,0 +1,13 @@
+{
+  "target_id": "MAOA_2Z5X",
+  "runs": 5,
+  "top1_passes": 0,
+  "required_passes": 4,
+  "median_top1_RMSD_A": 5.799660014712069,
+  "prespecified_rule": "Energy_top1_heavy_atom_symmetry_fixed_frame_RMSD_le_2A_in_at_least_4_of_5_seeds",
+  "geometry_status": "FAIL",
+  "screening_eligible": false,
+  "limits": "Monoamine oxidase A; deposited monomer, oxidized covalent FAD retained; no membrane or redox model",
+  "input_chemical_key": "BXNJHAXVSOCGBA-UHFFFAOYSA-O",
+  "reference_chemical_key": "BXNJHAXVSOCGBA-UHFFFAOYSA-O"
+}

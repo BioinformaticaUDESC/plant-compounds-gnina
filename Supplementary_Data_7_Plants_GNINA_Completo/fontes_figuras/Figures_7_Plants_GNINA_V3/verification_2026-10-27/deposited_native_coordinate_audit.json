@@ -1,0 +1,98 @@
+[
+  {
+    "target": "COX2_5IKR",
+    "pdb": "5IKR",
+    "native_ligand_CCD": "ID8",
+    "heavy_atoms": 18,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "ACHE_4EY7",
+    "pdb": "4EY7",
+    "native_ligand_CCD": "E20",
+    "heavy_atoms": 28,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "CB2_5ZTY",
+    "pdb": "5ZTY",
+    "native_ligand_CCD": "9JU",
+    "heavy_atoms": 31,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "SEH_3ANS",
+    "pdb": "3ANS",
+    "native_ligand_CCD": "S38",
+    "heavy_atoms": 20,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "KEAP1_4XMB",
+    "pdb": "4XMB",
+    "native_ligand_CCD": "41P",
+    "heavy_atoms": 42,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "PARP1_7KK4",
+    "pdb": "7KK4",
+    "native_ligand_CCD": "09L",
+    "heavy_atoms": 32,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "TYRS_1JIL",
+    "pdb": "1JIL",
+    "native_ligand_CCD": "485",
+    "heavy_atoms": 27,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "ALOX5_6N2W",
+    "pdb": "6N2W",
+    "native_ligand_CCD": "30Z",
+    "heavy_atoms": 22,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "MAOA_2Z5X",
+    "pdb": "2Z5X",
+    "native_ligand_CCD": "HRM",
+    "heavy_atoms": 16,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "MAOB_2V61",
+    "pdb": "2V61",
+    "native_ligand_CCD": "C18",
+    "heavy_atoms": 23,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "EGFR_1M17",
+    "pdb": "1M17",
+    "native_ligand_CCD": "AQ4",
+    "heavy_atoms": 29,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  },
+  {
+    "target": "GYRB_1KZN",
+    "pdb": "1KZN",
+    "native_ligand_CCD": "CBN",
+    "heavy_atoms": 49,
+    "maximum_nearest_same_element_distance_from_deposited_ligand_A": 0.0,
+    "coordinate_fit_applied": false
+  }
+]

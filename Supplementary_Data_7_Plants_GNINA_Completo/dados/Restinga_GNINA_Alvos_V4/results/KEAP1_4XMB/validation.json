@@ -1,0 +1,13 @@
+{
+  "target_id": "KEAP1_4XMB",
+  "runs": 5,
+  "top1_passes": 5,
+  "required_passes": 4,
+  "median_top1_RMSD_A": 1.0421717308901959,
+  "prespecified_rule": "Energy_top1_heavy_atom_symmetry_fixed_frame_RMSD_le_2A_in_at_least_4_of_5_seeds",
+  "geometry_status": "PASS",
+  "screening_eligible": true,
+  "limits": "Human wild-type Kelch domain; native neutral diamide41P; noncovalent NRF2-binding-pocket hypothesis only, no electrophilic Cys151 mechanism; no missing standard sidechain heavy atoms",
+  "input_chemical_key": "ZUIXHSIMKQZYPV-UHFFFAOYSA-N",
+  "reference_chemical_key": "ZUIXHSIMKQZYPV-UHFFFAOYSA-N"
+}

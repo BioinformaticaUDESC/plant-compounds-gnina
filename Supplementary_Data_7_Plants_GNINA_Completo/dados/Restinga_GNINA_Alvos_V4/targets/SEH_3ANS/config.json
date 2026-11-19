@@ -1,0 +1,22 @@
+{
+  "target_id": "SEH_3ANS",
+  "pdb": "3ANS",
+  "chain": "A",
+  "ligand": "S38",
+  "receptor": "targets/SEH_3ANS/receptor_H.pdb",
+  "native_reference": "targets/SEH_3ANS/native_reference.sdf",
+  "redock_input": "targets/SEH_3ANS/redock_input.sdf",
+  "center": [
+    25.5685,
+    24.975,
+    116.25450000000001
+  ],
+  "size": [
+    22.649,
+    22.0,
+    22.0
+  ],
+  "pH_model": 7.4,
+  "preparation_note": "Human soluble epoxide hydrolase C-terminal catalytic domain; neutral S38 reference; no full-length dynamics",
+  "near_site_missing_residue_warning": false
+}

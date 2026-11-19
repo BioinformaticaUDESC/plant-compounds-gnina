@@ -1,0 +1,22 @@
+{
+  "compounds": 40,
+  "stereochemical_structures": 51,
+  "verified_conformer_inputs": 59,
+  "new_targets_tested": 8,
+  "new_targets_primary_redocking_pass": 4,
+  "new_targets_primary_redocking_fail": 4,
+  "new_primary_screening_poses": 14160,
+  "new_primary_top1_observations": 708,
+  "new_redocking_poses": 800,
+  "new_top1_observations_with_flags": 11,
+  "previous_targets_tested": 4,
+  "previous_targets_pass": 3,
+  "previous_primary_screening_poses": 10620,
+  "previous_redocking_poses": 400,
+  "all_target_systems_tested": 12,
+  "all_target_systems_pass": 7,
+  "all_primary_screening_poses": 24780,
+  "all_redocking_poses": 1200,
+  "previous_results_recomputed": false,
+  "computation_mode": "CPU;GNINA1.3.3;CNNfast;Energyprimary;exhaustiveness16;20modes;3screeningseeds;5controlseeds"
+}

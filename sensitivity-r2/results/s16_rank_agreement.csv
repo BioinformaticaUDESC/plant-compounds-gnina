@@ -1,0 +1,5 @@
+target,raw_or_z,energy_per_heavy_atom,huber_residual,median_residual
+COX-2,0.661,0.508,0.911,0.883
+AChE,0.374,0.422,0.980,0.922
+PARP1,0.399,0.403,0.972,0.955
+TyrRS,0.419,0.419,0.960,0.979

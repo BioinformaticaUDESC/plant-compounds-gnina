@@ -1,0 +1,17 @@
+{
+  "table_2": "Exactly two horizontal rules, top and bottom; no shading, vertical borders or internal grid",
+  "all_table_values_unchanged": true,
+  "all_original_paragraphs_unchanged": true,
+  "other_10_tables_unchanged": true,
+  "all_14_embedded_image_binaries_unchanged": true,
+  "source_sha256": "d74669dfc5516550c62ed7b2359678b1a647c022a42f253f7e2df01aee3526eb",
+  "output_sha256": "69452761a9657da25a5ff4bd505b86bb0442e059668a4a8373b39d90f570f937",
+  "pages": 42,
+  "pages_with_pixel_changes": [
+    11,
+    12
+  ],
+  "all_other_pages_pixel_identical_to_previously_visually_verified_document": true,
+  "all_page_texts_identical": true,
+  "changed_pages_11_and_12_visually_verified": true
+}

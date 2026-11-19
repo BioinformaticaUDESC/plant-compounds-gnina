@@ -1,0 +1,560 @@
+[
+  {
+    "check": "Table 3 COX-2 volatile_literature_panel score",
+    "status": "PASS",
+    "observed": "-8.11",
+    "expected": "-8.11"
+  },
+  {
+    "check": "Table3 COX-2 volatile_literature_panel leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 COX-2 nonvolatile_extract_comparator score",
+    "status": "PASS",
+    "observed": "-9.25",
+    "expected": "-9.25"
+  },
+  {
+    "check": "Table3 COX-2 nonvolatile_extract_comparator leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 AChE volatile_literature_panel score",
+    "status": "PASS",
+    "observed": "-9.46",
+    "expected": "-9.46"
+  },
+  {
+    "check": "Table3 AChE volatile_literature_panel leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 AChE nonvolatile_extract_comparator score",
+    "status": "PASS",
+    "observed": "-11.64",
+    "expected": "-11.64"
+  },
+  {
+    "check": "Table3 AChE nonvolatile_extract_comparator leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 CB2 volatile_literature_panel score",
+    "status": "PASS",
+    "observed": "-9.07",
+    "expected": "-9.07"
+  },
+  {
+    "check": "Table3 CB2 volatile_literature_panel leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 CB2 nonvolatile_extract_comparator score",
+    "status": "PASS",
+    "observed": "-11.43",
+    "expected": "-11.43"
+  },
+  {
+    "check": "Table3 CB2 nonvolatile_extract_comparator leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 sEH volatile_literature_panel score",
+    "status": "PASS",
+    "observed": "-7.89",
+    "expected": "-7.89"
+  },
+  {
+    "check": "Table3 sEH volatile_literature_panel leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 sEH nonvolatile_extract_comparator score",
+    "status": "PASS",
+    "observed": "-10.92",
+    "expected": "-10.92"
+  },
+  {
+    "check": "Table3 sEH nonvolatile_extract_comparator leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 KEAP1 volatile_literature_panel score",
+    "status": "PASS",
+    "observed": "-6.97",
+    "expected": "-6.97"
+  },
+  {
+    "check": "Table3 KEAP1 volatile_literature_panel leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 KEAP1 nonvolatile_extract_comparator score",
+    "status": "PASS",
+    "observed": "-11.63",
+    "expected": "-11.63"
+  },
+  {
+    "check": "Table3 KEAP1 nonvolatile_extract_comparator leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 PARP1 volatile_literature_panel score",
+    "status": "PASS",
+    "observed": "-8.16",
+    "expected": "-8.16"
+  },
+  {
+    "check": "Table3 PARP1 volatile_literature_panel leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 PARP1 nonvolatile_extract_comparator score",
+    "status": "PASS",
+    "observed": "-12.82",
+    "expected": "-12.82"
+  },
+  {
+    "check": "Table3 PARP1 nonvolatile_extract_comparator leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 TyrS volatile_literature_panel score",
+    "status": "PASS",
+    "observed": "-6.44",
+    "expected": "-6.44"
+  },
+  {
+    "check": "Table3 TyrS rounded tie",
+    "status": "PASS",
+    "observed": "-6.44",
+    "expected": "-6.44"
+  },
+  {
+    "check": "Table3 TyrS volatile_literature_panel leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "Table 3 TyrS nonvolatile_extract_comparator score",
+    "status": "PASS",
+    "observed": "-13.32",
+    "expected": "-13.32"
+  },
+  {
+    "check": "Table3 TyrS nonvolatile_extract_comparator leader named",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "TableS3 COX-2 formal charge",
+    "status": "PASS",
+    "observed": -1,
+    "expected": -1
+  },
+  {
+    "check": "TableS3 AChE formal charge",
+    "status": "PASS",
+    "observed": 1,
+    "expected": 1
+  },
+  {
+    "check": "TableS3 CB2 formal charge",
+    "status": "PASS",
+    "observed": 0,
+    "expected": 0
+  },
+  {
+    "check": "TableS3 5-LOX formal charge",
+    "status": "PASS",
+    "observed": 0,
+    "expected": 0
+  },
+  {
+    "check": "TableS3 MAO-A formal charge",
+    "status": "PASS",
+    "observed": 1,
+    "expected": 1
+  },
+  {
+    "check": "TableS3 MAO-A input generation seed",
+    "status": "PASS",
+    "observed": "2026102500",
+    "expected": "2026102500"
+  },
+  {
+    "check": "TableS3 MAO-B formal charge",
+    "status": "PASS",
+    "observed": 0,
+    "expected": 0
+  },
+  {
+    "check": "TableS3 MAO-B input generation seed",
+    "status": "PASS",
+    "observed": "2026102501",
+    "expected": "2026102501"
+  },
+  {
+    "check": "TableS3 sEH formal charge",
+    "status": "PASS",
+    "observed": 0,
+    "expected": 0
+  },
+  {
+    "check": "TableS3 sEH input generation seed",
+    "status": "PASS",
+    "observed": "2026102502",
+    "expected": "2026102502"
+  },
+  {
+    "check": "TableS3 KEAP1 formal charge",
+    "status": "PASS",
+    "observed": 0,
+    "expected": 0
+  },
+  {
+    "check": "TableS3 KEAP1 input generation seed",
+    "status": "PASS",
+    "observed": "2026102503",
+    "expected": "2026102503"
+  },
+  {
+    "check": "TableS3 EGFR formal charge",
+    "status": "PASS",
+    "observed": 0,
+    "expected": 0
+  },
+  {
+    "check": "TableS3 EGFR input generation seed",
+    "status": "PASS",
+    "observed": "2026102504",
+    "expected": "2026102504"
+  },
+  {
+    "check": "TableS3 GyrB formal charge",
+    "status": "PASS",
+    "observed": 0,
+    "expected": 0
+  },
+  {
+    "check": "TableS3 GyrB input generation seed",
+    "status": "PASS",
+    "observed": "2026102505",
+    "expected": "2026102505"
+  },
+  {
+    "check": "TableS3 PARP1 formal charge",
+    "status": "PASS",
+    "observed": 0,
+    "expected": 0
+  },
+  {
+    "check": "TableS3 PARP1 input generation seed",
+    "status": "PASS",
+    "observed": "2026102600",
+    "expected": "2026102600"
+  },
+  {
+    "check": "TableS3 TyrS formal charge",
+    "status": "PASS",
+    "observed": 0,
+    "expected": 0
+  },
+  {
+    "check": "TableS3 TyrS input generation seed",
+    "status": "PASS",
+    "observed": "2026102601",
+    "expected": "2026102601"
+  },
+  {
+    "check": "GNINA official asset SHA256",
+    "status": "PASS",
+    "observed": "sha256:3340c1f49cd3c7c84d8699182a1c6af13c7fa2a22448d1204640446106f72172",
+    "expected": "sha256:3340c1f49cd3c7c84d8699182a1c6af13c7fa2a22448d1204640446106f72172"
+  },
+  {
+    "check": "GNINA official asset bytes",
+    "status": "PASS",
+    "observed": 2056131000,
+    "expected": 2056131000
+  },
+  {
+    "check": "TableS6 Python",
+    "status": "PASS",
+    "observed": "3.12.14",
+    "expected": "3.12.14"
+  },
+  {
+    "check": "TableS6 Platform",
+    "status": "PASS",
+    "observed": "Linux-6.18.55-x86_64-with-glibc2.39",
+    "expected": "Linux-6.18.55-x86_64-with-glibc2.39"
+  },
+  {
+    "check": "TableS6 RDKit",
+    "status": "PASS",
+    "observed": "2026.9.1",
+    "expected": "2026.9.1"
+  },
+  {
+    "check": "TableS6 NumPy",
+    "status": "PASS",
+    "observed": "2.5.4",
+    "expected": "2.5.4"
+  },
+  {
+    "check": "TableS6 OpenMM",
+    "status": "PASS",
+    "observed": "8.6.1",
+    "expected": "8.6.1"
+  },
+  {
+    "check": "TableS6 PDBFixer",
+    "status": "PASS",
+    "observed": "1.12.0",
+    "expected": "1.12.0"
+  },
+  {
+    "check": "ALOX5_6N2W identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "ALOX5_6N2W 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "ALOX5_6N2W reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "MAOB_2V61 identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "MAOB_2V61 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "MAOB_2V61 reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "COX2_5IKR identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "COX2_5IKR 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "COX2_5IKR reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "EGFR_1M17 identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "EGFR_1M17 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "EGFR_1M17 reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "KEAP1_4XMB identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "KEAP1_4XMB 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "KEAP1_4XMB reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "PARP1_7KK4 identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "PARP1_7KK4 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "PARP1_7KK4 reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "ACHE_4EY7 identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "ACHE_4EY7 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "ACHE_4EY7 reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "TYRS_1JIL identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "TYRS_1JIL 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "TYRS_1JIL reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "MAOA_2Z5X identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "MAOA_2Z5X 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "MAOA_2Z5X reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "GYRB_1KZN identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "GYRB_1KZN 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "GYRB_1KZN reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "CB2_5ZTY identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "CB2_5ZTY 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "CB2_5ZTY reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "SEH_3ANS identity",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "SEH_3ANS 10A translation",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  },
+  {
+    "check": "SEH_3ANS reversed atoms",
+    "status": "PASS",
+    "observed": true,
+    "expected": true
+  }
+]

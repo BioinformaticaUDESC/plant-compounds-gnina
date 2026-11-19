@@ -1,0 +1,4581 @@
+[
+  {
+    "DOI": "10.1002/cbdv.202200242",
+    "title": [
+      "Antidepressant‐Like Effect and Phenolic Profile of Brazilian Native and Exotic Species from <i>Psidium</i> Genus"
+    ],
+    "author": [
+      {
+        "given": "Natalia",
+        "family": "Cavichioli",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Laboratório de Avaliação de Substâncias Bioativas Departamento de Ciências Naturais Universidade Regional de Blumenau  CEP 89030-903 Blumenau Santa Catarina Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ana Paula",
+        "family": "Dalmagro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Avaliação de Substâncias Bioativas Departamento de Ciências Naturais Universidade Regional de Blumenau  CEP 89030-903 Blumenau Santa Catarina Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Otto Rodolfo",
+        "family": "Sasse",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Avaliação de Substâncias Bioativas Departamento de Ciências Naturais Universidade Regional de Blumenau  CEP 89030-903 Blumenau Santa Catarina Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lucas Henrique",
+        "family": "Junges",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Avaliação de Substâncias Bioativas Departamento de Ciências Naturais Universidade Regional de Blumenau  CEP 89030-903 Blumenau Santa Catarina Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrey Martinez",
+        "family": "Rebelo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina, EPAGRI  CEP 88318-112 Itajaí Santa Catarina Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cássia Katrin",
+        "family": "Reinke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Serviço Nacional de Aprendizagem Industrial SENAI, Instituto SENAI de Tecnologia Ambiental  CEP 89637-050 Blumenau Santa Catarina Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9904-9861",
+        "authenticated-orcid": false,
+        "given": "Ana Lúcia Bertarello",
+        "family": "Zeni",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Avaliação de Substâncias Bioativas Departamento de Ciências Naturais Universidade Regional de Blumenau  CEP 89030-903 Blumenau Santa Catarina Brazil"
+          },
+          {
+            "name": "Programa de Pós-Graduação em Biodiversidade Departamento de Ciências Naturais Universidade Regional de Blumenau  CEP 89030-903 Blumenau Santa Catarina Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Chemistry &amp; Biodiversity"
+    ],
+    "volume": "19",
+    "issue": "11",
+    "page": null,
+    "article-number": "e202200242",
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          3
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1002/cbdv.202300329",
+    "title": [
+      "Green Chromatographic Methods and <i>in Vitro</i> Pharmacological Analysis of <i>Varronia curassavica</i> Leaf Derivatives"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9246-2688",
+        "authenticated-orcid": false,
+        "given": "Isabela Jacob",
+        "family": "Moro",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Drugs and Medicines São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7179-909X",
+        "authenticated-orcid": false,
+        "given": "Flávio Alexandre",
+        "family": "Carvalho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Drugs and Medicines São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Juhan Augusto",
+        "family": "Scardelato Pereira",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Drugs and Medicines São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8984-2869",
+        "authenticated-orcid": false,
+        "given": "Gabriela",
+        "family": "Brasil Romão",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Drugs and Medicines São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6522-7068",
+        "authenticated-orcid": false,
+        "given": "André",
+        "family": "Faibicher",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Drugs and Medicines São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7760-7060",
+        "authenticated-orcid": false,
+        "given": "Winner Duque",
+        "family": "Rodrigues",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Drugs and Medicines São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1070-9569",
+        "authenticated-orcid": false,
+        "given": "Renata",
+        "family": "Pires Assis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Clinical Analysis São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4927-7599",
+        "authenticated-orcid": false,
+        "given": "Iguatemy",
+        "family": "Lourenço Brunetti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Clinical Analysis São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7775-0657",
+        "authenticated-orcid": false,
+        "given": "Junya",
+        "family": "de Lacorte Singulani",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Clinical Analysis São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2115-8988",
+        "authenticated-orcid": false,
+        "given": "Ana Marisa",
+        "family": "Fusco‐Almeida",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Clinical Analysis São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "André",
+        "family": "Gonzaga dos Santos",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Drugs and Medicines São Paulo State University (Unesp) School of Pharmaceutical Sciences  Araraquara-Jaú Road, Km 01, s/n, 14.801-903 Araraquara SP Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Chemistry &amp; Biodiversity"
+    ],
+    "volume": "20",
+    "issue": "8",
+    "page": null,
+    "article-number": "e202300329",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          8
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          2
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1002/cbdv.202500924",
+    "title": [
+      "Chemical Composition and In Vitro Antibiofilm Action of\n                    <i>Varronia curassavica</i>\n                    Jacq. (Boraginaceae) Essential Oil: A Promising Natural Agent Against Bacterial Infections"
+    ],
+    "author": [
+      {
+        "given": "José Thyálisson da Costa",
+        "family": "Silva",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gabriel Gonçalves",
+        "family": "Alencar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nara Juliana Santos",
+        "family": "Araújo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Federal University of Cariri—UFCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lariza Leisla Leandro",
+        "family": "Nascimento",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Chemistry Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Saulo Almeida",
+        "family": "Menezes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Biotechnology Center Federal University of Rio Grande do Sul—UFRGS  Porto Alegre Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dhenes Ferreira",
+        "family": "Antunes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Federal University of Cariri—UFCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Adrielle Rodrigues",
+        "family": "Costa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Murilo Felipe",
+        "family": "Felício",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cicero dos Santos",
+        "family": "Leandro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Luis Pereira",
+        "family": "de Morais",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Chemistry Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marcos Aurélio Figueirêdo dos",
+        "family": "Santos",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Severino Denicio Gonçalves",
+        "family": "de Sousa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Basic Life Sciences Juiz de Fora Federal University—UFJF  Governador Valadares Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Julimery Gonçalves Ferreira",
+        "family": "Macedo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "João Pereira da Silva",
+        "family": "Junior",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ana Carolina Ferreira",
+        "family": "Araujo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Chemistry Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maísa Freire Cartaxo Pires",
+        "family": "de Sá",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Biotechnology Center Federal University of Rio Grande do Sul—UFRGS  Porto Alegre Brazil"
+          },
+          {
+            "name": "Federal University of Paraíba—UFPB  João Pessoa Paraíba Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jacqueline Cosmo",
+        "family": "Andrade‐Pinheiro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Federal University of Cariri—UFCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6634-4207",
+        "authenticated-orcid": false,
+        "given": "Henrique Douglas Melo",
+        "family": "Coutinho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Chemistry Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "José Weverton",
+        "family": "Almeida‐Bezerra",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Chemistry Regional University of Cariri—URCA  Crato Brazil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Chemistry &amp; Biodiversity"
+    ],
+    "volume": "22",
+    "issue": "11",
+    "page": null,
+    "article-number": "e00924",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          25
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1002/jcc.21334",
+    "title": [
+      "AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading"
+    ],
+    "author": [
+      {
+        "given": "Oleg",
+        "family": "Trott",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arthur J.",
+        "family": "Olson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Chemistry"
+    ],
+    "volume": "31",
+    "issue": "2",
+    "page": "455-461",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          1,
+          30
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2009,
+          6,
+          4
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1007/s10600-023-04231-0",
+    "title": [
+      "Chemical Composition and Larvicidal Activity of Essential Oil from Leaves Eugenia catharinae"
+    ],
+    "author": [
+      {
+        "given": "C. A.",
+        "family": "Romano",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J. S. A.",
+        "family": "Dourado",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Ramos-Filho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R. O.",
+        "family": "Cabral",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A. H.",
+        "family": "Santos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J. R.",
+        "family": "Oliveira-Neto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "L. C.",
+        "family": "Cunha",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J. R.",
+        "family": "Paula",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Chemistry of Natural Compounds"
+    ],
+    "volume": "59",
+    "issue": "6",
+    "page": "1204-1205",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          11
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          10
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1007/s11696-024-03531-1",
+    "title": [
+      "Cordialin A isolated from Varronia curassavica Jacq. loaded in nanoemulsion as potential cytotoxic agent on human cervical tumor cells"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9021-5245",
+        "authenticated-orcid": false,
+        "given": "Franciele Garcia",
+        "family": "Baveloni",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Juhan Augusto",
+        "family": "Scardelato",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Flávio Alexandre",
+        "family": "Carvalho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ieda Maria Martinez",
+        "family": "Paino",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kaila Petrolina",
+        "family": "Medina-Alarcón",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marcelo A.",
+        "family": "Pereira-da-Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marlus",
+        "family": "Chorilli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "André Gonzaga",
+        "family": "dos Santos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Christiane Pienna",
+        "family": "Soares",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Chemical Papers"
+    ],
+    "volume": "78",
+    "issue": "10",
+    "page": "6141-6158",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          7
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          10
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1016/j.bbrc.2011.06.176",
+    "title": [
+      "α-Pinene isolated from Schinus terebinthifolius Raddi (Anacardiaceae) induces apoptosis and confers antimetastatic protection in a melanoma model"
+    ],
+    "author": [
+      {
+        "given": "Alisson L.",
+        "family": "Matsuo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carlos R.",
+        "family": "Figueiredo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Denise C.",
+        "family": "Arruda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Felipe V.",
+        "family": "Pereira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jorge A.",
+        "family": "Borin Scutti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mariana H.",
+        "family": "Massaoka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luiz R.",
+        "family": "Travassos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patricia",
+        "family": "Sartorelli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "João H.G.",
+        "family": "Lago",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Biochemical and Biophysical Research Communications"
+    ],
+    "volume": "411",
+    "issue": "2",
+    "page": "449-454",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          7
+        ]
+      ]
+    },
+    "published-online": null,
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1016/j.ejphar.2007.04.059",
+    "title": [
+      "Anti-inflammatory effects of compounds alpha-humulene and (−)-trans-caryophyllene isolated from the essential oil of Cordia verbenacea"
+    ],
+    "author": [
+      {
+        "given": "Elizabeth S.",
+        "family": "Fernandes",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giselle F.",
+        "family": "Passos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rodrigo",
+        "family": "Medeiros",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fernanda M.",
+        "family": "da Cunha",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Juliano",
+        "family": "Ferreira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maria M.",
+        "family": "Campos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luiz F.",
+        "family": "Pianowski",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "João B.",
+        "family": "Calixto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "European Journal of Pharmacology"
+    ],
+    "volume": "569",
+    "issue": "3",
+    "page": "228-236",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          8
+        ]
+      ]
+    },
+    "published-online": null,
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1016/j.etap.2018.03.016",
+    "title": [
+      "Genotoxic effect of Lippia alba (Mill.) N. E. Brown essential oil on fish ( Oreochromis niloticus ) and mammal (Mus musculus )"
+    ],
+    "author": [
+      {
+        "given": "Edgar Hell",
+        "family": "Kampke",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maria Eduarda",
+        "family": "de Souza Barroso",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Franciane Martins",
+        "family": "Marques",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcio",
+        "family": "Fronza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rodrigo",
+        "family": "Scherer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mayara Fumiere",
+        "family": "Lemos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bianca Prandi",
+        "family": "Campagnaro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Levy Carvalho",
+        "family": "Gomes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Environmental Toxicology and Pharmacology"
+    ],
+    "volume": "59",
+    "issue": null,
+    "page": "163-171",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "published-online": null,
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1016/j.jep.2022.115786",
+    "title": [
+      "Geographical variation in the chemical composition, anti-inflammatory activity of the essential oil, micromorphology and histochemistry of Schinus terebinthifolia Raddi"
+    ],
+    "author": [
+      {
+        "given": "Janaine Alberto",
+        "family": "Marangoni",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3493-3701",
+        "authenticated-orcid": false,
+        "given": "Jannaina Velasques",
+        "family": "da Costa Pinto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Candida Aparecida Leite",
+        "family": "Kassuya",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pedro Cruz",
+        "family": "de Oliveira Junior",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3269-8530",
+        "authenticated-orcid": false,
+        "given": "Sidney Mariano",
+        "family": "dos Santos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4907-0056",
+        "authenticated-orcid": false,
+        "given": "Claudia Andrea Lima",
+        "family": "Cardoso",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rosilda Mara Mussury Franco",
+        "family": "Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcia",
+        "family": "Espíndola da Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Camila Dias",
+        "family": "Machado",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1873-2253",
+        "authenticated-orcid": false,
+        "given": "Jane",
+        "family": "Manfron",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anelise Samara Nazari",
+        "family": "Formagio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Ethnopharmacology"
+    ],
+    "volume": "301",
+    "issue": null,
+    "page": "115786",
+    "article-number": "115786",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "published-online": null,
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1016/j.jep.2024.118459",
+    "title": [
+      "Lippia alba essential oil: A powerful and valuable antinociceptive and anti-inflammatory medicinal plant from Brazil"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0038-7201",
+        "authenticated-orcid": false,
+        "given": "Maria Juliana da L.",
+        "family": "Froz",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luana de Souza P.",
+        "family": "Barros",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ellen Nayara S.",
+        "family": "de Jesus",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mateus S.",
+        "family": "Tavares",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rosa Helena V.",
+        "family": "Mourão",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Renata Cunha",
+        "family": "Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0003-7187-9198",
+        "authenticated-orcid": false,
+        "given": "Anderson B.",
+        "family": "de Lima",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pedro Iuri C.",
+        "family": "da Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jofre Jacob S.",
+        "family": "Freitas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3639-0528",
+        "authenticated-orcid": false,
+        "given": "William N.",
+        "family": "Setzer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joyce Kelly R.",
+        "family": "da Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "José Nazareno Cunha",
+        "family": "Negrão",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1365-3513",
+        "authenticated-orcid": false,
+        "given": "Pablo Luis B.",
+        "family": "Figueiredo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Ethnopharmacology"
+    ],
+    "volume": "333",
+    "issue": null,
+    "page": "118459",
+    "article-number": "118459",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          10
+        ]
+      ]
+    },
+    "published-online": null,
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1016/j.phytochem.2015.04.004",
+    "title": [
+      "High-resolution bioactivity profiling combined with HPLC–HRMS–SPE–NMR: α-Glucosidase inhibitors and acetylated ellagic acid rhamnosides from Myrcia palustris DC. (Myrtaceae)"
+    ],
+    "author": [
+      {
+        "given": "Sileshi G.",
+        "family": "Wubshet",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Henrique H.",
+        "family": "Moresco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yousof",
+        "family": "Tahtah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Inês M.C.",
+        "family": "Brighente",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0074-298X",
+        "authenticated-orcid": false,
+        "given": "Dan",
+        "family": "Staerk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Phytochemistry"
+    ],
+    "volume": "116",
+    "issue": null,
+    "page": "246-252",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          8
+        ]
+      ]
+    },
+    "published-online": null,
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1021/acs.jcim.0c00025",
+    "title": [
+      "Improving Conformer Generation for Small Rings and Macrocycles Based on Distance Geometry and Experimental Torsional-Angle Preferences"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7543-7387",
+        "authenticated-orcid": true,
+        "given": "Shuzhe",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Laboratory of Physical Chemistry, ETH Zurich, Vladimir-Prelog-Weg 2, 8093 Zurich, Switzerland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jagna",
+        "family": "Witek",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratory of Physical Chemistry, ETH Zurich, Vladimir-Prelog-Weg 2, 8093 Zurich, Switzerland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6279-4481",
+        "authenticated-orcid": true,
+        "given": "Gregory A.",
+        "family": "Landrum",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "T5 Informatics GmbH, Spalenring 11, 4055 Basel, Switzerland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1893-4031",
+        "authenticated-orcid": true,
+        "given": "Sereina",
+        "family": "Riniker",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratory of Physical Chemistry, ETH Zurich, Vladimir-Prelog-Weg 2, 8093 Zurich, Switzerland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Chemical Information and Modeling"
+    ],
+    "volume": "60",
+    "issue": "4",
+    "page": "2044-2058",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          27
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          10
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1073/pnas.0803601105",
+    "title": [
+      "Beta-caryophyllene is a dietary cannabinoid"
+    ],
+    "author": [
+      {
+        "given": "Jürg",
+        "family": "Gertsch",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "*Institute of Pharmaceutical Sciences, Department of Chemistry and Applied Biosciences, Eidgenössische Technische Hochschule (ETH) Zurich, 8092 Zürich, Switzerland;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marco",
+        "family": "Leonti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dipartimento Farmaco Chimico Tecnologico, University of Cagliari, 01924 Cagliari, Italy;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stefan",
+        "family": "Raduner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "*Institute of Pharmaceutical Sciences, Department of Chemistry and Applied Biosciences, Eidgenössische Technische Hochschule (ETH) Zurich, 8092 Zürich, Switzerland;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ildiko",
+        "family": "Racz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Molecular Psychiatry, University of Bonn, 53115 Bonn Germany; and"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jian-Zhong",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmaceutical Sciences, University of Pittsburgh, Pittsburgh, PA 15260"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiang-Qun",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmaceutical Sciences, University of Pittsburgh, Pittsburgh, PA 15260"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Karl-Heinz",
+        "family": "Altmann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "*Institute of Pharmaceutical Sciences, Department of Chemistry and Applied Biosciences, Eidgenössische Technische Hochschule (ETH) Zurich, 8092 Zürich, Switzerland;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Meliha",
+        "family": "Karsak",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Molecular Psychiatry, University of Bonn, 53115 Bonn Germany; and"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andreas",
+        "family": "Zimmer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Molecular Psychiatry, University of Bonn, 53115 Bonn Germany; and"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "volume": "105",
+    "issue": "26",
+    "page": "9099-9104",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          7
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          7
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1080/10412905.2013.796498",
+    "title": [
+      "Chemical composition and anti-inflammatory activity of the essential oils of<i>Psidium guajava</i>fruits and leaves"
+    ],
+    "author": [
+      {
+        "given": "Sherweit H.",
+        "family": "El-Ahmady",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mohamed L.",
+        "family": "Ashour",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Wink",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Essential Oil Research"
+    ],
+    "volume": "25",
+    "issue": "6",
+    "page": "475-481",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          12
+        ]
+      ]
+    },
+    "published-online": null,
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1080/14786419.2015.1131981",
+    "title": [
+      "Chemical constituents of<i>Eugenia catharinae</i>and their antioxidant activity"
+    ],
+    "author": [
+      {
+        "given": "Henrique H.",
+        "family": "Moresco",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Florianópolis, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guilherme",
+        "family": "Colla",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Florianópolis, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ingrid D.",
+        "family": "Cavalcante",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Florianópolis, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gustavo S.",
+        "family": "Queiroz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Florianópolis, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Moacir G.",
+        "family": "Pizzolatti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Florianópolis, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Inês M. C.",
+        "family": "Brighente",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Florianópolis, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Natural Product Research"
+    ],
+    "volume": "30",
+    "issue": "22",
+    "page": "2624-2628",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          16
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          13
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1111/1750-3841.15889",
+    "title": [
+      "Exploiting the chemical composition of essential oils from\n                    <i>Psidium cattleianum</i>\n                    and\n                    <i>Psidium guajava</i>\n                    and its antimicrobial and antioxidant properties"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8680-520X",
+        "authenticated-orcid": false,
+        "given": "Weysser Felipe Cândido",
+        "family": "de Souza",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Food Engineering University of Campinas  Campinas São Paulo Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fernando Azevedo",
+        "family": "de Lucena",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Agroindustrial Management and Technology Federal University of Paraíba  Bananeiras Paraíba Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ruann Janser Soares",
+        "family": "de Castro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Food Engineering University of Campinas  Campinas São Paulo Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cybelle Pereira",
+        "family": "de Oliveira",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Agroindustrial Management and Technology Federal University of Paraíba  Bananeiras Paraíba Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Max Rocha",
+        "family": "Quirino",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Basic and Social Sciences Federal University of Paraíba  Bananeiras Paraíba Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laésio Pereira",
+        "family": "Martins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Agroindustrial Management and Technology Federal University of Paraíba  Bananeiras Paraíba Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Food Science"
+    ],
+    "volume": "86",
+    "issue": "10",
+    "page": "4637-4649",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          10
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          5
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1155/2017/4962707",
+    "title": [
+      "In Vitro Antibacterial and Antibiofilm Activity of<i>Lippia alba</i>Essential Oil, Citral, and Carvone against<i>Staphylococcus aureus</i>"
+    ],
+    "author": [
+      {
+        "given": "Emanuela Mesquita",
+        "family": "Porfírio",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "INTA College, Cel. Antonio Rodrigues Magalhães, 359 Sobral, CE, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hider Machado",
+        "family": "Melo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INTA College, Cel. Antonio Rodrigues Magalhães, 359 Sobral, CE, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antônio Matheus Gomes",
+        "family": "Pereira",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INTA College, Cel. Antonio Rodrigues Magalhães, 359 Sobral, CE, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Theodora Thays Arruda",
+        "family": "Cavalcante",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INTA College, Cel. Antonio Rodrigues Magalhães, 359 Sobral, CE, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Geovany Amorim",
+        "family": "Gomes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State University of Acaraú Valley, 62040-370 Sobral, CE, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mário Geraldo de",
+        "family": "Carvalho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Federal Rural University of Rio de Janeiro, 23890-000 Seropédica, RJ, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0148-8688",
+        "authenticated-orcid": true,
+        "given": "Renata Albuquerque",
+        "family": "Costa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INTA College, Cel. Antonio Rodrigues Magalhães, 359 Sobral, CE, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francisco Eduardo Aragão Catunda",
+        "family": "Júnior",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INTA College, Cel. Antonio Rodrigues Magalhães, 359 Sobral, CE, Brazil"
+          },
+          {
+            "name": "State University of the Tocantina Region of Maranhão, 65901-480 Imperatriz, MA, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "The Scientific World Journal"
+    ],
+    "volume": "2017",
+    "issue": null,
+    "page": "1-7",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "published-online": null,
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1179/1476830514y.0000000119",
+    "title": [
+      "Antihyperalgesic and antidepressive actions of (R)-(+)-limonene, α-phellandrene, and essential oil from\n                    <i>Schinus terebinthifolius</i>\n                    fruits in a neuropathic pain model"
+    ],
+    "author": [
+      {
+        "given": "Ana Claudia",
+        "family": "Piccinelli",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joyce Alencar",
+        "family": "Santos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elisabete Castelon",
+        "family": "Konkiewitz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Silvia Aparecida",
+        "family": "Oesterreich",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anelise Samara Nazari",
+        "family": "Formagio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julio",
+        "family": "Croda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Edward Benjamim",
+        "family": "Ziff",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cândida Aparecida Leite",
+        "family": "Kassuya",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Nutritional Neuroscience"
+    ],
+    "volume": "18",
+    "issue": "5",
+    "page": "217-224",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          7
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          25
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1186/s13321-021-00522-2",
+    "title": [
+      "GNINA 1.0: molecular docking with deep learning"
+    ],
+    "author": [
+      {
+        "given": "Andrew T.",
+        "family": "McNutt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "Francoeur",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rishal",
+        "family": "Aggarwal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tomohide",
+        "family": "Masuda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rocco",
+        "family": "Meli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matthew",
+        "family": "Ragoza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jocelyn",
+        "family": "Sunseri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6892-6614",
+        "authenticated-orcid": false,
+        "given": "David Ryan",
+        "family": "Koes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Cheminformatics"
+    ],
+    "volume": "13",
+    "issue": "1",
+    "page": null,
+    "article-number": "43",
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          9
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.26434/chemrxiv.13578140.v1",
+          "asserted-by": "object"
+        }
+      ]
+    }
+  },
+  {
+    "DOI": "10.1186/s13321-025-00973-x",
+    "title": [
+      "GNINA 1.3: the next increment in molecular docking with deep learning"
+    ],
+    "author": [
+      {
+        "given": "Andrew T.",
+        "family": "McNutt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yanjing",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rocco",
+        "family": "Meli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rishal",
+        "family": "Aggarwal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David Ryan",
+        "family": "Koes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Cheminformatics"
+    ],
+    "volume": "17",
+    "issue": "1",
+    "page": null,
+    "article-number": "28",
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          2
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.14393/bj-v37n0a2021-54318",
+    "title": [
+      "Campomanesia spp. native fruits as potential source of health-promoting compounds"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0266-5885",
+        "authenticated-orcid": false,
+        "given": "Silvani",
+        "family": "Verruck",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4808-080X",
+        "authenticated-orcid": false,
+        "given": "Anildo",
+        "family": "Cunha Junior",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4146-4835",
+        "authenticated-orcid": false,
+        "given": "Marcelo",
+        "family": "Maraschin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5126-831X",
+        "authenticated-orcid": false,
+        "given": "Nei",
+        "family": "Fronza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2035-962X",
+        "authenticated-orcid": false,
+        "given": "Jean Carlos",
+        "family": "Budke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1069-2322",
+        "authenticated-orcid": false,
+        "given": "Guilherme de Souza",
+        "family": "Hassemer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6060-3864",
+        "authenticated-orcid": false,
+        "given": "Elane Schwinden",
+        "family": "Prudencio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5703-9411",
+        "authenticated-orcid": false,
+        "given": "Sheila Mello",
+        "family": "Da Silveira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Bioscience Journal"
+    ],
+    "volume": "37",
+    "issue": null,
+    "page": "e37053",
+    "article-number": null,
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          15
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1590/1519-6984.189089",
+    "title": [
+      "Antibacterial and antiproliferative activities of the fresh leaf essential oil of Psidium guajava L. (Myrtaceae)"
+    ],
+    "author": [
+      {
+        "given": "E. A. J.",
+        "family": "Silva",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Instituto Federal de Educação, Ciência e Tecnologia Goiano, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "E. B. B.",
+        "family": "Estevam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto Federal de Educação, Ciência e Tecnologia Goiano, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "T. S.",
+        "family": "Silva",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidade de Franca, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "H. D.",
+        "family": "Nicolella",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidade de Franca, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R. A.",
+        "family": "Furtado",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidade de Franca, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C. C. F.",
+        "family": "Alves",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto Federal de Educação, Ciência e Tecnologia Goiano, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "E. L.",
+        "family": "Souchie",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto Federal de Educação, Ciência e Tecnologia Goiano, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C. H. G.",
+        "family": "Martins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidade de Franca, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D. C.",
+        "family": "Tavares",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidade de Franca, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L. C. A.",
+        "family": "Barbosa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidade Federal de Viçosa, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M. L. D.",
+        "family": "Miranda",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais, Brasil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Brazilian Journal of Biology"
+    ],
+    "volume": "79",
+    "issue": "4",
+    "page": "697-702",
+    "article-number": null,
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          11
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.1590/s1806-66902014000200008",
+    "title": [
+      "Perfil volátil e potencial fungitóxico do hidrolato e extrato de sementes e folhas de Schinus terebinthifolius Raddi"
+    ],
+    "author": [
+      {
+        "given": "Marília Cavalcante",
+        "family": "Santos",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luiz Fernando Ganassali de",
+        "family": "Oliveira Junior",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lucas Fonseca Menezes",
+        "family": "Oliveira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Clarissa Rocha Dias",
+        "family": "Carvalho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paulo Roberto",
+        "family": "Gagliardi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Revista Ciência Agronômica"
+    ],
+    "volume": "45",
+    "issue": "2",
+    "page": "284-289",
+    "article-number": null,
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          6
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.33448/rsd-v10i3.13303",
+    "title": [
+      "Composição química, atividade antimicrobiana e antioxidante do óleo essencial de folhas Myrcia palustris DC. (MYRTACEAE)"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7566-8003",
+        "authenticated-orcid": false,
+        "given": "Camila Vogt dos",
+        "family": "Santos",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7568-8637",
+        "authenticated-orcid": false,
+        "given": "Ana Paula",
+        "family": "Mallmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0199-8330",
+        "authenticated-orcid": false,
+        "given": "Adrieli Gorlin",
+        "family": "Toledo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5956-7210",
+        "authenticated-orcid": false,
+        "given": "Débora Marina",
+        "family": "Bandeira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1593-5784",
+        "authenticated-orcid": false,
+        "given": "Willian Ferreira da",
+        "family": "Costa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1806-8375",
+        "authenticated-orcid": false,
+        "given": "Daíse Miranda Ávila",
+        "family": "Marins",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4526-0060",
+        "authenticated-orcid": false,
+        "given": "Juliana Moço",
+        "family": "Corrêa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0486-8486",
+        "authenticated-orcid": false,
+        "given": "Fabiana Gisele da Silva",
+        "family": "Pinto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Research, Society and Development"
+    ],
+    "volume": "10",
+    "issue": "3",
+    "page": "e20510313303",
+    "article-number": null,
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          12
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.3390/agriculture13020373",
+    "title": [
+      "Influence of Plant Age on Chemical Composition, Antimicrobial Activity and Cytotoxicity of Varronia curassavica Jacq. Essential Oil Produced on an Industrial Scale"
+    ],
+    "author": [
+      {
+        "given": "Jéssica Pires",
+        "family": "Farias",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Núcleo de Pesquisa em Biodiversidade e Biotecnologia, Biotec, Campus Ministro Reis Velloso, Universidade Federal do Delta do Parnaíba, Parnaíba 64202-020, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9077-1877",
+        "authenticated-orcid": false,
+        "given": "Ana Luisa Alves Nogueira",
+        "family": "Barros",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Núcleo de Pesquisa em Morfologia e Imunologia Aplicada, Faculdade de Medicina, Campus DarcyRibeiro, Universidade de Brasília, Brasília 70910-900, Brazil"
+          },
+          {
+            "name": "Programa de Pós-graduação em Medicina Tropical, Núcleo de Medicina Tropical, Faculdade de Medicina, Campus Darcy Ribeiro, Universidade de Brasília, Brasília 70910-900, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alyne Rodrigues",
+        "family": "de Araújo-Nobre",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Núcleo de Pesquisa em Biodiversidade e Biotecnologia, Biotec, Campus Ministro Reis Velloso, Universidade Federal do Delta do Parnaíba, Parnaíba 64202-020, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enoque Pereira Costa",
+        "family": "Sobrinho-Júnior",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Atividade Antileishmania, Núcleo de Pesquisas em Plantas Medicinais, Campus Ministro Petrônio Portella, Universidade Federal do Piauí, Ininga, Teresina 64049-550, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michel Muálem de Moraes",
+        "family": "Alves",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Atividade Antileishmania, Núcleo de Pesquisas em Plantas Medicinais, Campus Ministro Petrônio Portella, Universidade Federal do Piauí, Ininga, Teresina 64049-550, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fernando Aécio de Amorim",
+        "family": "Carvalho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Atividade Antileishmania, Núcleo de Pesquisas em Plantas Medicinais, Campus Ministro Petrônio Portella, Universidade Federal do Piauí, Ininga, Teresina 64049-550, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3904-3529",
+        "authenticated-orcid": false,
+        "given": "Klinger Antonio",
+        "family": "da Franca Rodrigues",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Núcleo de Pesquisa em Biodiversidade e Biotecnologia, Biotec, Campus Ministro Reis Velloso, Universidade Federal do Delta do Parnaíba, Parnaíba 64202-020, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ivanilza Moreira",
+        "family": "de Andrade",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Núcleo de Pesquisa em Biodiversidade e Biotecnologia, Biotec, Campus Ministro Reis Velloso, Universidade Federal do Delta do Parnaíba, Parnaíba 64202-020, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9201-7074",
+        "authenticated-orcid": false,
+        "given": "Francisco Artur e",
+        "family": "Silva-Filho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Programa de Pós-graduação em Química, Universidade Estadual do Piauí, Parnaíba 64002-150, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1961-7281",
+        "authenticated-orcid": false,
+        "given": "Daniel Carneiro",
+        "family": "Moreira",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Núcleo de Pesquisa em Morfologia e Imunologia Aplicada, Faculdade de Medicina, Campus DarcyRibeiro, Universidade de Brasília, Brasília 70910-900, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David Fernandes",
+        "family": "Lima",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculdade de Medicina, Universidade Federal do Vale do São Francisco, Paulo Afonso 48605-560, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Massimo",
+        "family": "Lucarini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CREA-Research Centre for Food and Nutrition, Via Ardeatina 546, 00178 Rome, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7747-9107",
+        "authenticated-orcid": false,
+        "given": "Alessandra",
+        "family": "Durazzo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CREA-Research Centre for Food and Nutrition, Via Ardeatina 546, 00178 Rome, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7021-2744",
+        "authenticated-orcid": false,
+        "given": "Daniel Dias Rufino",
+        "family": "Arcanjo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Atividade Antileishmania, Núcleo de Pesquisas em Plantas Medicinais, Campus Ministro Petrônio Portella, Universidade Federal do Piauí, Ininga, Teresina 64049-550, Brazil"
+          },
+          {
+            "name": "Laboratório de Estudos Funcionais e Moleculares em Fisiofarmacologia, LAFMOL, Departamento de Biofísica e Fisiologia, Universidade Federal do Piauí, Teresina 64049-550, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1096-3236",
+        "authenticated-orcid": false,
+        "given": "José Roberto",
+        "family": "de Souza de Almeida Leite",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Núcleo de Pesquisa em Biodiversidade e Biotecnologia, Biotec, Campus Ministro Reis Velloso, Universidade Federal do Delta do Parnaíba, Parnaíba 64202-020, Brazil"
+          },
+          {
+            "name": "Núcleo de Pesquisa em Morfologia e Imunologia Aplicada, Faculdade de Medicina, Campus DarcyRibeiro, Universidade de Brasília, Brasília 70910-900, Brazil"
+          },
+          {
+            "name": "Programa de Pós-graduação em Medicina Tropical, Núcleo de Medicina Tropical, Faculdade de Medicina, Campus Darcy Ribeiro, Universidade de Brasília, Brasília 70910-900, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Agriculture"
+    ],
+    "volume": "13",
+    "issue": "2",
+    "page": "373",
+    "article-number": null,
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          3
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.3390/medicines3030022",
+    "title": [
+      "Cytotoxic and Antimicrobial Constituents from the Essential Oil of Lippia alba (Verbenaceae)"
+    ],
+    "author": [
+      {
+        "given": "Nara",
+        "family": "Santos",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Instituto de Ciências Ambientais, Químicas e Farmacêuticas, Universidade Federal de São Paulo, Diadema 09972-270, SP, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Renata",
+        "family": "Pascon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto de Ciências Ambientais, Químicas e Farmacêuticas, Universidade Federal de São Paulo, Diadema 09972-270, SP, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcelo",
+        "family": "Vallim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto de Ciências Ambientais, Químicas e Farmacêuticas, Universidade Federal de São Paulo, Diadema 09972-270, SP, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3680-4070",
+        "authenticated-orcid": false,
+        "given": "Carlos",
+        "family": "Figueiredo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Disciplina de Biologia Celular, Departamento de Micro, Imuno e Parasitologia, Universidade Federal de São Paulo, Sao Paulo 04021-001, SP, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marisi",
+        "family": "Soares",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto de Química, Universidade Federal de Alfenas, Alfenas 37130-000, MG, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "João",
+        "family": "Lago",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto de Ciências Ambientais, Químicas e Farmacêuticas, Universidade Federal de São Paulo, Diadema 09972-270, SP, Brazil"
+          },
+          {
+            "name": "Centro de Ciências Naturais e Humanas, Universidade Federal do ABC, Santo Andre 09210-180, SP, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patricia",
+        "family": "Sartorelli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto de Ciências Ambientais, Químicas e Farmacêuticas, Universidade Federal de São Paulo, Diadema 09972-270, SP, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Medicines"
+    ],
+    "volume": "3",
+    "issue": "3",
+    "page": "22",
+    "article-number": null,
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          12
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.3390/molecules28186666",
+    "title": [
+      "Dendritogenic Potential of the Ethanol Extract from Lippia alba Leaves in Rat Cortical Neurons"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7726-9620",
+        "authenticated-orcid": false,
+        "given": "María Marcela",
+        "family": "Velásquez",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Instituto de Genética Humana, Facultad de Medicina, Pontifica Universidad Javeriana, Bogotá 110911, Colombia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2113-9266",
+        "authenticated-orcid": false,
+        "given": "María Claudia",
+        "family": "Lattig",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Facultad de Ciencias, Universidad de los Andes, Bogotá 110911, Colombia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1422-5545",
+        "authenticated-orcid": false,
+        "given": "Luis Carlos",
+        "family": "Chitiva",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departamento de Química, Pontificia Universidad Javeriana, Bogotá 110911, Colombia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2449-1986",
+        "authenticated-orcid": false,
+        "given": "Geison M.",
+        "family": "Costa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departamento de Química, Pontificia Universidad Javeriana, Bogotá 110911, Colombia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jhon Jairo",
+        "family": "Sutachan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departamento de Nutrición y Bioquímica, Pontificia Universidad Javeriana, Bogotá 110911, Colombia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5010-9379",
+        "authenticated-orcid": false,
+        "given": "Sonia Luz",
+        "family": "Albarracin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departamento de Nutrición y Bioquímica, Pontificia Universidad Javeriana, Bogotá 110911, Colombia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Molecules"
+    ],
+    "volume": "28",
+    "issue": "18",
+    "page": "6666",
+    "article-number": null,
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          16
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.3390/molecules31132284",
+    "title": [
+      "Chemical Characterization and Bioactive Potential of Lippia alba Essential Oil: Ethnobotanical Relevance, Antioxidant, Antifungal, Antibacterial, and Molecular Docking Studies"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8962-5810",
+        "authenticated-orcid": false,
+        "given": "Juan E.",
+        "family": "Valdiviezo-Campos",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Research in Natural Products, Programa Académico de Farmacia y Bioquímica, Facultad de Ciencias de la Salud, Universidad Privada Norbert Wiener, Lima 15046, Peru"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6776-0050",
+        "authenticated-orcid": false,
+        "given": "Ramiro",
+        "family": "Fiestas-Jacinto",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Research in Natural Products, Programa Académico de Farmacia y Bioquímica, Facultad de Ciencias de la Salud, Universidad Privada Norbert Wiener, Lima 15046, Peru"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0390-2259",
+        "authenticated-orcid": false,
+        "given": "Karyn A.",
+        "family": "Olascuaga-Castillo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Pharmascience Research Group, Pharmacology Laboratory, School of Human Medicine, Universidad Privada Antenor Orrego, Trujillo 13001, Peru"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1368-8409",
+        "authenticated-orcid": false,
+        "given": "Segundo G.",
+        "family": "Ruiz-Reyes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacotechnics, Faculty of Pharmacy and Biochemistry, National University of Trujillo, Trujillo 13011, Peru"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9019-3744",
+        "authenticated-orcid": false,
+        "given": "Roger A.",
+        "family": "Rengifo-Penadillos",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biochemistry, Faculty of Pharmacy and Biochemistry, National University of Trujillo, Trujillo 13011, Peru"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1490-3206",
+        "authenticated-orcid": false,
+        "given": "Junior F.",
+        "family": "Siguas-Peña",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Research in Natural Products, Programa Académico de Farmacia y Bioquímica, Facultad de Ciencias de la Salud, Universidad Privada Norbert Wiener, Lima 15046, Peru"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Molecules"
+    ],
+    "volume": "31",
+    "issue": "13",
+    "page": "2284",
+    "article-number": null,
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.5530/pj.2021.13.174",
+    "title": [
+      "Anxiolytic-like Effect of Essential Oils Extracted from Lippia alba and Lippia citriodora"
+    ],
+    "author": [
+      {
+        "given": "Paul Alan Arkin",
+        "family": "Alvarado Garcia",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marilu Roxana",
+        "family": "Soto Vasquez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Luis Enrique",
+        "family": "Rosales Cerquin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bertha Mirella",
+        "family": "Alfaro-Ttito",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Elda Maritza",
+        "family": "Rodrigo Villanueva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Pharmacognosy Journal"
+    ],
+    "volume": "13",
+    "issue": "6",
+    "page": "1377-1383",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          13
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          13
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.62435/2965-7253.bjhae.2026.64",
+    "title": [
+      "Chemical Comparison between essential oil, hydrolate, and spagyric quintessence."
+    ],
+    "author": [
+      {
+        "given": "DANIEL LUIZ",
+        "family": "REIS SIMAS",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0009-3987-0699",
+        "authenticated-orcid": false,
+        "given": "Bernardo",
+        "family": "Starling Albuquerque Penido Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-8487-1019",
+        "authenticated-orcid": false,
+        "given": "Nathan",
+        "family": "Barros da Rocha",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-8458-896X",
+        "authenticated-orcid": false,
+        "given": "Ellen",
+        "family": "Tanus Rangel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Brazilian Journal of Health Aromatherapy and Essential Oil"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "page": "64",
+    "article-number": null,
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          8
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  },
+  {
+    "DOI": "10.7324/japs.2014.40201",
+    "title": [
+      "Myricitrin as the main constituent of two species of Myrcia"
+    ],
+    "author": [
+      {
+        "given": "Henrique H.",
+        "family": "Moresco",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Brazil."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcos",
+        "family": "Pereira",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Brazil."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lizandra C.",
+        "family": "Bretanha",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Brazil."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gustavo A.",
+        "family": "Micke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Eletroforese Capilar, Departamento de Química, Universidade Federal de Santa Catarina, Brazil."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Moacir G.",
+        "family": "Pizzolatti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Brazil."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ines M. C.",
+        "family": "Brighente",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratório de Química de Produtos Naturais, Departamento de Química, Universidade Federal de Santa Catarina, Brazil."
+          },
+          {
+            "name": "Corresponding Author Departamento de Química - Universidade Federal de Santa Catarina Campus Universitário Trindade, 88040-900, Florianópolis/SC, Brazil. Tel. +55 48 3721 6849; Fax: +55 48 3721 6850"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Applied Pharmaceutical Science"
+    ],
+    "volume": "4",
+    "issue": "2",
+    "page": "001-007",
+    "article-number": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          2
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          1
+        ]
+      ]
+    },
+    "update-to": null,
+    "relation": {}
+  }
+]

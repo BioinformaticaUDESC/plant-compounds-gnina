@@ -1,0 +1,22 @@
+{
+  "target_id": "GYRB_1KZN",
+  "pdb": "1KZN",
+  "chain": "A",
+  "ligand": "CBN",
+  "receptor": "targets/GYRB_1KZN/receptor_H.pdb",
+  "native_reference": "targets/GYRB_1KZN/native_reference.sdf",
+  "redock_input": "targets/GYRB_1KZN/redock_input.sdf",
+  "center": [
+    18.325000000000003,
+    30.783,
+    36.7615
+  ],
+  "size": [
+    22.0,
+    26.081999999999997,
+    26.489
+  ],
+  "pH_model": 7.4,
+  "preparation_note": "Escherichia coli GyrB 24kDa ATPase-domain pocket; deposited neutral clorobiocin state retained as explicit approximation; not whole-cell antimicrobial efficacy",
+  "near_site_missing_residue_warning": true
+}

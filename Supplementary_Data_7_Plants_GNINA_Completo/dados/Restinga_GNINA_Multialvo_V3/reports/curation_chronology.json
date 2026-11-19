@@ -1,0 +1,8 @@
+{
+  "identity_check_timing": "after initial AChE screening; before interpreting/using the mismatched-input results in primary summaries",
+  "selection_basis": "molecular identity and conformer diversity; not docking-score favorability",
+  "current_explanatory_record": "input_curation.json",
+  "historical_record_used_by_first_correction_run": "input_curation_original_snapshot.json",
+  "first_correction_protocol_record": "../correction_protocol_ache_initial.json",
+  "note": "Narrative wording was clarified; chemical input coordinates, hashes, search parameters and raw results were unchanged."
+}

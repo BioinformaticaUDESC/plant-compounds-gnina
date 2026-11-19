@@ -1,0 +1,624 @@
+target_id,input_id,structure_id,compound,receptor_chain,residue_name,residue_id,seeds_with_proximity_le_4A,total_seeds,minimum_distance_A,interpretation
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,PHE,106,3,3,3.727939940503337,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,PHE,94,3,3,3.617008100626816,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,HIS,95,3,3,3.5627720134749015,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,PHE,183,3,3,3.3050160271926066,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,PHE,87,3,3,3.503665426378494,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,SER,90,3,3,3.293817147323149,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,ILE,110,3,3,3.6048982371212626,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,VAL,113,3,3,3.7260857021813125,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,LEU,182,3,3,3.3472823992008833,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,PHE,281,3,3,3.581665168605236,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf01,alpha-humulene,alpha-humulene,A,PHE,91,3,3,3.696003969153711,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf02,alpha-humulene,alpha-humulene,A,PHE,87,3,3,3.6477732125229494,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf02,alpha-humulene,alpha-humulene,A,SER,90,3,3,3.1725535346152944,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf02,alpha-humulene,alpha-humulene,A,PHE,91,3,3,3.8777463429162053,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf02,alpha-humulene,alpha-humulene,A,VAL,113,3,3,3.6538465840809446,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf02,alpha-humulene,alpha-humulene,A,PHE,106,3,3,3.314560875892913,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf02,alpha-humulene,alpha-humulene,A,PHE,94,3,3,3.7843976812697693,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf02,alpha-humulene,alpha-humulene,A,PHE,183,3,3,3.670132140672867,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf02,alpha-humulene,alpha-humulene,A,HIS,95,3,3,3.18870507416412,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf02,alpha-humulene,alpha-humulene,A,ILE,110,3,3,3.558545861724982,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf03,alpha-humulene,alpha-humulene,A,ILE,110,3,3,3.4281746644533735,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf03,alpha-humulene,alpha-humulene,A,VAL,113,3,3,3.3506491863518013,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf03,alpha-humulene,alpha-humulene,A,PHE,183,3,3,3.460634843493314,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf03,alpha-humulene,alpha-humulene,A,PHE,94,3,3,3.5532479761480222,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf03,alpha-humulene,alpha-humulene,A,PHE,106,3,3,3.613400145292522,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf03,alpha-humulene,alpha-humulene,A,SER,90,3,3,3.4704156494575678,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf03,alpha-humulene,alpha-humulene,A,LEU,182,3,3,3.8532248753479243,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf03,alpha-humulene,alpha-humulene,A,PHE,281,3,3,3.667171463130679,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf03,alpha-humulene,alpha-humulene,A,PHE,91,3,3,3.620296155012735,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-humulene_conf03,alpha-humulene,alpha-humulene,A,HIS,95,3,3,3.308566071578445,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,ILE,110,3,3,3.5465389466351573,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,VAL,113,3,3,3.9050262098992343,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,SER,90,3,3,3.451952007198249,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,PHE,94,3,3,3.5762721512770836,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,PHE,106,3,3,3.6847862095378106,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,HIS,95,3,3,3.423984585245676,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,PHE,183,3,3,3.451081589878743,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,PHE,87,3,3,3.661399855246628,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,PHE,91,3,3,3.7293906231447496,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,LEU,182,3,3,3.337950368115142,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf01,beta-caryophyllene,beta-caryophyllene,A,PHE,281,3,3,3.636832338725554,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf02,beta-caryophyllene,beta-caryophyllene,A,PHE,94,3,3,3.650465348417922,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf02,beta-caryophyllene,beta-caryophyllene,A,HIS,95,3,3,3.2451512969351692,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf02,beta-caryophyllene,beta-caryophyllene,A,PHE,183,3,3,3.5950923993688946,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf02,beta-caryophyllene,beta-caryophyllene,A,PHE,87,3,3,3.78054547122502,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf02,beta-caryophyllene,beta-caryophyllene,A,ILE,110,3,3,3.2162848816608283,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf02,beta-caryophyllene,beta-caryophyllene,A,VAL,113,3,3,3.473461214696372,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf02,beta-caryophyllene,beta-caryophyllene,A,SER,90,3,3,3.5224605178766732,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf02,beta-caryophyllene,beta-caryophyllene,A,PHE,106,3,3,3.306255117198309,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf02,beta-caryophyllene,beta-caryophyllene,A,LYS,109,3,3,3.4281557870085204,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf03,beta-caryophyllene,beta-caryophyllene,A,PHE,94,3,3,3.557114991112883,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf03,beta-caryophyllene,beta-caryophyllene,A,HIS,95,3,3,3.342826705050683,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf03,beta-caryophyllene,beta-caryophyllene,A,PHE,183,3,3,3.6225255361418784,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf03,beta-caryophyllene,beta-caryophyllene,A,SER,90,3,3,3.133376199884081,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf03,beta-caryophyllene,beta-caryophyllene,A,PHE,87,3,3,3.550275017516248,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf03,beta-caryophyllene,beta-caryophyllene,A,PHE,91,3,3,3.7521406756676914,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf03,beta-caryophyllene,beta-caryophyllene,A,PHE,106,3,3,3.3749483507159033,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf03,beta-caryophyllene,beta-caryophyllene,A,LYS,109,3,3,3.6569316113375714,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-caryophyllene_conf03,beta-caryophyllene,beta-caryophyllene,A,ILE,110,3,3,3.3580335331857545,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-guaiene_conf01,alpha-guaiene,alpha-guaiene,A,PHE,87,3,3,3.4335008038443813,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-guaiene_conf01,alpha-guaiene,alpha-guaiene,A,SER,90,3,3,3.3819447097786814,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-guaiene_conf01,alpha-guaiene,alpha-guaiene,A,VAL,113,3,3,3.609382497048491,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-guaiene_conf01,alpha-guaiene,alpha-guaiene,A,PHE,183,3,3,3.505865445221764,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-guaiene_conf01,alpha-guaiene,alpha-guaiene,A,LYS,109,3,3,3.601418955078679,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-guaiene_conf01,alpha-guaiene,alpha-guaiene,A,ILE,110,3,3,3.524907512261847,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-guaiene_conf01,alpha-guaiene,alpha-guaiene,A,PHE,106,3,3,3.198104630871232,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-guaiene_conf01,alpha-guaiene,alpha-guaiene,A,PHE,94,3,3,3.594707015877649,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-guaiene_conf01,alpha-guaiene,alpha-guaiene,A,LEU,182,3,3,3.530190326313866,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-guaiene_conf01,alpha-guaiene,alpha-guaiene,A,PRO,184,3,3,3.67241249589422,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,PHE,94,3,3,3.5340564921913735,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,LEU,182,3,3,3.5717731758889744,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,PRO,184,3,3,3.693059628546502,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,PHE,106,3,3,3.566191901734959,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,ILE,110,3,3,3.6404447022307598,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,VAL,113,3,3,3.3045787038592414,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,PHE,87,3,3,3.731961474881544,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,PHE,183,3,3,3.2630739326592026,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,LYS,109,3,3,3.8488656030056454,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,PHE,91,3,3,3.608886113470471,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,SER,285,3,3,3.951843921513095,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,PHE,281,3,3,3.9421944662839783,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-selinene_conf01,beta-selinene,beta-selinene,A,ILE,110,3,3,3.517466544261653,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-selinene_conf01,beta-selinene,beta-selinene,A,PHE,106,3,3,3.464053621120779,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-selinene_conf01,beta-selinene,beta-selinene,A,PHE,94,3,3,3.512017280709192,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-selinene_conf01,beta-selinene,beta-selinene,A,HIS,95,3,3,3.5207785985489086,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-selinene_conf01,beta-selinene,beta-selinene,A,LEU,182,3,3,3.83828967770803,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-selinene_conf01,beta-selinene,beta-selinene,A,PHE,183,3,3,3.541294250694228,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-selinene_conf01,beta-selinene,beta-selinene,A,PHE,281,3,3,3.801453091911038,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-selinene_conf01,beta-selinene,beta-selinene,A,PHE,87,3,3,3.7129417918949383,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-selinene_conf01,beta-selinene,beta-selinene,A,LYS,109,3,3,3.7261405045972182,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-selinene_conf01,beta-selinene,beta-selinene,A,VAL,113,3,3,3.2982211826983336,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer1_conf01,alpha-phellandrene_isomer1,alpha-phellandrene,A,HIS,95,3,3,3.446074341914289,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer1_conf01,alpha-phellandrene_isomer1,alpha-phellandrene,A,PHE,94,3,3,3.5197079125972923,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer1_conf01,alpha-phellandrene_isomer1,alpha-phellandrene,A,SER,90,3,3,3.5911429531557224,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer1_conf01,alpha-phellandrene_isomer1,alpha-phellandrene,A,PHE,106,3,3,3.4822046953043992,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer1_conf01,alpha-phellandrene_isomer1,alpha-phellandrene,A,ILE,110,3,3,3.9487176070212966,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer2_conf01,alpha-phellandrene_isomer2,alpha-phellandrene,A,ILE,186,3,3,3.6890873627497607,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer2_conf01,alpha-phellandrene_isomer2,alpha-phellandrene,A,LEU,191,3,3,3.647238710312228,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer2_conf01,alpha-phellandrene_isomer2,alpha-phellandrene,A,ILE,110,3,3,3.6197043705253056,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer2_conf01,alpha-phellandrene_isomer2,alpha-phellandrene,A,THR,114,3,3,3.375908581404421,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer2_conf01,alpha-phellandrene_isomer2,alpha-phellandrene,A,PHE,183,3,3,3.5902663104566477,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer2_conf01,alpha-phellandrene_isomer2,alpha-phellandrene,A,TRP,194,3,3,3.6616952863393766,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer2_conf01,alpha-phellandrene_isomer2,alpha-phellandrene,A,MET,265,3,3,3.7169782525594623,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer2_conf01,alpha-phellandrene_isomer2,alpha-phellandrene,A,VAL,113,3,3,3.7278982617555427,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-phellandrene_isomer2_conf01,alpha-phellandrene_isomer2,alpha-phellandrene,A,PHE,117,3,3,3.7209551865078923,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer1_conf01,alpha-pinene_isomer1,alpha-pinene,A,PHE,94,3,3,3.6376837877968464,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer1_conf01,alpha-pinene_isomer1,alpha-pinene,A,PHE,106,3,3,3.648526819142216,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer1_conf01,alpha-pinene_isomer1,alpha-pinene,A,PRO,184,3,3,3.5779197950764647,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer1_conf01,alpha-pinene_isomer1,alpha-pinene,A,SER,90,3,3,3.4317506057404588,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer1_conf01,alpha-pinene_isomer1,alpha-pinene,A,PHE,91,3,3,3.9370110540865877,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer1_conf01,alpha-pinene_isomer1,alpha-pinene,A,ILE,110,3,3,3.6164664923098644,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer1_conf01,alpha-pinene_isomer1,alpha-pinene,A,LYS,109,3,3,3.6284348168321836,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer2_conf01,alpha-pinene_isomer2,alpha-pinene,A,PHE,94,3,3,3.5753456462277864,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer2_conf01,alpha-pinene_isomer2,alpha-pinene,A,PHE,106,3,3,3.6438450694287208,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer2_conf01,alpha-pinene_isomer2,alpha-pinene,A,PRO,184,3,3,3.5152766406073983,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer2_conf01,alpha-pinene_isomer2,alpha-pinene,A,SER,90,3,3,3.3781910854775528,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer2_conf01,alpha-pinene_isomer2,alpha-pinene,A,PHE,91,3,3,3.9106430340801994,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer2_conf01,alpha-pinene_isomer2,alpha-pinene,A,ILE,110,3,3,3.559123675850561,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-pinene_isomer2_conf01,alpha-pinene_isomer2,alpha-pinene,A,LYS,109,3,3,3.9461110399987502,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer1_conf01,limonene_isomer1,limonene,A,PHE,183,3,3,3.544220991981171,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer1_conf01,limonene_isomer1,limonene,A,ILE,186,3,3,3.506290561262715,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer1_conf01,limonene_isomer1,limonene,A,LEU,191,3,3,3.70088863653042,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer1_conf01,limonene_isomer1,limonene,A,ILE,110,3,3,3.692492063633989,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer1_conf01,limonene_isomer1,limonene,A,THR,114,3,3,3.278999275693729,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer1_conf01,limonene_isomer1,limonene,A,TRP,194,3,3,3.6312399810533065,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer1_conf01,limonene_isomer1,limonene,A,MET,265,3,3,3.5168415375162976,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer1_conf01,limonene_isomer1,limonene,A,PHE,117,3,3,3.4367726212247423,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer1_conf01,limonene_isomer1,limonene,A,VAL,113,3,3,3.7189689243122204,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer2_conf01,limonene_isomer2,limonene,A,TRP,258,3,3,3.5216483257134024,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer2_conf01,limonene_isomer2,limonene,A,VAL,261,3,3,3.718278414804357,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer2_conf01,limonene_isomer2,limonene,A,LEU,262,3,3,3.64796176240925,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer2_conf01,limonene_isomer2,limonene,A,MET,265,3,3,3.6240523533745987,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer2_conf01,limonene_isomer2,limonene,A,TRP,194,3,3,3.611769047156808,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer2_conf01,limonene_isomer2,limonene,A,PHE,117,3,3,3.585928366546102,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer2_conf01,limonene_isomer2,limonene,A,CYS,288,1,3,3.9783757653092544,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer2_conf01,limonene_isomer2,limonene,A,THR,114,3,3,3.443555466374833,contact_recurrence_not_binding_probability
+CB2_5ZTY,limonene_isomer2_conf01,limonene_isomer2,limonene,A,VAL,113,3,3,3.703277086581559,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer1_conf01,beta-phellandrene_isomer1,beta-phellandrene,A,SER,90,3,3,3.381430615878433,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer1_conf01,beta-phellandrene_isomer1,beta-phellandrene,A,PHE,94,3,3,3.663672520845718,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer1_conf01,beta-phellandrene_isomer1,beta-phellandrene,A,HIS,95,3,3,3.5283140534822017,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer1_conf01,beta-phellandrene_isomer1,beta-phellandrene,A,PHE,106,3,3,3.533089189363893,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer1_conf01,beta-phellandrene_isomer1,beta-phellandrene,A,ILE,110,3,3,3.8296210896118694,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer1_conf01,beta-phellandrene_isomer1,beta-phellandrene,A,LYS,109,3,3,3.8429708677011862,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer2_conf01,beta-phellandrene_isomer2,beta-phellandrene,A,PHE,94,3,3,3.576062465897374,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer2_conf01,beta-phellandrene_isomer2,beta-phellandrene,A,PHE,106,3,3,3.5329691096866425,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer2_conf01,beta-phellandrene_isomer2,beta-phellandrene,A,HIS,95,1,3,3.5874932571365217,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer2_conf01,beta-phellandrene_isomer2,beta-phellandrene,A,SER,90,3,3,3.4943970810427376,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer2_conf01,beta-phellandrene_isomer2,beta-phellandrene,A,ILE,110,3,3,3.6232654843386793,contact_recurrence_not_binding_probability
+CB2_5ZTY,p-cymene_conf01,p-cymene,p-cymene,A,PHE,183,3,3,3.5679038790303754,contact_recurrence_not_binding_probability
+CB2_5ZTY,p-cymene_conf01,p-cymene,p-cymene,A,ILE,186,3,3,3.542754953422546,contact_recurrence_not_binding_probability
+CB2_5ZTY,p-cymene_conf01,p-cymene,p-cymene,A,LEU,191,3,3,3.6508451432510802,contact_recurrence_not_binding_probability
+CB2_5ZTY,p-cymene_conf01,p-cymene,p-cymene,A,MET,265,3,3,3.5968099755199745,contact_recurrence_not_binding_probability
+CB2_5ZTY,p-cymene_conf01,p-cymene,p-cymene,A,TRP,194,3,3,3.723598725695345,contact_recurrence_not_binding_probability
+CB2_5ZTY,p-cymene_conf01,p-cymene,p-cymene,A,THR,114,3,3,3.3136968207728357,contact_recurrence_not_binding_probability
+CB2_5ZTY,p-cymene_conf01,p-cymene,p-cymene,A,ILE,110,3,3,3.6083000512706795,contact_recurrence_not_binding_probability
+CB2_5ZTY,p-cymene_conf01,p-cymene,p-cymene,A,VAL,113,2,3,3.956168391259401,contact_recurrence_not_binding_probability
+CB2_5ZTY,p-cymene_conf01,p-cymene,p-cymene,A,PHE,117,3,3,3.629565216386114,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf01,germacrene_D,germacrene D,A,PHE,94,3,3,3.580832202156366,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf01,germacrene_D,germacrene D,A,HIS,95,3,3,3.559374442229983,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf01,germacrene_D,germacrene D,A,PHE,183,3,3,3.4847888860015623,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf01,germacrene_D,germacrene D,A,PHE,87,3,3,3.66618917406072,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf01,germacrene_D,germacrene D,A,VAL,113,3,3,3.3414443553649074,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf01,germacrene_D,germacrene D,A,ILE,110,3,3,3.6384265445381745,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf01,germacrene_D,germacrene D,A,PHE,106,3,3,3.481305792371595,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf01,germacrene_D,germacrene D,A,LYS,109,3,3,3.4872863690841336,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf01,germacrene_D,germacrene D,A,SER,90,3,3,3.5863734886372343,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf02,germacrene_D,germacrene D,A,PHE,91,3,3,3.9212961339332715,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf02,germacrene_D,germacrene D,A,PHE,94,3,3,3.5732960106881726,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf02,germacrene_D,germacrene D,A,HIS,95,3,3,3.6557907174782303,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf02,germacrene_D,germacrene D,A,PHE,183,3,3,3.4105329627493712,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf02,germacrene_D,germacrene D,A,PHE,87,3,3,3.520820417175519,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf02,germacrene_D,germacrene D,A,VAL,113,3,3,3.3459373589474115,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf02,germacrene_D,germacrene D,A,ILE,110,3,3,3.552576025928226,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf02,germacrene_D,germacrene D,A,PHE,106,3,3,3.521998073537233,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf02,germacrene_D,germacrene D,A,SER,90,3,3,3.6214743931167046,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf02,germacrene_D,germacrene D,A,LYS,109,3,3,3.513002309990703,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf03,germacrene_D,germacrene D,A,LEU,182,3,3,3.5018349504224204,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf03,germacrene_D,germacrene D,A,PHE,183,3,3,3.5348545104431106,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf03,germacrene_D,germacrene D,A,PHE,91,3,3,3.7755596803652836,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf03,germacrene_D,germacrene D,A,PHE,87,3,3,3.5006056475987153,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf03,germacrene_D,germacrene D,A,VAL,113,3,3,3.453963562343994,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf03,germacrene_D,germacrene D,A,ILE,110,3,3,3.654601047994159,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf03,germacrene_D,germacrene D,A,PHE,94,3,3,3.568895925913225,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf03,germacrene_D,germacrene D,A,PHE,106,3,3,3.4374125748882696,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf03,germacrene_D,germacrene D,A,SER,90,3,3,3.6127904976624383,contact_recurrence_not_binding_probability
+CB2_5ZTY,germacrene_D_conf03,germacrene_D,germacrene D,A,LYS,109,3,3,3.498716167396265,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf01,bicyclogermacrene,bicyclogermacrene,A,PHE,87,3,3,3.626987955590703,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf01,bicyclogermacrene,bicyclogermacrene,A,SER,90,3,3,3.4365015931903757,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf01,bicyclogermacrene,bicyclogermacrene,A,PHE,91,3,3,3.504658264367583,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf01,bicyclogermacrene,bicyclogermacrene,A,VAL,113,3,3,3.478782580156451,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf01,bicyclogermacrene,bicyclogermacrene,A,ILE,110,3,3,3.5213263822031613,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf01,bicyclogermacrene,bicyclogermacrene,A,PHE,183,3,3,3.635362611899947,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf01,bicyclogermacrene,bicyclogermacrene,A,HIS,95,3,3,3.695299362703922,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf01,bicyclogermacrene,bicyclogermacrene,A,LEU,182,3,3,3.237568030173266,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf01,bicyclogermacrene,bicyclogermacrene,A,PRO,184,3,3,3.7519410483108664,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf01,bicyclogermacrene,bicyclogermacrene,A,PHE,94,3,3,3.440626352860773,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf02,bicyclogermacrene,bicyclogermacrene,A,SER,90,3,3,3.3742793689912522,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf02,bicyclogermacrene,bicyclogermacrene,A,PHE,94,3,3,3.6388699756930025,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf02,bicyclogermacrene,bicyclogermacrene,A,VAL,113,3,3,3.4125224380214676,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf02,bicyclogermacrene,bicyclogermacrene,A,ILE,110,3,3,3.493631802293995,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf02,bicyclogermacrene,bicyclogermacrene,A,PHE,183,3,3,3.6117503983525774,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf02,bicyclogermacrene,bicyclogermacrene,A,PHE,91,3,3,3.5587212394341874,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf02,bicyclogermacrene,bicyclogermacrene,A,HIS,95,3,3,3.4205061102123486,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf02,bicyclogermacrene,bicyclogermacrene,A,LEU,182,3,3,3.45102640383988,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf02,bicyclogermacrene,bicyclogermacrene,A,PHE,281,3,3,3.753164428852006,contact_recurrence_not_binding_probability
+CB2_5ZTY,bicyclogermacrene_conf02,bicyclogermacrene,bicyclogermacrene,A,PHE,87,3,3,3.686044801681065,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer1_conf01,beta-pinene_isomer1,beta-pinene,A,SER,90,3,3,3.415620202832863,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer1_conf01,beta-pinene_isomer1,beta-pinene,A,PHE,94,3,3,3.617381662197119,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer1_conf01,beta-pinene_isomer1,beta-pinene,A,PHE,106,3,3,3.6577182299898388,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer1_conf01,beta-pinene_isomer1,beta-pinene,A,PRO,184,3,3,3.69852633490692,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer1_conf01,beta-pinene_isomer1,beta-pinene,A,PHE,91,3,3,3.6374217847260994,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer1_conf01,beta-pinene_isomer1,beta-pinene,A,HIS,95,3,3,3.9395139471767324,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer1_conf01,beta-pinene_isomer1,beta-pinene,A,PHE,87,3,3,3.7627444917240918,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer2_conf01,beta-pinene_isomer2,beta-pinene,A,ILE,110,3,3,3.558204464333101,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer2_conf01,beta-pinene_isomer2,beta-pinene,A,SER,90,3,3,3.437298501730683,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer2_conf01,beta-pinene_isomer2,beta-pinene,A,PHE,91,3,3,3.927357586214936,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer2_conf01,beta-pinene_isomer2,beta-pinene,A,PHE,94,3,3,3.4916604488409244,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer2_conf01,beta-pinene_isomer2,beta-pinene,A,PRO,184,3,3,3.7239256544673425,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-pinene_isomer2_conf01,beta-pinene_isomer2,beta-pinene,A,PHE,106,3,3,3.643244671992262,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf01,caryophyllene_oxide,caryophyllene oxide,A,PHE,91,3,3,3.911030766946232,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf01,caryophyllene_oxide,caryophyllene oxide,A,PHE,94,3,3,3.628430307998213,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf01,caryophyllene_oxide,caryophyllene oxide,A,HIS,95,3,3,3.5952491888602114,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf01,caryophyllene_oxide,caryophyllene oxide,A,PHE,106,3,3,3.258605108017844,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf01,caryophyllene_oxide,caryophyllene oxide,A,SER,90,3,3,3.5115305793912763,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf01,caryophyllene_oxide,caryophyllene oxide,A,LYS,109,3,3,3.4787488641751656,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf01,caryophyllene_oxide,caryophyllene oxide,A,VAL,113,3,3,3.474618465385799,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf01,caryophyllene_oxide,caryophyllene oxide,A,ILE,110,3,3,3.2093220249766143,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf01,caryophyllene_oxide,caryophyllene oxide,A,PHE,87,3,3,3.6896581061122755,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf01,caryophyllene_oxide,caryophyllene oxide,A,PHE,183,3,3,3.7968568053062,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf02,caryophyllene_oxide,caryophyllene oxide,A,PHE,94,3,3,3.5234201012652475,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf02,caryophyllene_oxide,caryophyllene oxide,A,HIS,95,3,3,3.4480945854196055,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf02,caryophyllene_oxide,caryophyllene oxide,A,PHE,106,3,3,3.3871877066380596,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf02,caryophyllene_oxide,caryophyllene oxide,A,SER,90,3,3,3.138177216155901,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf02,caryophyllene_oxide,caryophyllene oxide,A,LYS,109,3,3,3.6060661308411994,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf02,caryophyllene_oxide,caryophyllene oxide,A,ILE,110,3,3,3.3255781737917425,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf02,caryophyllene_oxide,caryophyllene oxide,A,PHE,87,3,3,3.5930744286752554,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf02,caryophyllene_oxide,caryophyllene oxide,A,PHE,91,3,3,3.781710314130367,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf02,caryophyllene_oxide,caryophyllene oxide,A,PHE,183,3,3,3.544196690365816,contact_recurrence_not_binding_probability
+CB2_5ZTY,caryophyllene_oxide_conf02,caryophyllene_oxide,caryophyllene oxide,A,LEU,182,1,3,3.9949322322162124,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,TRP,194,3,3,3.6188606687740825,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,MET,265,3,3,3.639749543581261,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,THR,114,3,3,2.8707737580659316,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,PHE,117,3,3,3.523239580272675,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,TRP,258,3,3,3.486211267264216,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,CYS,288,3,3,3.7311727821155642,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,VAL,261,1,3,3.7497904341442867,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,LEU,262,3,3,3.542738517023237,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,PHE,183,3,3,3.6267070297998996,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,ILE,186,3,3,3.5596752394003564,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,LEU,191,3,3,3.636771296081184,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,ILE,110,1,3,3.8889731253892723,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer1_conf01,E-nerolidol_isomer1,(E)-nerolidol,A,TYR,190,3,3,3.6147256078435603,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,VAL,113,1,3,3.620690443824216,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,ILE,110,3,3,3.6291411904195727,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,PHE,87,1,3,3.6732772683259296,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,SER,90,3,3,2.8002268640236996,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,PHE,183,1,3,3.629000768806751,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,PHE,281,3,3,3.3797173402519927,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,SER,285,1,3,3.5223307539184896,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,LYS,109,3,3,3.459148729095064,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,PHE,106,3,3,3.3727806228689103,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,PHE,94,3,3,3.620421330453131,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-cadinol_conf01,alpha-cadinol,alpha-cadinol,A,PHE,87,3,3,3.7415915129794737,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-cadinol_conf01,alpha-cadinol,alpha-cadinol,A,VAL,113,3,3,3.2619957985871197,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-cadinol_conf01,alpha-cadinol,alpha-cadinol,A,PHE,183,3,3,3.682075731160346,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-cadinol_conf01,alpha-cadinol,alpha-cadinol,A,ILE,110,3,3,3.471440919848701,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-cadinol_conf01,alpha-cadinol,alpha-cadinol,A,PHE,106,3,3,3.482942521776667,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-cadinol_conf01,alpha-cadinol,alpha-cadinol,A,PHE,94,3,3,3.343282901580421,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-cadinol_conf01,alpha-cadinol,alpha-cadinol,A,HIS,95,3,3,2.959523620449751,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-cadinol_conf01,alpha-cadinol,alpha-cadinol,A,PHE,91,3,3,3.7209954259579536,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-cadinol_conf01,alpha-cadinol,alpha-cadinol,A,SER,90,3,3,3.393886129498161,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,PHE,106,2,3,3.4270162094743597,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,ILE,110,2,3,3.5561602410465136,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,LYS,109,2,3,3.2331743905951007,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,SER,90,2,3,3.230563415257468,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,PHE,94,2,3,3.636662113807112,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,ASP,101,2,3,3.2885514501068736,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,VAL,113,2,3,3.6027014100532972,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,PHE,87,2,3,3.6792182471280537,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,PHE,183,3,3,3.643950835288533,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,SER,90,3,3,2.7471544987495693,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,PHE,94,3,3,3.6246116205739916,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,PHE,106,3,3,3.566205828327914,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,LYS,109,3,3,3.276327714072572,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,ILE,110,3,3,3.6138339225813905,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,ASP,101,2,3,3.3386599542331403,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,PHE,91,3,3,3.3169025671550867,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,HIS,95,2,3,3.5421176575602344,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer1_conf01,carvone_isomer1,carvone,A,HIS,95,3,3,3.3783585156107994,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer1_conf01,carvone_isomer1,carvone,A,LEU,182,3,3,3.5749808642844534,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer1_conf01,carvone_isomer1,carvone,A,PHE,94,3,3,3.534236091434753,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer1_conf01,carvone_isomer1,carvone,A,PRO,184,3,3,3.7003112774468083,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer1_conf01,carvone_isomer1,carvone,A,PHE,106,3,3,3.452089564307394,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer1_conf01,carvone_isomer1,carvone,A,PHE,91,3,3,3.5182090131201735,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer1_conf01,carvone_isomer1,carvone,A,SER,90,3,3,3.453277457720418,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer1_conf01,carvone_isomer1,carvone,A,ILE,110,3,3,3.7631099598603277,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer2_conf01,carvone_isomer2,carvone,A,PHE,91,3,3,3.3773005936694473,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer2_conf01,carvone_isomer2,carvone,A,HIS,95,3,3,3.604838316762628,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer2_conf01,carvone_isomer2,carvone,A,PHE,94,3,3,3.6712257939276904,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer2_conf01,carvone_isomer2,carvone,A,PHE,106,3,3,3.569177812886322,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer2_conf01,carvone_isomer2,carvone,A,SER,90,3,3,3.39557487769008,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer2_conf01,carvone_isomer2,carvone,A,PHE,87,3,3,3.9341396886740077,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer2_conf01,carvone_isomer2,carvone,A,LYS,109,3,3,3.533880910557118,contact_recurrence_not_binding_probability
+CB2_5ZTY,carvone_isomer2_conf01,carvone_isomer2,carvone,A,ILE,110,3,3,3.8101661118644152,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer1_conf01,linalool_isomer1,linalool,A,PHE,117,3,3,3.6853674579341473,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer1_conf01,linalool_isomer1,linalool,A,TRP,194,3,3,3.5120069362118316,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer1_conf01,linalool_isomer1,linalool,A,MET,265,3,3,3.718862108226114,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer1_conf01,linalool_isomer1,linalool,A,TRP,258,3,3,3.6704566432529893,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer1_conf01,linalool_isomer1,linalool,A,CYS,288,2,3,3.9611580693024613,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer1_conf01,linalool_isomer1,linalool,A,PHE,183,3,3,3.6034145043278016,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer1_conf01,linalool_isomer1,linalool,A,THR,114,3,3,3.538470014003227,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer1_conf01,linalool_isomer1,linalool,A,TYR,190,2,3,3.806954821113589,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,SER,90,2,3,2.8069956483756786,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,PHE,91,2,3,3.258485786373788,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,PHE,87,2,3,2.9535979110230937,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,VAL,113,2,3,3.6679802971117508,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,PHE,94,2,3,3.667783611392582,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,HIS,95,2,3,3.7378547992130464,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,PHE,106,2,3,3.6486716665109795,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,LEU,182,2,3,3.677373837400817,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,PRO,184,2,3,3.6551487165367202,contact_recurrence_not_binding_probability
+CB2_5ZTY,myrcene_conf01,myrcene,myrcene,A,LYS,109,3,3,3.7065943897329805,contact_recurrence_not_binding_probability
+CB2_5ZTY,myrcene_conf01,myrcene,myrcene,A,ILE,110,3,3,3.56304178055773,contact_recurrence_not_binding_probability
+CB2_5ZTY,myrcene_conf01,myrcene,myrcene,A,VAL,113,3,3,3.650810278554614,contact_recurrence_not_binding_probability
+CB2_5ZTY,myrcene_conf01,myrcene,myrcene,A,PHE,87,3,3,3.8049965703006925,contact_recurrence_not_binding_probability
+CB2_5ZTY,myrcene_conf01,myrcene,myrcene,A,SER,90,3,3,3.515997532706755,contact_recurrence_not_binding_probability
+CB2_5ZTY,myrcene_conf01,myrcene,myrcene,A,PHE,183,3,3,3.7554957728640823,contact_recurrence_not_binding_probability
+CB2_5ZTY,myrcene_conf01,myrcene,myrcene,A,PHE,106,3,3,3.5368914741620197,contact_recurrence_not_binding_probability
+CB2_5ZTY,myrcene_conf01,myrcene,myrcene,A,PHE,94,3,3,3.609664125649363,contact_recurrence_not_binding_probability
+CB2_5ZTY,geraniol_conf01,geraniol,geraniol,A,PHE,106,3,3,3.484458325192024,contact_recurrence_not_binding_probability
+CB2_5ZTY,geraniol_conf01,geraniol,geraniol,A,LYS,109,3,3,3.066329594156507,contact_recurrence_not_binding_probability
+CB2_5ZTY,geraniol_conf01,geraniol,geraniol,A,ILE,110,3,3,3.487865853211674,contact_recurrence_not_binding_probability
+CB2_5ZTY,geraniol_conf01,geraniol,geraniol,A,SER,90,3,3,3.3413274098776977,contact_recurrence_not_binding_probability
+CB2_5ZTY,geraniol_conf01,geraniol,geraniol,A,PHE,94,3,3,3.4690538738970313,contact_recurrence_not_binding_probability
+CB2_5ZTY,geraniol_conf01,geraniol,geraniol,A,ASP,101,3,3,2.851876501533684,contact_recurrence_not_binding_probability
+CB2_5ZTY,geraniol_conf01,geraniol,geraniol,A,ASN,93,1,3,3.908235517468209,contact_recurrence_not_binding_probability
+CB2_5ZTY,geraniol_conf01,geraniol,geraniol,A,VAL,113,3,3,3.60222700700553,contact_recurrence_not_binding_probability
+CB2_5ZTY,geraniol_conf01,geraniol,geraniol,A,PHE,183,3,3,3.6778094757613515,contact_recurrence_not_binding_probability
+CB2_5ZTY,geraniol_conf01,geraniol,geraniol,A,PHE,87,3,3,3.7120128596221207,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,HIS,95,3,3,3.284547072276481,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,PHE,281,3,3,3.0113732681286813,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,ALA,282,3,3,3.0995447633483226,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,SER,285,3,3,3.9050613042563085,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,LYS,278,3,3,2.8829635724372213,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,TYR,25,3,3,3.145021058753026,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,LEU,182,3,3,3.199884419787689,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,PHE,94,3,3,3.697160674084909,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,ILE,27,3,3,3.714785050309099,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,PHE,91,3,3,3.393518707772213,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,PHE,106,3,3,3.4936346260019824,contact_recurrence_not_binding_probability
+CB2_5ZTY,quercetin_conf01,quercetin,quercetin,A,SER,90,3,3,2.957296796062242,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,HIS,95,3,3,3.34294332138611,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,PHE,281,3,3,3.220920852799708,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,LEU,182,3,3,3.0657362786123654,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,TYR,25,3,3,3.081084578521012,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,LYS,278,3,3,2.7329671311598296,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,ALA,282,3,3,2.948955465923487,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,ILE,27,3,3,3.779172681950379,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,PHE,91,3,3,3.626122713036611,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,PHE,183,3,3,3.876127463074453,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,ILE,110,3,3,3.4315216420707597,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,PHE,106,3,3,3.82523563980051,contact_recurrence_not_binding_probability
+CB2_5ZTY,catechin_conf01,catechin,catechin,A,PHE,94,3,3,3.516948569427766,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,PHE,183,3,3,3.185333759592549,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,PHE,281,3,3,3.1261966844714046,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,LEU,182,3,3,3.24976119430336,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,LYS,278,3,3,2.6987184384444416,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,TYR,25,3,3,2.8562504984682286,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,HIS,95,3,3,3.27495189277644,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,PHE,94,3,3,3.1173326947889257,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,PHE,87,3,3,3.3133494322211163,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,SER,285,3,3,3.4201303849414857,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,VAL,113,3,3,2.4651800441347045,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,PHE,117,2,3,3.54420248998276,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,VAL,261,3,3,3.54573614923615,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,PHE,106,3,3,3.0850730526196597,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,ILE,110,2,3,3.7476621059001567,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,SER,90,3,3,2.7905924263496455,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,PHE,91,3,3,3.0904206348003864,contact_recurrence_not_binding_probability
+CB2_5ZTY,eucalyptol_conf01,eucalyptol,eucalyptol,A,LYS,109,2,3,3.959811269492527,contact_recurrence_not_binding_probability
+CB2_5ZTY,eucalyptol_conf01,eucalyptol,eucalyptol,A,ILE,110,3,3,3.528212152067956,contact_recurrence_not_binding_probability
+CB2_5ZTY,eucalyptol_conf01,eucalyptol,eucalyptol,A,PHE,106,3,3,3.6625306906563933,contact_recurrence_not_binding_probability
+CB2_5ZTY,eucalyptol_conf01,eucalyptol,eucalyptol,A,PHE,94,3,3,3.525909474164081,contact_recurrence_not_binding_probability
+CB2_5ZTY,eucalyptol_conf01,eucalyptol,eucalyptol,A,SER,90,3,3,3.1862386884852176,contact_recurrence_not_binding_probability
+CB2_5ZTY,eucalyptol_conf01,eucalyptol,eucalyptol,A,PHE,87,3,3,3.6766824665722773,contact_recurrence_not_binding_probability
+CB2_5ZTY,eucalyptol_conf01,eucalyptol,eucalyptol,A,PHE,91,3,3,3.682822091820348,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer1_conf01,sabinene_isomer1,sabinene,A,PHE,106,3,3,3.5050125563255814,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer1_conf01,sabinene_isomer1,sabinene,A,PHE,94,3,3,3.545015758780207,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer1_conf01,sabinene_isomer1,sabinene,A,SER,90,3,3,3.3989555351607645,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer1_conf01,sabinene_isomer1,sabinene,A,PHE,91,2,3,3.5643407665373386,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer1_conf01,sabinene_isomer1,sabinene,A,HIS,95,2,3,3.55622545123337,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer1_conf01,sabinene_isomer1,sabinene,A,LYS,109,3,3,3.584595728949083,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer1_conf01,sabinene_isomer1,sabinene,A,ILE,110,3,3,3.3939435793778316,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer1_conf01,sabinene_isomer1,sabinene,A,VAL,113,2,3,3.9558312577762997,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer2_conf01,sabinene_isomer2,sabinene,A,PHE,106,3,3,3.619952592231011,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer2_conf01,sabinene_isomer2,sabinene,A,ILE,110,3,3,3.673528167851719,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer2_conf01,sabinene_isomer2,sabinene,A,LYS,109,3,3,3.5281899396149305,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer2_conf01,sabinene_isomer2,sabinene,A,SER,90,3,3,3.5024712832512996,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer2_conf01,sabinene_isomer2,sabinene,A,PHE,94,3,3,3.7352451927550936,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer2_conf01,sabinene_isomer2,sabinene,A,VAL,113,1,3,3.9991434332866787,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-beta-ocimene_conf01,E-beta-ocimene,(E)-beta-ocimene,A,THR,114,3,3,3.5190742774201276,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-beta-ocimene_conf01,E-beta-ocimene,(E)-beta-ocimene,A,TRP,194,3,3,3.5182796264651857,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-beta-ocimene_conf01,E-beta-ocimene,(E)-beta-ocimene,A,PHE,183,3,3,3.6069623008842253,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-beta-ocimene_conf01,E-beta-ocimene,(E)-beta-ocimene,A,PHE,117,3,3,3.5044463956522387,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-beta-ocimene_conf01,E-beta-ocimene,(E)-beta-ocimene,A,TRP,258,1,3,3.7568623477577683,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-beta-ocimene_conf01,E-beta-ocimene,(E)-beta-ocimene,A,CYS,288,1,3,3.916966594189948,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,PHE,183,2,3,3.562316250699818,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,ILE,186,2,3,3.572232351065646,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,LEU,191,2,3,3.705449577311773,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,ILE,110,3,3,3.621469819009955,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,THR,114,2,3,3.3153607179310054,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,TRP,194,2,3,3.6717280114409343,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,MET,265,2,3,3.5879658471061293,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,PHE,117,2,3,3.585686750121934,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer1_conf01,alpha-terpineol_isomer1,alpha-terpineol,A,PHE,94,3,3,3.5976804888705725,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer1_conf01,alpha-terpineol_isomer1,alpha-terpineol,A,HIS,95,3,3,3.5619201254379633,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer1_conf01,alpha-terpineol_isomer1,alpha-terpineol,A,LEU,182,3,3,3.570027896249554,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer1_conf01,alpha-terpineol_isomer1,alpha-terpineol,A,PHE,106,3,3,3.532720395106299,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer1_conf01,alpha-terpineol_isomer1,alpha-terpineol,A,PRO,184,3,3,3.5539151312320354,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer1_conf01,alpha-terpineol_isomer1,alpha-terpineol,A,SER,90,3,3,3.0988565520204414,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer2_conf01,alpha-terpineol_isomer2,alpha-terpineol,A,LEU,182,3,3,3.5415017916132734,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer2_conf01,alpha-terpineol_isomer2,alpha-terpineol,A,PHE,183,3,3,3.810435908134397,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer2_conf01,alpha-terpineol_isomer2,alpha-terpineol,A,ILE,110,3,3,3.07539667685325,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer2_conf01,alpha-terpineol_isomer2,alpha-terpineol,A,PHE,106,3,3,3.291460727397488,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer2_conf01,alpha-terpineol_isomer2,alpha-terpineol,A,PHE,94,3,3,3.654940489255604,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer2_conf01,alpha-terpineol_isomer2,alpha-terpineol,A,SER,90,3,3,3.698884510227375,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer2_conf01,alpha-terpineol_isomer2,alpha-terpineol,A,LYS,109,3,3,3.4079880648265193,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-terpineol_isomer2_conf01,alpha-terpineol_isomer2,alpha-terpineol,A,VAL,113,3,3,3.638202718376206,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,PHE,183,3,3,3.713334199880209,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,ILE,186,3,3,3.304636654762519,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,TYR,190,3,3,2.9819782443874407,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,THR,114,3,3,2.846723135466464,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,TRP,194,3,3,3.558700893584627,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,PHE,117,3,3,3.7725513714196106,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,MET,265,3,3,3.715537382398407,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,ILE,110,3,3,3.253091085413996,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,SER,165,3,3,2.8882685557267695,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,PRO,168,2,3,3.7996136145666184,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer1_conf01,citronellol_isomer1,citronellol,A,GLY,111,2,3,3.6559123635557795,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,PHE,183,3,3,3.7039492045653115,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,ILE,186,1,3,3.387751208397687,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,LEU,191,1,3,3.6912261526490076,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,THR,114,1,3,3.144993877577507,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,TRP,194,1,3,3.6468851887604052,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,MET,265,1,3,3.9091978652915493,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,PHE,117,1,3,3.7422723043626838,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,TYR,190,1,3,3.01285288223637,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,SER,165,1,3,3.030443909726756,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-elemene_conf01,beta-elemene,beta-elemene,A,SER,90,3,3,3.3961929656602265,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-elemene_conf01,beta-elemene,beta-elemene,A,PHE,94,3,3,3.490260245311229,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-elemene_conf01,beta-elemene,beta-elemene,A,PHE,91,3,3,3.6511615042339636,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-elemene_conf01,beta-elemene,beta-elemene,A,PHE,106,3,3,3.6099601673702737,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-elemene_conf01,beta-elemene,beta-elemene,A,LYS,109,3,3,3.6685596165252665,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-elemene_conf01,beta-elemene,beta-elemene,A,ILE,110,3,3,3.878599858196255,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-elemene_conf01,beta-elemene,beta-elemene,A,LEU,182,3,3,3.5157558220103966,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-elemene_conf01,beta-elemene,beta-elemene,A,PHE,183,3,3,3.4861347779453395,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-elemene_conf01,beta-elemene,beta-elemene,A,PRO,184,3,3,3.0859428526789054,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-elemene_conf01,beta-elemene,beta-elemene,A,HIS,95,3,3,3.594873211950598,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-muurolene_conf01,gamma-muurolene,gamma-muurolene,A,LEU,182,3,3,3.7434825724183645,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-muurolene_conf01,gamma-muurolene,gamma-muurolene,A,PHE,106,3,3,3.362608041386922,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-muurolene_conf01,gamma-muurolene,gamma-muurolene,A,PRO,184,3,3,3.8973677039766232,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-muurolene_conf01,gamma-muurolene,gamma-muurolene,A,PHE,94,3,3,3.5328884570560657,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-muurolene_conf01,gamma-muurolene,gamma-muurolene,A,SER,90,3,3,3.343524387528824,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-muurolene_conf01,gamma-muurolene,gamma-muurolene,A,ILE,110,3,3,3.5476157134052744,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-muurolene_conf01,gamma-muurolene,gamma-muurolene,A,VAL,113,3,3,3.36174827284852,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-muurolene_conf01,gamma-muurolene,gamma-muurolene,A,PHE,87,3,3,3.566574420925491,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-muurolene_conf01,gamma-muurolene,gamma-muurolene,A,PHE,183,3,3,3.3746575426256213,contact_recurrence_not_binding_probability
+CB2_5ZTY,elemol_conf01,elemol,elemol,A,PHE,106,3,3,3.356663197283876,contact_recurrence_not_binding_probability
+CB2_5ZTY,elemol_conf01,elemol,elemol,A,ILE,110,3,3,3.1104897122478956,contact_recurrence_not_binding_probability
+CB2_5ZTY,elemol_conf01,elemol,elemol,A,PHE,94,3,3,3.5952952159732323,contact_recurrence_not_binding_probability
+CB2_5ZTY,elemol_conf01,elemol,elemol,A,HIS,95,3,3,3.638007983773537,contact_recurrence_not_binding_probability
+CB2_5ZTY,elemol_conf01,elemol,elemol,A,SER,90,3,3,3.628557924299957,contact_recurrence_not_binding_probability
+CB2_5ZTY,elemol_conf01,elemol,elemol,A,LYS,109,3,3,3.5442179687485362,contact_recurrence_not_binding_probability
+CB2_5ZTY,elemol_conf01,elemol,elemol,A,VAL,113,3,3,3.612631435671237,contact_recurrence_not_binding_probability
+CB2_5ZTY,elemol_conf01,elemol,elemol,A,PHE,87,3,3,3.8774394308615596,contact_recurrence_not_binding_probability
+CB2_5ZTY,elemol_conf01,elemol,elemol,A,PHE,183,3,3,3.7129550360864862,contact_recurrence_not_binding_probability
+CB2_5ZTY,elemol_conf01,elemol,elemol,A,LEU,182,3,3,3.5074664046858675,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,PHE,87,3,3,3.610334005324163,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,VAL,113,3,3,3.616059848785691,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,PHE,183,3,3,3.680678590966617,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,ILE,110,3,3,3.5765477446834115,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,PHE,94,3,3,3.494794142721427,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,PHE,106,3,3,3.5304407345259317,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,PRO,184,3,3,3.689249048248167,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,HIS,95,2,3,3.4963787108950313,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,LEU,182,3,3,3.1050083317118493,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,SER,90,3,3,3.0712121271576196,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,PHE,106,3,3,3.7577385393345275,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,PHE,91,3,3,3.7934050271490936,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,PHE,87,3,3,2.6562605312732424,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,PHE,183,3,3,2.4647783693468233,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,ILE,110,3,3,3.3131720993633866,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,VAL,113,3,3,3.0591082115544745,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,PHE,117,3,3,3.080022936602907,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,TRP,194,3,3,3.068475178325548,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,CYS,288,3,3,2.9593070354392084,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,TRP,258,3,3,3.6210368280369662,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,MET,265,3,3,3.7942554118034795,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,PHE,281,3,3,3.7153217962916756,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,LYS,109,3,3,3.8344835962616948,contact_recurrence_not_binding_probability
+CB2_5ZTY,uvaol_conf01,uvaol,uvaol,A,HIS,95,3,3,3.6319933204784403,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,PHE,183,3,3,2.5413526359008087,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,MET,265,3,3,3.776510987671029,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,PHE,117,3,3,3.372736292685805,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,TRP,194,3,3,2.7876312022934457,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,CYS,288,3,3,2.7060506536279023,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,PHE,87,3,3,2.7392474404478326,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,VAL,113,3,3,2.498752636817016,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,ILE,110,3,3,3.5454470197705668,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,SER,90,3,3,3.177674958204505,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,LYS,109,3,3,3.6606441427705048,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,PHE,106,3,3,3.4457759837226813,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,PHE,281,3,3,3.990285932110631,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,VAL,261,3,3,3.9016544618917752,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,TRP,258,3,3,3.259442914057551,contact_recurrence_not_binding_probability
+CB2_5ZTY,erythrodiol_conf01,erythrodiol,erythrodiol,A,HIS,95,3,3,3.901878442494078,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,SER,90,3,3,2.940090847235847,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,PHE,94,3,3,3.3371812252258652,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,PHE,87,3,3,2.5665972200561575,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,PHE,91,3,3,3.4739724495165483,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,PHE,183,3,3,2.2387955556504013,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,ILE,110,3,3,3.309004353276074,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,VAL,113,3,3,2.9683610056729948,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,PHE,117,3,3,3.0803879771872884,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,TRP,194,3,3,3.186824045974296,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,TRP,258,3,3,3.1830226860643,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,MET,265,2,3,3.967420141603356,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,PHE,281,1,3,3.964198410776131,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,CYS,288,3,3,3.056527130584644,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,LEU,182,3,3,3.68855570786182,contact_recurrence_not_binding_probability
+CB2_5ZTY,rotundic_acid_conf01,rotundic_acid,rotundic acid,A,HIS,95,1,3,3.9783211811013977,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,PHE,183,3,3,3.287974466141733,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,VAL,261,3,3,3.6716776070346935,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,PHE,281,3,3,3.322231337520012,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,SER,285,3,3,3.378004508581953,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,PHE,87,3,3,3.251172982171204,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,VAL,113,3,3,2.89308151457922,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,PHE,91,3,3,3.727041593543063,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,ILE,110,3,3,3.652327468888846,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,SER,90,3,3,3.1399349372240186,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,PHE,94,3,3,3.323136404061682,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,PHE,106,2,3,3.9148439675164584,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,PHE,117,3,3,3.359828568543338,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,CYS,288,3,3,3.7245180668107922,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,TRP,194,3,3,3.4776600365763186,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,MET,265,3,3,3.411105999525666,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-sitosterol_conf01,beta-sitosterol,beta-sitosterol,A,THR,114,3,3,3.2294959622207284,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,PHE,183,3,3,3.0931245610223943,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,PHE,281,3,3,3.3167513835076643,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,SER,285,3,3,3.189941549621247,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,VAL,113,3,3,3.0164981120497965,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,PHE,87,3,3,3.0515672579840016,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,PHE,91,3,3,3.546616875277058,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,ILE,110,3,3,3.4563254895915083,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,SER,90,3,3,2.6299442294467004,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,PHE,94,3,3,2.8299571109824284,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,PHE,117,3,3,3.373439153149197,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,MET,265,3,3,3.2608796619930636,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,TRP,194,3,3,3.3827938408954226,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,THR,114,3,3,2.957136970111461,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,ILE,186,1,3,3.728924238972952,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,TYR,190,1,3,3.912381424401255,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,LEU,191,1,3,3.5783197411634453,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-bulnesene_conf01,alpha-bulnesene,alpha-bulnesene,A,SER,90,1,3,3.997274975530205,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer2_conf01,beta-phellandrene_isomer2,beta-phellandrene,A,LYS,109,2,3,3.5676555130785825,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer2_conf01,beta-phellandrene_isomer2,beta-phellandrene,A,PHE,87,2,3,3.659274623473893,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer2_conf01,beta-phellandrene_isomer2,beta-phellandrene,A,VAL,113,2,3,3.653646849382136,contact_recurrence_not_binding_probability
+CB2_5ZTY,beta-phellandrene_isomer2_conf01,beta-phellandrene_isomer2,beta-phellandrene,A,PHE,183,2,3,3.702567883239955,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,LEU,182,2,3,3.038762927574312,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,HIS,95,2,3,3.436423888288522,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,TYR,25,2,3,2.829528359992176,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,LYS,278,2,3,3.3760093453662114,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,ALA,282,2,3,3.9601337477413585,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-nerolidol_isomer2_conf01,E-nerolidol_isomer2,(E)-nerolidol,A,GLU,181,2,3,3.8018574960142817,contact_recurrence_not_binding_probability
+CB2_5ZTY,alpha-cadinol_conf01,alpha-cadinol,alpha-cadinol,A,LYS,109,1,3,3.971143245968346,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,ASN,93,1,3,3.979584330052575,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,PHE,117,1,3,3.4596106529492556,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,TRP,194,1,3,3.633245345417787,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,MET,265,1,3,3.8077862151123982,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,TRP,258,1,3,3.692461604404304,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,CYS,288,1,3,3.9410764392485467,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,PHE,183,1,3,3.7983771021319104,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,THR,114,1,3,3.51439091451136,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer2_conf01,linalool_isomer2,linalool,A,TYR,190,1,3,3.9589850643820297,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,CYS,288,1,3,3.508693551736882,contact_recurrence_not_binding_probability
+CB2_5ZTY,myricitrin_conf01,myricitrin,myricitrin,A,ALA,282,1,3,3.267666895508174,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-beta-ocimene_conf01,E-beta-ocimene,(E)-beta-ocimene,A,TYR,190,2,3,3.882327718006298,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-beta-ocimene_conf01,E-beta-ocimene,(E)-beta-ocimene,A,LEU,191,2,3,3.6696586830385187,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-beta-ocimene_conf01,E-beta-ocimene,(E)-beta-ocimene,A,MET,265,2,3,3.7866954208121895,contact_recurrence_not_binding_probability
+CB2_5ZTY,E-beta-ocimene_conf01,E-beta-ocimene,(E)-beta-ocimene,A,ILE,186,2,3,3.968791981195286,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,SER,90,2,3,2.9603274497933505,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,PHE,94,2,3,3.304912466314349,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,PHE,106,2,3,3.5311126136106163,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,LYS,109,2,3,3.4285261921122907,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,ILE,110,2,3,3.518594575963533,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,VAL,113,2,3,3.634539911735732,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,PHE,87,2,3,3.925689540704918,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,ASP,101,2,3,2.9678516623982416,contact_recurrence_not_binding_probability
+CB2_5ZTY,citronellol_isomer2_conf01,citronellol_isomer2,citronellol,A,ASN,93,2,3,3.642145369147145,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,PHE,281,2,3,3.768868409748475,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,VAL,261,2,3,3.8484225573603545,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,PHE,106,2,3,3.9034286031641456,contact_recurrence_not_binding_probability
+CB2_5ZTY,stigmasterol_conf01,stigmasterol,stigmasterol,A,CYS,288,2,3,3.6260764319026664,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,MET,265,1,3,3.7419875253666985,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,TRP,194,1,3,3.65150137477723,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,THR,114,1,3,2.9287607652384313,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,PHE,117,1,3,3.7696014351652627,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,TRP,258,1,3,3.694210873786173,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,CYS,288,1,3,3.886114766704658,contact_recurrence_not_binding_probability
+CB2_5ZTY,geranial_conf01,geranial,geranial,A,LEU,262,1,3,3.756429440306313,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,PHE,87,1,3,3.3708107096068116,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,VAL,113,1,3,3.567729297466387,contact_recurrence_not_binding_probability
+CB2_5ZTY,neral_conf01,neral,neral,A,PHE,183,1,3,3.7129390433994462,contact_recurrence_not_binding_probability
+CB2_5ZTY,linalool_isomer1_conf01,linalool_isomer1,linalool,A,LEU,191,1,3,3.8577336209230406,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer1_conf01,sabinene_isomer1,sabinene,A,PHE,183,1,3,3.675964745478389,contact_recurrence_not_binding_probability
+CB2_5ZTY,sabinene_isomer1_conf01,sabinene_isomer1,sabinene,A,PRO,184,1,3,3.873243525780433,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,HIS,95,1,3,3.3784978703559965,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,PHE,94,1,3,3.6377371991390484,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,SER,90,1,3,3.371545047897181,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,PHE,106,1,3,3.414216454766746,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-terpinene_conf01,gamma-terpinene,gamma-terpinene,A,LYS,109,1,3,3.783098741772412,contact_recurrence_not_binding_probability
+CB2_5ZTY,gamma-muurolene_conf01,gamma-muurolene,gamma-muurolene,A,HIS,95,1,3,3.9664605922661074,contact_recurrence_not_binding_probability
+CB2_5ZTY,delta-cadinene_conf01,delta-cadinene,delta-cadinene,A,PHE,91,1,3,3.93328428797106,contact_recurrence_not_binding_probability

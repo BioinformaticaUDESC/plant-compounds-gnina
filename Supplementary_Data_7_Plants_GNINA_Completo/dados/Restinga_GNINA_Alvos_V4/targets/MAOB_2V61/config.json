@@ -1,0 +1,22 @@
+{
+  "target_id": "MAOB_2V61",
+  "pdb": "2V61",
+  "chain": "A",
+  "ligand": "C18",
+  "receptor": "targets/MAOB_2V61/receptor_H.pdb",
+  "native_reference": "targets/MAOB_2V61/native_reference.sdf",
+  "redock_input": "targets/MAOB_2V61/redock_input.sdf",
+  "center": [
+    50.584,
+    155.807,
+    28.189
+  ],
+  "size": [
+    22.0,
+    22.0,
+    22.0
+  ],
+  "pH_model": 7.4,
+  "preparation_note": "Monoamine oxidase B; C18 coumarin-related reference with exact deposited CCD connectivity retained, not reconstructed from common name; chain A of dimer and oxidized covalent FAD; no membrane or redox model",
+  "near_site_missing_residue_warning": false
+}

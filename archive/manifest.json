@@ -1,0 +1,127 @@
+{
+  "name": "Plant_Compounds_GNINA_GitHub_Deposit_R2.zip",
+  "size_bytes": 68894325,
+  "sha256": "50af65b2b6d0267c2936553961957d84878eccd098a5b8fbf7c552d501ebb326",
+  "parts": [
+    {
+      "name": "part-001.bin",
+      "size_bytes": 2880000,
+      "sha256": "d695dc68475b6e8632fae08f754feef7eedf28eff01e6824bdea4b9b938fc987"
+    },
+    {
+      "name": "part-002.bin",
+      "size_bytes": 2880000,
+      "sha256": "57a93a827586996ebfcfc50d3d7c61508a3d3674ccf5f7512a2e218446dde017"
+    },
+    {
+      "name": "part-003.bin",
+      "size_bytes": 2880000,
+      "sha256": "31b9cf71fa40933e540d5ade76270d048ee324d88c31eb187375cbc50ff21b43"
+    },
+    {
+      "name": "part-004.bin",
+      "size_bytes": 2880000,
+      "sha256": "760b522808e8f943d8931fa3ce3c816f48327a7d8c1f5c824a24ae51dc52be6a"
+    },
+    {
+      "name": "part-005.bin",
+      "size_bytes": 2880000,
+      "sha256": "8e391b65ef8600fd2bbb5e0b487837a54480571bb89280780ecad06a55cfa780"
+    },
+    {
+      "name": "part-006.bin",
+      "size_bytes": 2880000,
+      "sha256": "f49cb1174e31d5926d2cc0fc344d220f7aebee31912ac13bf213041cca62b91b"
+    },
+    {
+      "name": "part-007.bin",
+      "size_bytes": 2880000,
+      "sha256": "c73f5d06467b4bab17aa32ff7869ba77979bb4842b20e5ab1596d7b505edd4e8"
+    },
+    {
+      "name": "part-008.bin",
+      "size_bytes": 2880000,
+      "sha256": "f85b53840b1692ca1a9962565e05ec47092342b062221d7e42de3a37c36a6b08"
+    },
+    {
+      "name": "part-009.bin",
+      "size_bytes": 2880000,
+      "sha256": "7fa3bdc12cd4e522b3b4d15a5869c69a5b828c36124d3e21f0f6bf9415259667"
+    },
+    {
+      "name": "part-010.bin",
+      "size_bytes": 2880000,
+      "sha256": "3c32a8e1070aa0f596dc64db0d808a3e1a32eafcc5bd522803323051fc112234"
+    },
+    {
+      "name": "part-011.bin",
+      "size_bytes": 2880000,
+      "sha256": "9de34e9a7adf5e292a36a2816af8d521ba7f040d7b6193a90c6d91cf50f3694a"
+    },
+    {
+      "name": "part-012.bin",
+      "size_bytes": 2880000,
+      "sha256": "02a750febe0230c2f6788a0dbb905291aaa03987619ef049cc203a601e9e058c"
+    },
+    {
+      "name": "part-013.bin",
+      "size_bytes": 2880000,
+      "sha256": "ff77b7abff69fa9fd236ddb8c7aba36b2da04de5e1eaf2a17939ace93610f8c7"
+    },
+    {
+      "name": "part-014.bin",
+      "size_bytes": 2880000,
+      "sha256": "c121292ed5b344caf287f0f0421a15f27f96be23dbf690c3c80c0b9325d4f2c1"
+    },
+    {
+      "name": "part-015.bin",
+      "size_bytes": 2880000,
+      "sha256": "391f3c5f1cbfa8ea94a91592d937ffba7d67edb43bcbc010bd2c72ca59b35c4b"
+    },
+    {
+      "name": "part-016.bin",
+      "size_bytes": 2880000,
+      "sha256": "f38e74b2391bf077a8e7095d7ddef26f22469ecbf06c11ab6bcfc038d531d52e"
+    },
+    {
+      "name": "part-017.bin",
+      "size_bytes": 2880000,
+      "sha256": "a94240c8707689811da507e0a5dfab68907857ef86713554f8b851c381d2c65c"
+    },
+    {
+      "name": "part-018.bin",
+      "size_bytes": 2880000,
+      "sha256": "86ebecffe40165c09fa708f4a5241187c1e2dd6771e54031f460d58567fc6f18"
+    },
+    {
+      "name": "part-019.bin",
+      "size_bytes": 2880000,
+      "sha256": "9ce683ee1e63682777901e2cfc47337a771c6402539e15671b12d8c16c33d93b"
+    },
+    {
+      "name": "part-020.bin",
+      "size_bytes": 2880000,
+      "sha256": "6d801c271193c3b506d19608f82883886d49bf569558b867251114862257227a"
+    },
+    {
+      "name": "part-021.bin",
+      "size_bytes": 2880000,
+      "sha256": "34d19223e9e8cb7da90aa2e508714858be5e0019fa72b184679a98198393ef94"
+    },
+    {
+      "name": "part-022.bin",
+      "size_bytes": 2880000,
+      "sha256": "15dd6f3d066414660ad4633d4d51f3ee4437584650219d628f9741e1af267fb5"
+    },
+    {
+      "name": "part-023.bin",
+      "size_bytes": 2880000,
+      "sha256": "f913cd08ca3c8d1d52e3f8f68ce461dee63bb1dae8c7f8beaf356439bba4f41f"
+    },
+    {
+      "name": "part-024.bin",
+      "size_bytes": 2654325,
+      "sha256": "1949890f6c3fe6e6ac2b839394992bd52aadbfa2ed7b424c51aa6e607d08b620"
+    }
+  ]
+}

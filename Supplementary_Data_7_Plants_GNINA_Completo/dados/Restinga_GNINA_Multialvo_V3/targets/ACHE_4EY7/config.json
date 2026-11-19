@@ -1,0 +1,22 @@
+{
+  "target_id": "ACHE_4EY7",
+  "pdb": "4EY7",
+  "chain": "B",
+  "ligand": "E20",
+  "receptor": "targets/ACHE_4EY7/receptor_H.pdb",
+  "native_reference": "targets/ACHE_4EY7/native_reference.sdf",
+  "redock_input": "targets/ACHE_4EY7/redock_input.sdf",
+  "center": [
+    10.634,
+    -56.163,
+    -23.872999999999998
+  ],
+  "size": [
+    22.0,
+    26.753999999999998,
+    22.0
+  ],
+  "pH_model": 7.4,
+  "preparation_note": "donepezil tertiary amine protonated +1; reference stereochemistry from deposited coordinates",
+  "near_site_missing_residue_warning": false
+}

@@ -1,0 +1,14 @@
+Descriptor_or_model_output,Volatile_43_structures,Extract_8_structures
+Molecular weight (Da),134.22–222.37,290.27–487.70
+RDKit cLogP,2.488–5.035,0.194–8.025
+TPSA (Å²),0.00–20.23,20.23–210.51
+Structures with ≥1 Lipinski violation,1/43,5/8
+Structures with PAINS alerts,0/43,3/8
+Structures with BRENK alerts,37/43,8/8
+Structures with NIH alerts,2/43,2/8
+Intestinal absorption score,0.9965–1.0000,0.6999–1.0000
+Oral bioavailability score,0.6605–0.8951,0.2787–0.7681
+BBB penetration score,0.8877–0.9946,0.0444–0.8906
+AMES positive-class score,0.0167–0.4697,0.0830–0.6520
+DILI positive-class score,0.0284–0.2228,0.0319–0.9142
+hERG-blocking score,0.0656–0.6049,0.2962–0.8250

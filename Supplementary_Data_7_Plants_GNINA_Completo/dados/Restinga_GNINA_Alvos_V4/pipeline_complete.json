@@ -1,0 +1,7 @@
+{
+  "status": "CALCULATIONS_AUDITS_REPORT_COMPLETE",
+  "finished_utc": "2026-10-26T01:01:38.710506+00:00",
+  "visual_PDF_review_pending": false,
+  "final_report_qa_utc": "2026-10-26T01:10:14.457378+00:00",
+  "final_pdf_sha256": "557cc6ccc2ad20b16976e09d250c39d4b08c6123be2c838cb7d132a0c335807e"
+}

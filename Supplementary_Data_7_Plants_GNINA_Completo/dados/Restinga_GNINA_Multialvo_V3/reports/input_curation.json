@@ -1,0 +1,29 @@
+{
+  "original_input_count": 60,
+  "quarantined_inputs": [
+    {
+      "input_id": "caryophyllene_oxide_conf03",
+      "structure_id": "caryophyllene_oxide",
+      "compound": "caryophyllene oxide",
+      "expected_chemical_key": "NVEQFIOZRFFVFW-RGCMKSIDSA-N",
+      "observed_3D_input_chemical_key": "NVEQFIOZRFFVFW-GUIRCDHDSA-N",
+      "status": "QUARANTINE_STEREOCHEMICAL_IDENTITY_MISMATCH",
+      "input_sha256": "0aff15fa107cf12ea0b98d5d84d747d0bf6776d2a2defc1c1857b0f9f57b6d5a",
+      "primary_analysis_eligible": false
+    }
+  ],
+  "corrected_input_id": "caryophyllene_oxide_conf03_corrected",
+  "corrected_input_in_primary_analysis": false,
+  "final_primary_input_count": 59,
+  "final_primary_structure_count": 51,
+  "corrected_chemical_key": "NVEQFIOZRFFVFW-RGCMKSIDSA-N",
+  "MMFF_converged_stereo_valid_candidates": 21,
+  "MMFF_converged_stereo_invalid_candidates_rejected": 2,
+  "corrected_MMFF_energy_kcal_mol": 52.55323068906608,
+  "aligned_heavy_atom_RMSDs_to_retained_conformers_A": [
+    8.575011712678932e-05,
+    0.8933299549155325
+  ],
+  "selection": "lowest_MMFF_energy_verified_conformer_within_8kcal_of_verified_min; primary inclusion additionally requires RMSD above 0.5A to both retained inputs; otherwise diagnostic only",
+  "interpretation": "Post-screen identity QC identified an inherited mismatch. Curation used chemical identity and conformer-diversity criteria, independently of docking-score favorability. Original outputs retained; mismatched input excluded from primary analysis; chemically correct but redundant replacement kept as a separate diagnostic."
+}

@@ -1,0 +1,27 @@
+{
+  "source_fingerprint": {
+    "core_script_sha256": "49bc026c8e41c21195c6909a6152c30bf32498a272a244ee779f1b59ee2f6431",
+    "audit_script_sha256": "2a2d578c03585899ae5e2d8e1bb9cb8027d4e7b57bb876f941ad5f5416073d16",
+    "protocol_sha256": "f4af6be9e909511b72fd276d722cbbf92d39aa0defea432548f1bfb0fc36480f",
+    "library_sha256": "4533ddf0c82549eee3b1e4e0520b2f1be9b15dc82bfa5a0bf15eb457ec1daa54",
+    "input_identity_qc_sha256": "8618711713df3a6c0c89c038701cd7eb1b027ca35c010018951450b3bc3265e0",
+    "receptor_sha256": "ba124dddd2d7493f18cb7874830de18c032090465174728148fe04a0630aa9ed",
+    "validation_sha256": "4cd7de417332ecb5ffed7aabc64d49e81fbcfcc8029381d902b0c95dc364ada6",
+    "raw_pose_sha256": {
+      "PARP1_7KK4_batch_seed142.sdf": "573fbb2797b9fb8da1934cb3c69e9cd54e12832a8e8537541256307c1b3f57ef",
+      "PARP1_7KK4_batch_seed242.sdf": "7c5d27f49112fc95c8b76c4648bbc0771cdcc7815427d5ab370fe3cfe5cdf07d",
+      "PARP1_7KK4_batch_seed42.sdf": "3dc24639ba9f8b599bc25da719305b6c0576ae950a486b86e08a261eaec2522f"
+    }
+  },
+  "audited_output_sha256": {
+    "pose_quality_audit.csv": "50a755c0a3ad0885d4bf9970448b589996fb69f31e2c9b319642a9c533f89f4d",
+    "primary_docking_poses.csv": "50a755c0a3ad0885d4bf9970448b589996fb69f31e2c9b319642a9c533f89f4d",
+    "top1_all_attempted_inputs.csv": "544cf51fdce0f488b56d4e6967ce9dd805032981d6142311b490f9a502da9acd",
+    "top1_by_input_seed.csv": "544cf51fdce0f488b56d4e6967ce9dd805032981d6142311b490f9a502da9acd",
+    "top1_residue_proximities.csv": "14b05be1175dad0dcbb2ec5df0f8df110c335b90899aa7413200fc99cd181e6d",
+    "seed_stability_by_input.csv": "ec200a5e32aa3fe40ca7b3e7dbe2dbff723442136365b26b74c4500fa508a7ef",
+    "structure_summary.csv": "07ae4fdba5ff0dd8c6a097babeab8d22c36fc751b20fbc125f027f86eedbbf4c",
+    "residue_contact_recurrence.csv": "9895890f25db711c0c4c724073a5651a489e5741ba608fc6d5ed73cec7ddae54",
+    "audit_counts.json": "db1ba78a4ad624e33da71d45aec2dcb24976d03623d0467a6287cb9239e569b8"
+  }
+}

@@ -1,0 +1,11 @@
+admet-ai==2.0.1
+chemprop==2.2.2
+rdkit==2025.9.5
+lightning==2.6.1
+pytorch-lightning==2.6.1
+torchmetrics==1.8.2
+numpy==2.4.2
+pandas==3.0.0
+scipy==1.17.0
+scikit-learn==1.8.0
+seaborn==0.13.2

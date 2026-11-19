@@ -1,0 +1,7 @@
+{
+  "pdf_sha256": "3eb49a0df0ed9031c3a49492a681193cf71d0c5bf6118aee419bf97f4d0c07c5",
+  "pages": 12,
+  "text_layout_checks": "PASS; no characters outside safe page bounds; no replacement glyphs",
+  "visual_review": "All 12 rendered pages inspected in three contact sheets; native overlay figure also inspected at full resolution",
+  "result": "PASS"
+}

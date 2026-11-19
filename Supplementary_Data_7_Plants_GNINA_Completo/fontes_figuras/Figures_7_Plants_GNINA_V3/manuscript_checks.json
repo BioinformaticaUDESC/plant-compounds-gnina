@@ -1,0 +1,19 @@
+{
+  "path": "/workspace/scratch/513f072052e9/manuscript_figures/Manuscript_7_Plants_GNINA_V3_PyMOL_Molecules.docx",
+  "original_figures_retained": 2,
+  "new_figure_plates": 12,
+  "total_embedded_images": 14,
+  "tables_retained": 11,
+  "all_original_paragraphs_retained": true,
+  "fixed_native_seed": 101,
+  "fixed_candidate_seed": 42,
+  "chemical_structures_depicted": 51,
+  "new_simulations": false,
+  "pages": 42,
+  "all_42_pages_visually_inspected": true,
+  "all_11_original_table_XMLs_unchanged": true,
+  "original_media_binaries_unchanged": true,
+  "document_sha256": "d74669dfc5516550c62ed7b2359678b1a647c022a42f253f7e2df01aee3526eb",
+  "editable_PyMOL_sessions": 19,
+  "all_image_and_structure_checks_passed": true
+}

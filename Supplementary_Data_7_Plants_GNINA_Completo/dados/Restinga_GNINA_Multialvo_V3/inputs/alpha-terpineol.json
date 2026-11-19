@@ -1,0 +1,12 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 17100,
+        "MolecularFormula": "C10H18O",
+        "SMILES": "CC1=CCC(CC1)C(C)(C)O",
+        "InChIKey": "WUOACPNHFRMFPN-UHFFFAOYSA-N"
+      }
+    ]
+  }
+}

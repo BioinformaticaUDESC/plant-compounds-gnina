@@ -1,0 +1,22 @@
+{
+  "target_id": "CB2_5ZTY",
+  "pdb": "5ZTY",
+  "chain": "A",
+  "ligand": "9JU",
+  "receptor": "targets/CB2_5ZTY/receptor_H.pdb",
+  "native_reference": "targets/CB2_5ZTY/native_reference.sdf",
+  "redock_input": "targets/CB2_5ZTY/redock_input.sdf",
+  "center": [
+    9.8295,
+    0.10049999999999981,
+    -55.286
+  ],
+  "size": [
+    22.0,
+    22.469,
+    22.0
+  ],
+  "pH_model": 7.4,
+  "preparation_note": "AM10257 neutral antagonist; engineered inactive CB2-T4 lysozyme fusion; membrane excluded",
+  "near_site_missing_residue_warning": false
+}

@@ -1,0 +1,14 @@
+{
+  "00_preparar_ambiente.sh": "b2d9248e7ea0e1fe48347bf3784f81b762c8665d34e0c8119bd3f83d69f580f2",
+  "audit_v3.py": "dc21200ca14a2c00a678e2bfc745992a12cdd4eca9aac6dced13fdc20f0a5437",
+  "build_report.py": "2eb8c2e99ef38c888ba6e035b34f353a3880fc92e04a67a6891f410e5f344a87",
+  "curate_input_identity.py": "0188f51d1b71ec8b987ce2c55652bc310655cb8c5f92d1d9a446fa598a56b6c7",
+  "gnina_core.py": "a0d8c0d7fa24ae2af764fc15a41cf2252939fd36dba8cb006cf47039fda052d6",
+  "prepare_clean_reproduction.py": "8684746859f129d1a562758c4e4cc621808a4297fdb6505c28ded7d836804775",
+  "prepare_library.py": "a448b57023708b653baf6c0f7d95efdec2b362cb7ffd661f8f15aa9f3c3dd3c0",
+  "prepare_targets.py": "afcc499a0f3103726b005fc6d0cbd52da1b1b13e869d6990c4352bda9648b2d7",
+  "run.sh": "406dec014bf112133786d2fbd101a772cd418f84b179a4befe28627850d079c0",
+  "run_input_correction.py": "321b8c1b5d2ef00c50b7812f570c98b7b4b8dc315e26a1e9c555ae49ad76a80d",
+  "run_v3.py": "e109ce043a2ad5e65feae0c387ad75c708095e861dd8cfd17cda7c7442431e20",
+  "synthesize_v3.py": "6aed61a23adc686f38d470bab02b16e057c7f07d8a0653b4bed59c197bbf0015"
+}

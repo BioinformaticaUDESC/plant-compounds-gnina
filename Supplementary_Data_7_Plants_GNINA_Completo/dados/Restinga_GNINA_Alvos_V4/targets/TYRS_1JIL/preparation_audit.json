@@ -1,0 +1,993 @@
+{
+  "target_id": "TYRS_1JIL",
+  "pdb": "1JIL",
+  "chain": "A",
+  "native_CCD": "485",
+  "CCD_key_before_microstate": "KUCHJUZRDGYEDY-HRNUQJICSA-N",
+  "native_key": "KUCHJUZRDGYEDY-HRNUQJICSA-N",
+  "native_formal_charge": 0,
+  "native_microstate_hypothesis": "amino_acid_zwitterion",
+  "native_heavy_atoms": 27,
+  "independent_embedding": {
+    "attempted_conformers": 64,
+    "converged_stereo_valid": 64,
+    "MMFF_energy_kcal_mol": 69.58307597829952,
+    "selected_conformer_id": 22,
+    "seed": 2026102601,
+    "method": "ETKDGv3 then MMFF2000; native coordinates removed before embedding; chemical key checked after SDF roundtrip"
+  },
+  "missing_standard_heavy_atoms_added": [
+    {
+      "residue": "86",
+      "name": "GLU",
+      "atoms": [
+        "CG",
+        "CD",
+        "OE1",
+        "OE2"
+      ],
+      "distance_existing_atoms_to_native_A": 12.197997540580172
+    },
+    {
+      "residue": "160",
+      "name": "GLU",
+      "atoms": [
+        "CG",
+        "CD",
+        "OE1",
+        "OE2"
+      ],
+      "distance_existing_atoms_to_native_A": 19.37490224491468
+    },
+    {
+      "residue": "236",
+      "name": "GLU",
+      "atoms": [
+        "CG",
+        "CD",
+        "OE1",
+        "OE2"
+      ],
+      "distance_existing_atoms_to_native_A": 19.59733841622378
+    },
+    {
+      "residue": "277",
+      "name": "GLU",
+      "atoms": [
+        "CG",
+        "CD",
+        "OE1",
+        "OE2"
+      ],
+      "distance_existing_atoms_to_native_A": 27.2653664930439
+    }
+  ],
+  "terminal_atoms_added": [
+    {
+      "residue": "324",
+      "atoms": [
+        "OXT"
+      ]
+    }
+  ],
+  "missing_residues_not_rebuilt": [
+    {
+      "residue": 1,
+      "residue_author_number_with_insertion_code": "1",
+      "name": "MET",
+      "nearest_existing_flank_distance_to_native_A": 26.754220227844417
+    },
+    {
+      "residue": 325,
+      "residue_author_number_with_insertion_code": "325",
+      "name": "SER",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 326,
+      "residue_author_number_with_insertion_code": "326",
+      "name": "GLY",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 327,
+      "residue_author_number_with_insertion_code": "327",
+      "name": "ASP",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 328,
+      "residue_author_number_with_insertion_code": "328",
+      "name": "LEU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 329,
+      "residue_author_number_with_insertion_code": "329",
+      "name": "LYS",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 330,
+      "residue_author_number_with_insertion_code": "330",
+      "name": "SER",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 331,
+      "residue_author_number_with_insertion_code": "331",
+      "name": "LEU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 332,
+      "residue_author_number_with_insertion_code": "332",
+      "name": "SER",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 333,
+      "residue_author_number_with_insertion_code": "333",
+      "name": "ALA",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 334,
+      "residue_author_number_with_insertion_code": "334",
+      "name": "LYS",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 335,
+      "residue_author_number_with_insertion_code": "335",
+      "name": "GLU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 336,
+      "residue_author_number_with_insertion_code": "336",
+      "name": "LEU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 337,
+      "residue_author_number_with_insertion_code": "337",
+      "name": "LYS",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 338,
+      "residue_author_number_with_insertion_code": "338",
+      "name": "ASP",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 339,
+      "residue_author_number_with_insertion_code": "339",
+      "name": "GLY",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 340,
+      "residue_author_number_with_insertion_code": "340",
+      "name": "PHE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 341,
+      "residue_author_number_with_insertion_code": "341",
+      "name": "LYS",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 342,
+      "residue_author_number_with_insertion_code": "342",
+      "name": "ASP",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 343,
+      "residue_author_number_with_insertion_code": "343",
+      "name": "VAL",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 344,
+      "residue_author_number_with_insertion_code": "344",
+      "name": "PRO",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 345,
+      "residue_author_number_with_insertion_code": "345",
+      "name": "GLN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 346,
+      "residue_author_number_with_insertion_code": "346",
+      "name": "VAL",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 347,
+      "residue_author_number_with_insertion_code": "347",
+      "name": "THR",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 348,
+      "residue_author_number_with_insertion_code": "348",
+      "name": "LEU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 349,
+      "residue_author_number_with_insertion_code": "349",
+      "name": "SER",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 350,
+      "residue_author_number_with_insertion_code": "350",
+      "name": "ASN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 351,
+      "residue_author_number_with_insertion_code": "351",
+      "name": "ASP",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 352,
+      "residue_author_number_with_insertion_code": "352",
+      "name": "THR",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 353,
+      "residue_author_number_with_insertion_code": "353",
+      "name": "THR",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 354,
+      "residue_author_number_with_insertion_code": "354",
+      "name": "ASN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 355,
+      "residue_author_number_with_insertion_code": "355",
+      "name": "ILE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 356,
+      "residue_author_number_with_insertion_code": "356",
+      "name": "VAL",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 357,
+      "residue_author_number_with_insertion_code": "357",
+      "name": "GLU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 358,
+      "residue_author_number_with_insertion_code": "358",
+      "name": "VAL",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 359,
+      "residue_author_number_with_insertion_code": "359",
+      "name": "LEU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 360,
+      "residue_author_number_with_insertion_code": "360",
+      "name": "ILE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 361,
+      "residue_author_number_with_insertion_code": "361",
+      "name": "GLU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 362,
+      "residue_author_number_with_insertion_code": "362",
+      "name": "THR",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 363,
+      "residue_author_number_with_insertion_code": "363",
+      "name": "GLY",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 364,
+      "residue_author_number_with_insertion_code": "364",
+      "name": "ILE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 365,
+      "residue_author_number_with_insertion_code": "365",
+      "name": "SER",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 366,
+      "residue_author_number_with_insertion_code": "366",
+      "name": "PRO",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 367,
+      "residue_author_number_with_insertion_code": "367",
+      "name": "SER",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 368,
+      "residue_author_number_with_insertion_code": "368",
+      "name": "LYS",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 369,
+      "residue_author_number_with_insertion_code": "369",
+      "name": "ARG",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 370,
+      "residue_author_number_with_insertion_code": "370",
+      "name": "GLN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 371,
+      "residue_author_number_with_insertion_code": "371",
+      "name": "ALA",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 372,
+      "residue_author_number_with_insertion_code": "372",
+      "name": "ARG",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 373,
+      "residue_author_number_with_insertion_code": "373",
+      "name": "GLU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 374,
+      "residue_author_number_with_insertion_code": "374",
+      "name": "ASP",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 375,
+      "residue_author_number_with_insertion_code": "375",
+      "name": "VAL",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 376,
+      "residue_author_number_with_insertion_code": "376",
+      "name": "ASN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 377,
+      "residue_author_number_with_insertion_code": "377",
+      "name": "ASN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 378,
+      "residue_author_number_with_insertion_code": "378",
+      "name": "GLY",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 379,
+      "residue_author_number_with_insertion_code": "379",
+      "name": "ALA",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 380,
+      "residue_author_number_with_insertion_code": "380",
+      "name": "ILE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 381,
+      "residue_author_number_with_insertion_code": "381",
+      "name": "TYR",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 382,
+      "residue_author_number_with_insertion_code": "382",
+      "name": "ILE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 383,
+      "residue_author_number_with_insertion_code": "383",
+      "name": "ASN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 384,
+      "residue_author_number_with_insertion_code": "384",
+      "name": "GLY",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 385,
+      "residue_author_number_with_insertion_code": "385",
+      "name": "GLU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 386,
+      "residue_author_number_with_insertion_code": "386",
+      "name": "ARG",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 387,
+      "residue_author_number_with_insertion_code": "387",
+      "name": "GLN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 388,
+      "residue_author_number_with_insertion_code": "388",
+      "name": "GLN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 389,
+      "residue_author_number_with_insertion_code": "389",
+      "name": "ASP",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 390,
+      "residue_author_number_with_insertion_code": "390",
+      "name": "VAL",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 391,
+      "residue_author_number_with_insertion_code": "391",
+      "name": "ASN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 392,
+      "residue_author_number_with_insertion_code": "392",
+      "name": "TYR",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 393,
+      "residue_author_number_with_insertion_code": "393",
+      "name": "ALA",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 394,
+      "residue_author_number_with_insertion_code": "394",
+      "name": "LEU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 395,
+      "residue_author_number_with_insertion_code": "395",
+      "name": "ALA",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 396,
+      "residue_author_number_with_insertion_code": "396",
+      "name": "PRO",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 397,
+      "residue_author_number_with_insertion_code": "397",
+      "name": "GLU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 398,
+      "residue_author_number_with_insertion_code": "398",
+      "name": "ASP",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 399,
+      "residue_author_number_with_insertion_code": "399",
+      "name": "LYS",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 400,
+      "residue_author_number_with_insertion_code": "400",
+      "name": "ILE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 401,
+      "residue_author_number_with_insertion_code": "401",
+      "name": "ASP",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 402,
+      "residue_author_number_with_insertion_code": "402",
+      "name": "GLY",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 403,
+      "residue_author_number_with_insertion_code": "403",
+      "name": "GLU",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 404,
+      "residue_author_number_with_insertion_code": "404",
+      "name": "PHE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 405,
+      "residue_author_number_with_insertion_code": "405",
+      "name": "THR",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 406,
+      "residue_author_number_with_insertion_code": "406",
+      "name": "ILE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 407,
+      "residue_author_number_with_insertion_code": "407",
+      "name": "ILE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 408,
+      "residue_author_number_with_insertion_code": "408",
+      "name": "ARG",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 409,
+      "residue_author_number_with_insertion_code": "409",
+      "name": "ARG",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 410,
+      "residue_author_number_with_insertion_code": "410",
+      "name": "GLY",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 411,
+      "residue_author_number_with_insertion_code": "411",
+      "name": "LYS",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 412,
+      "residue_author_number_with_insertion_code": "412",
+      "name": "LYS",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 413,
+      "residue_author_number_with_insertion_code": "413",
+      "name": "LYS",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 414,
+      "residue_author_number_with_insertion_code": "414",
+      "name": "TYR",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 415,
+      "residue_author_number_with_insertion_code": "415",
+      "name": "PHE",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 416,
+      "residue_author_number_with_insertion_code": "416",
+      "name": "MET",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 417,
+      "residue_author_number_with_insertion_code": "417",
+      "name": "VAL",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 418,
+      "residue_author_number_with_insertion_code": "418",
+      "name": "ASN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 419,
+      "residue_author_number_with_insertion_code": "419",
+      "name": "TYR",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    },
+    {
+      "residue": 420,
+      "residue_author_number_with_insertion_code": "420",
+      "name": "GLN",
+      "nearest_existing_flank_distance_to_native_A": 29.092743528240856
+    }
+  ],
+  "max_deposited_heavy_atom_displacement_A": 0.0,
+  "cofactor": {},
+  "retained_cofactor_heavy_atoms": 0,
+  "selected_hydrogen_variants": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "all_waters_removed": true,
+  "water_sensitivity_tested": false,
+  "minimum_other_ASU_chain_distance_to_native_A": null,
+  "symmetry_mates_modeled": false,
+  "sequence_differences": [],
+  "note": "S.aureus tyrosyl-tRNA synthetase catalytic construction; ligandSB284485 amino-acid zwitterion; modeled323/420residues, single protomer, no full tRNA-recognition/dimer dynamics; not whole-cell antibacterial efficacy",
+  "selection_round": "V4_B_complementary",
+  "biological_assembly_partner_minimum_distance_to_native_A": 9.910277695402886
+}

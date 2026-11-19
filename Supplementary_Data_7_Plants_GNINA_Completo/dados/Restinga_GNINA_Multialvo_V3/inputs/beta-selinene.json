@@ -1,0 +1,12 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 442393,
+        "MolecularFormula": "C15H24",
+        "SMILES": "CC(=C)[C@@H]1CC[C@]2(CCCC(=C)[C@@H]2C1)C",
+        "InChIKey": "YOVSPTNQHMDJAG-QLFBSQMISA-N"
+      }
+    ]
+  }
+}

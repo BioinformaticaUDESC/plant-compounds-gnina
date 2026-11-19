@@ -1,0 +1,30 @@
+{
+  "verified_primary_inputs": 59,
+  "compound_count": 40,
+  "identity_and_hash_checks": "PASS",
+  "quarantine_and_correction_documented_in": "reports/input_curation.json",
+  "fixed_frame_native_checks": [
+    {
+      "target": "ACHE_4EY7",
+      "self_RMSD_A": 0.0,
+      "translated_RMSD_A": 10.0
+    },
+    {
+      "target": "ALOX5_6N2W",
+      "self_RMSD_A": 0.0,
+      "translated_RMSD_A": 10.0
+    },
+    {
+      "target": "CB2_5ZTY",
+      "self_RMSD_A": 0.0,
+      "translated_RMSD_A": 10.0
+    },
+    {
+      "target": "COX2_5IKR",
+      "self_RMSD_A": 0.0,
+      "translated_RMSD_A": 10.0
+    }
+  ],
+  "portable_resume_matching_content_and_parameters": "PASS",
+  "portable_resume_changed_seed_rejected": "PASS"
+}

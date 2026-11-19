@@ -1,0 +1,8 @@
+species,literature_compounds,compound_count,matrices,sample_presence,note
+Varronia curassavica,alpha-humulene;beta-caryophyllene,2,essential_oil_and_isolated_terpenes,not_confirmed,literature_selection_not_exhaustive
+Campomanesia littoralis,,0,pending_GCMS_and_taxonomic_voucher,not_confirmed,no_chemical_assignment; no_generic_C_xanthocarpa_substitution
+Myrcia palustris,alpha-bulnesene;alpha-guaiene;beta-selinene,3,leaf_essential_oil,not_confirmed,literature_selection_not_exhaustive
+Eugenia catharinae,beta-sitosterol;catechin;erythrodiol;myricitrin;quercetin;rotundic acid;stigmasterol;uvaol,8,ethanolic_leaf_extract_NONVOLATILE,not_confirmed,extract_comparators_only; volatile_composition_pending
+Schinus terebinthifolia,alpha-phellandrene;alpha-pinene;beta-phellandrene;beta-pinene;bicyclogermacrene;germacrene D;limonene;p-cymene,8,leaf_and_twig_essential_oils;leaf_essential_oil,not_confirmed,literature_selection_not_exhaustive
+Psidium guajava,(E)-nerolidol;alpha-cadinol;alpha-pinene;alpha-terpineol;beta-caryophyllene;beta-selinene;caryophyllene oxide;delta-cadinene;eucalyptol;limonene;p-cymene,11,leaf_essential_oil;senescent_leaf_essential_oil,not_confirmed,literature_selection_not_exhaustive
+Lippia alba,(E)-beta-ocimene;alpha-pinene;alpha-terpineol;beta-caryophyllene;beta-elemene;carvone;citronellol;elemol;eucalyptol;gamma-muurolene;gamma-terpinene;geranial;geraniol;limonene;linalool;myrcene;neral;p-cymene;sabinene,19,chemotype_specific_essential_oils;essential_oil_and_geraniol;leaf_essential_oil,not_confirmed,literature_selection_not_exhaustive

@@ -1,0 +1,9 @@
+target_id,exported_control_poses,top1_observations,top1_with_secondary_geometry_flags,primary_gate_unchanged
+EGFR_1M17,100,5,0,True
+GYRB_1KZN,100,5,0,True
+KEAP1_4XMB,100,5,0,True
+MAOA_2Z5X,100,5,0,True
+MAOB_2V61,100,5,3,True
+PARP1_7KK4,100,5,0,True
+SEH_3ANS,100,5,0,True
+TYRS_1JIL,100,5,0,True

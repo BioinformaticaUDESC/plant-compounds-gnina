@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-30",
+  "source_archive_sha256": {
+    "Supplementary_Data_7_Plants_GNINA_Final.zip": "c5a4b797c260e3a4dd793009bdfb25936fbbbb9495eef3c77632a91a32f1609f",
+    "Figures_7_Plants_GNINA_V4_Verified.zip": "a1e20ec6b2a56bd47371c0f0d736f27e4763396186b2918e1c86a642d3dd8e9b"
+  },
+  "chemical_structures": 51,
+  "named_compounds": 40,
+  "primary_input_SDFs_verified": 59,
+  "primary_candidate_poses_recounted": 24780,
+  "native_control_poses_recounted": 1200,
+  "primary_pose_counts_by_target": [
+    {
+      "target_id": "COX2_5IKR",
+      "primary_candidate_poses": 3540,
+      "entry_seed_groups": 177
+    },
+    {
+      "target_id": "ACHE_4EY7",
+      "primary_candidate_poses": 3540,
+      "entry_seed_groups": 177
+    },
+    {
+      "target_id": "CB2_5ZTY",
+      "primary_candidate_poses": 3540,
+      "entry_seed_groups": 177
+    },
+    {
+      "target_id": "SEH_3ANS",
+      "primary_candidate_poses": 3540,
+      "entry_seed_groups": 177
+    },
+    {
+      "target_id": "KEAP1_4XMB",
+      "primary_candidate_poses": 3540,
+      "entry_seed_groups": 177
+    },
+    {
+      "target_id": "PARP1_7KK4",
+      "primary_candidate_poses": 3540,
+      "entry_seed_groups": 177
+    },
+    {
+      "target_id": "TYRS_1JIL",
+      "primary_candidate_poses": 3540,
+      "entry_seed_groups": 177
+    }
+  ],
+  "native_PyMOL_sessions": 12,
+  "candidate_PyMOL_sessions": 7,
+  "total_PyMOL_sessions": 19,
+  "molecular_SVGs": 51,
+  "molecular_PNGs": 51,
+  "original_files_preserved": [
+    {
+      "source_folder": "Restinga_GNINA_Alvos_V4",
+      "files_copied_unchanged": 582
+    },
+    {
+      "source_folder": "Restinga_GNINA_Multialvo_V3",
+      "files_copied_unchanged": 439
+    },
+    {
+      "source_folder": "Figures_7_Plants_GNINA_V3",
+      "files_copied_unchanged": 213
+    }
+  ],
+  "figure2_original_plotting_source_recovered": false,
+  "figure2_reconstruction_rank_checks": 224,
+  "figure2_reconstruction_rank_discrepancies": 0,
+  "new_docking_runs_performed": 0,
+  "COX2_box_matches_other_target_rule": true
+}

@@ -1,0 +1,21 @@
+{
+  "markers_inherited_from_V3": [
+    "alpha-humulene",
+    "beta-caryophyllene",
+    "alpha-guaiene",
+    "alpha-bulnesene",
+    "beta-selinene",
+    "linalool",
+    "geranial",
+    "carvone",
+    "eucalyptol",
+    "elemol",
+    "quercetin",
+    "rotundic acid"
+  ],
+  "marker_selection_by_V4_score": false,
+  "native_overlay_seed": 101,
+  "native_overlay_pose": "Energytop1",
+  "overlay_projection": "one common2D PCA projection of actual coordinates; no isolated ligand fitting",
+  "all40_compounds_reported_in_CSV": true
+}

@@ -1,0 +1,9 @@
+{
+  "new_folder_creation_test": "PASS",
+  "target_configs": 8,
+  "input_rows": 59,
+  "new_V4_pose_outputs_copied": false,
+  "current_core_and_runner_code_copied": true,
+  "source_results_altered": false,
+  "whole_study_recomputed_in_test": false
+}

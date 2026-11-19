@@ -1,0 +1,11 @@
+{
+  "input_curation_sha256": "24e9ed4255f6ad1e5c3b1261b8c0fd01c3db7b80f0172d5fe7701c4b0a3afa45",
+  "corrected_input_sha256": "a8f534a6259cd2ac6f5b6886a89caac77d0d7fbfac1493353a46fc22c23ea611",
+  "original_protocol_sha256": "eb93b5528830625180b19bdfb8d0fe5b196ba754bec354e631e452a6c480bc06",
+  "purpose": "separate verified-identity diagnostic; inclusion/exclusion from primary determined by curation before scores",
+  "seeds": [
+    42,
+    142,
+    242
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "models_minimum_heavy_atom_distance_to_original_native_A": {
+    "1": 2.452880959198789,
+    "2": 9.910277695402886
+  },
+  "source_url": "https://files.rcsb.org/download/1JIL.pdb1.gz",
+  "interpretation": "Assembly includes original and symmetry-related protomer; target prep remains deposited ASU protomer; no dimer dynamics"
+}

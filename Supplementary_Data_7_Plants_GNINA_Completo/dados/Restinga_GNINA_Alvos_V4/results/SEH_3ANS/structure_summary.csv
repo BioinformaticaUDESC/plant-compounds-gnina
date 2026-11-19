@@ -1,0 +1,52 @@
+target_id,structure_id,compound,panel,input_conformers,top1_observations,top1_energy_median_kcal_mol,top1_energy_min_kcal_mol,top1_energy_max_kcal_mol,observations_without_limited_geometry_flags,sample_presence,note
+SEH_3ANS,alpha-humulene,alpha-humulene,volatile_literature_panel,3,9,-6.94844,-7.34482,-6.69109,9,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,beta-caryophyllene,beta-caryophyllene,volatile_literature_panel,3,9,-7.14528,-7.59544,-7.01818,9,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,alpha-guaiene,alpha-guaiene,volatile_literature_panel,1,3,-7.70402,-7.70644,-7.69163,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,alpha-bulnesene,alpha-bulnesene,volatile_literature_panel,1,3,-7.67358,-7.67986,-7.65995,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,beta-selinene,beta-selinene,volatile_literature_panel,1,3,-7.71098,-7.71102,-7.71067,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,alpha-phellandrene_isomer1,alpha-phellandrene,volatile_literature_panel,1,3,-6.51429,-6.52092,-6.5125,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,alpha-phellandrene_isomer2,alpha-phellandrene,volatile_literature_panel,1,3,-6.47531,-6.4825,-6.47307,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,alpha-pinene_isomer1,alpha-pinene,volatile_literature_panel,1,3,-6.24629,-6.25154,-6.24241,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,alpha-pinene_isomer2,alpha-pinene,volatile_literature_panel,1,3,-6.17011,-6.17563,-6.16349,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,limonene_isomer1,limonene,volatile_literature_panel,1,3,-6.34579,-6.34615,-6.34216,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,limonene_isomer2,limonene,volatile_literature_panel,1,3,-6.45499,-6.46284,-6.44763,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,beta-phellandrene_isomer1,beta-phellandrene,volatile_literature_panel,1,3,-6.12894,-6.13281,-6.11638,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,beta-phellandrene_isomer2,beta-phellandrene,volatile_literature_panel,1,3,-6.23274,-6.24551,-6.22995,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,p-cymene,p-cymene,volatile_literature_panel,1,3,-6.47765,-6.4824,-6.47531,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,germacrene_D,germacrene D,volatile_literature_panel,3,9,-7.50555,-7.83876,-7.50092,9,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,bicyclogermacrene,bicyclogermacrene,volatile_literature_panel,2,6,-7.760070000000001,-7.80445,-7.71166,6,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,beta-pinene_isomer1,beta-pinene,volatile_literature_panel,1,3,-6.3743,-6.37612,-6.37108,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,beta-pinene_isomer2,beta-pinene,volatile_literature_panel,1,3,-6.2573,-6.26231,-6.25414,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,caryophyllene_oxide,caryophyllene oxide,volatile_literature_panel,2,6,-7.443175,-7.79523,-7.08259,6,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,E-nerolidol_isomer1,(E)-nerolidol,volatile_literature_panel,1,3,-7.42367,-7.47091,-7.40527,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,E-nerolidol_isomer2,(E)-nerolidol,volatile_literature_panel,1,3,-7.36179,-7.44777,-7.26525,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,alpha-cadinol,alpha-cadinol,volatile_literature_panel,1,3,-7.88539,-7.9016,-7.85432,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,geranial,geranial,volatile_literature_panel,1,3,-5.85085,-5.90853,-5.75506,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,neral,neral,volatile_literature_panel,1,3,-6.02434,-6.05092,-6.01694,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,carvone_isomer1,carvone,volatile_literature_panel,1,3,-6.18978,-6.20002,-6.185,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,carvone_isomer2,carvone,volatile_literature_panel,1,3,-6.27328,-6.27434,-6.27314,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,linalool_isomer1,linalool,volatile_literature_panel,1,3,-6.14322,-6.14524,-6.02918,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,linalool_isomer2,linalool,volatile_literature_panel,1,3,-6.08086,-6.11013,-6.07328,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,myrcene,myrcene,volatile_literature_panel,1,3,-5.64189,-5.64929,-5.5762,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,geraniol,geraniol,volatile_literature_panel,1,3,-5.85044,-5.99784,-5.80608,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,quercetin,quercetin,nonvolatile_extract_comparator,1,3,-10.91986,-10.92361,-10.91564,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,catechin,catechin,nonvolatile_extract_comparator,1,3,-10.57405,-10.57702,-10.57121,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,myricitrin,myricitrin,nonvolatile_extract_comparator,1,3,-10.87722,-10.8844,-10.87218,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,eucalyptol,eucalyptol,volatile_literature_panel,1,3,-6.02734,-6.03395,-6.0122,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,sabinene_isomer1,sabinene,volatile_literature_panel,1,3,-5.95245,-5.96008,-5.95188,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,sabinene_isomer2,sabinene,volatile_literature_panel,1,3,-6.21363,-6.21369,-6.20497,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,E-beta-ocimene,(E)-beta-ocimene,volatile_literature_panel,1,3,-5.8275,-5.8413,-5.8231,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,gamma-terpinene,gamma-terpinene,volatile_literature_panel,1,3,-6.42278,-6.42465,-6.41979,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,alpha-terpineol_isomer1,alpha-terpineol,volatile_literature_panel,1,3,-6.85622,-6.86513,-6.85513,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,alpha-terpineol_isomer2,alpha-terpineol,volatile_literature_panel,1,3,-6.95693,-6.95764,-6.94744,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,citronellol_isomer1,citronellol,volatile_literature_panel,1,3,-5.96478,-6.01077,-5.77467,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,citronellol_isomer2,citronellol,volatile_literature_panel,1,3,-6.13816,-6.25631,-6.06929,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,beta-elemene,beta-elemene,volatile_literature_panel,1,3,-7.25638,-7.25914,-7.25215,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,gamma-muurolene,gamma-muurolene,volatile_literature_panel,1,3,-7.35804,-7.35827,-7.3538,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,elemol,elemol,volatile_literature_panel,1,3,-7.59717,-7.60199,-7.59381,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,delta-cadinene,delta-cadinene,volatile_literature_panel,1,3,-7.35413,-7.36991,-7.3528,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,uvaol,uvaol,nonvolatile_extract_comparator,1,3,-9.65351,-9.65411,-9.63862,0,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,erythrodiol,erythrodiol,nonvolatile_extract_comparator,1,3,-8.92858,-8.98061,-8.92757,0,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,rotundic_acid,rotundic acid,nonvolatile_extract_comparator,1,3,-9.47512,-9.52847,-9.47481,3,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,beta-sitosterol,beta-sitosterol,nonvolatile_extract_comparator,1,3,-9.54726,-9.54739,-9.46928,2,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison
+SEH_3ANS,stigmasterol,stigmasterol,nonvolatile_extract_comparator,1,3,-9.86345,-9.87568,-9.72771,1,not_confirmed,conformer_and_seed_sensitivity; no_target_or_species_potency_comparison

@@ -1,0 +1,5 @@
+pymol-open-source==3.2.0a0
+rdkit==2026.9.1
+numpy==2.3.5
+Pillow==12.3.0
+matplotlib==3.10.8

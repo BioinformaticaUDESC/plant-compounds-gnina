@@ -1,0 +1,23 @@
+[
+  {
+    "title": "GNINA1.3:the next increment in molecular docking with deep learning",
+    "authors": "McNutt AT,Li Y,Meli R,Aggarwal R,Koes DR",
+    "journal": "Journal of Cheminformatics17:28(2025)",
+    "doi": "10.1186/s13321-025-00973-x",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11874439/"
+  },
+  {
+    "title": "AutoDock Vina:improving the speed and accuracy of docking with a new scoring function,efficient optimization,and multithreading",
+    "authors": "Trott O,Olson AJ",
+    "journal": "Journal of Computational Chemistry31:455-461(2010)",
+    "doi": "10.1002/jcc.21334",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3041641/"
+  },
+  {
+    "title": "Improving Conformer Generation for Small Rings and Macrocycles Based on Distance Geometry and Experimental Torsional-Angle Preferences",
+    "authors": "Wang S,Witek J,Landrum GA,Riniker S",
+    "journal": "Journal of Chemical Information and Modeling60:2044-2058(2020)",
+    "doi": "10.1021/acs.jcim.0c00025",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/32155061/"
+  }
+]

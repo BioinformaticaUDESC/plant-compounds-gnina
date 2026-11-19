@@ -1,0 +1,29 @@
+{
+  "source_fingerprint": {
+    "audit_script_sha256": "dc21200ca14a2c00a678e2bfc745992a12cdd4eca9aac6dced13fdc20f0a5437",
+    "protocol_sha256": "eb93b5528830625180b19bdfb8d0fe5b196ba754bec354e631e452a6c480bc06",
+    "library_sha256": "4533ddf0c82549eee3b1e4e0520b2f1be9b15dc82bfa5a0bf15eb457ec1daa54",
+    "input_identity_qc_sha256": "ac38e00455361f2a421325c477e06eac89355a8b82addc597e4092816ad482dd",
+    "receptor_sha256": "3c34460131f95a83cf73d7fb042245ae8988185e5416926cf11e159dc9d5cfb8",
+    "validation_sha256": "ebc0698fa979e37c993d8815aa4d4feca08c5892f21bed215e5737f988f51a89",
+    "raw_pose_sha256": {
+      "COX2_5IKR_batch_seed142.sdf": "e52ed46437333ee908da6d53a11d468a2a4dea4b8470b0c3020d65c69458f9b2",
+      "COX2_5IKR_batch_seed242.sdf": "05ad088da24e47906f032e38a89c283977e3c2fe1ba1ae4e56a3fa7500d7077a",
+      "COX2_5IKR_batch_seed42.sdf": "3fa355f54c4a5a1abb9cd231e035ede79afc59ebc40a253a26b25e7ebb9d98ca",
+      "COX2_5IKR_correction_seed142.sdf": "bcf0045b0384404076798406065fab05e8858617b4e08be534742d056371985c",
+      "COX2_5IKR_correction_seed242.sdf": "db8ba660281dcad48969eb8d6a9bcdd7af705422a130fffce692a3ad7569d79a",
+      "COX2_5IKR_correction_seed42.sdf": "16e28558d5b34bca45159d2b69e20de00373161f6a5017a00e9f69421453a527"
+    }
+  },
+  "audited_output_sha256": {
+    "pose_quality_audit.csv": "abba3b5dc3ca5eea317963515efb352df5812db6678391a5bf92c57f000f235f",
+    "primary_docking_poses.csv": "2452452109bb9d5d6e81ef9f2056f64f09eed4cdfd180602f3f2615308d80bb1",
+    "top1_all_attempted_inputs.csv": "36986181f66acbd19aa9ce0f897215314f929d34fd79742e8d9d8a976c51f6fa",
+    "top1_by_input_seed.csv": "5c0a9b5046261a2d7457782fdace5df019cb16c7a136f2028db118a96821f2b5",
+    "top1_residue_proximities.csv": "d16202af1ec0c71cee09a86f3bdd148b696633c478fc9f1c24724c29665e8647",
+    "seed_stability_by_input.csv": "e92d05312090a3ac894f78832c13dfa4f40b19c6ec4814c6b0d2070548dfb12d",
+    "structure_summary.csv": "fb2929f7f03757de8beaa451b16de2cb09da1a4dc5dcf555881648e4bcfc54eb",
+    "residue_contact_recurrence.csv": "0c5d46307aa04925bc16f33f4af29fb2cdaaedabe11ce2cfc0d2bad00249635b",
+    "audit_counts.json": "6caf3cf68d14432f5b6cf2b8352b24793119bfbc478e3d9b48098efe1bb8cb3e"
+  }
+}

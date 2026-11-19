@@ -1,0 +1,52 @@
+{
+  "retrieved_date": "2026-10-25",
+  "targets": {
+    "COX2_5IKR": {
+      "name": "COX-2 humana",
+      "scope": "Hipótese de ligação relacionada à inflamação; continuidade do piloto.",
+      "reference": "Mefenamato, CCD ID8, cadeia A",
+      "structure_url": "https://www.rcsb.org/structure/5IKR",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/17084568/",
+      "limitations": "Dímero rígido com porfirinas COH de cobalto; águas e glicanos excluídos; não demonstra inibição, seletividade ou atividade do óleo."
+    },
+    "ACHE_4EY7": {
+      "name": "Acetilcolinesterase humana",
+      "scope": "Hipótese anticolinesterásica apoiada por estudo de quimiotipos de Lippia alba; escolha de alvo é uma inferência para a biblioteca ampliada.",
+      "reference": "Donepezila protonada +1, CCD E20, cadeia B",
+      "structure_url": "https://www.rcsb.org/structure/4EY7",
+      "evidence_url": "https://doi.org/10.1016/j.heliyon.2024.e29063",
+      "limitations": "O ensaio bioquímico de Lippia usou AChE de Electrophorus electricus, enquanto o modelo estrutural aqui é humano. Ligação prevista a AChE não equivale a efeito antidepressivo, cognitivo ou clínico. Apenas a cadeia B preparada foi usada."
+    },
+    "CB2_5ZTY": {
+      "name": "Receptor canabinoide CB2 humano em construção cristalográfica",
+      "scope": "Hipótese ligada à literatura experimental de beta-cariofileno como ligante de CB2; extrapolação aos outros candidatos é exploratória.",
+      "reference": "Antagonista AM10257, CCD 9JU, cadeia A",
+      "structure_url": "https://www.rcsb.org/structure/5ZTY",
+      "evidence_url": "https://doi.org/10.1073/pnas.0803601105",
+      "structure_paper_url": "https://doi.org/10.1016/j.cell.2018.12.011",
+      "limitations": "Estado ligado a antagonista, construção mutante com fusão T4-lisozima; membrana e lipídios excluídos. Docking não distingue agonismo de antagonismo nem estabelece a ativação do receptor."
+    },
+    "ALOX5_6N2W": {
+      "name": "5-lipoxigenase humana em construção estável",
+      "scope": "Controle exploratório relacionado à literatura de inibição de 5-LOX por óleos de Psidium guajava.",
+      "reference": "NDGA, CCD 30Z, cadeia B; Fe2 retido",
+      "structure_url": "https://www.rcsb.org/structure/6N2W",
+      "evidence_url": "https://doi.org/10.1080/10412905.2013.796498",
+      "structure_paper_url": "https://doi.org/10.1038/s41589-020-0544-7",
+      "limitations": "Hélice que recobre o sítio encontra-se desordenada na estrutura ligada ao NDGA. Ferro com representação empírica padrão, sem modelo redox/coordenação específico. O resultado do redocking decide a elegibilidade para a triagem; falha não demonstra inatividade biológica de nenhum candidato.",
+      "editorial_context": "A página do artigo informa nota editorial de 31/07/2026 sobre a estrutura companheira ligada a AKBA (6NCF). Essa estrutura não foi utilizada. Não generalizar essa nota como conclusão sobre a validade de 6N2W."
+    }
+  },
+  "bibliographic_gaps": [
+    {
+      "species": "Campomanesia littoralis",
+      "note": "A busca ampliada não resolveu uma lista nominal de constituintes voláteis suficientemente confirmada para a espécie/material. Não foi importada a composição genérica de C. xanthocarpa."
+    },
+    {
+      "species": "Eugenia catharinae",
+      "url": "https://doi.org/10.1007/s10600-023-04231-0",
+      "indexed_preview_url": "https://search.proquest.com/openview/83c4f2c886357ed49c60ab872995b8b6/1?cbl=2043527&pq-origsite=gscholar",
+      "note": "Foi localizado um fragmento indexado da tabela com alpha-pinene e germacrene A, mas o texto integral e a composição completa não foram acessados. Esse indício parcial foi registrado e não usado para atribuir uma composição completa ao óleo. O painel executado da espécie continua identificado como comparadores de extratos."
+    }
+  ]
+}

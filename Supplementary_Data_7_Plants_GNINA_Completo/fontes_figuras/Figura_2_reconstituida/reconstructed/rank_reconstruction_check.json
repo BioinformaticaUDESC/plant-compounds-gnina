@@ -1,0 +1,14 @@
+{
+  "provenance": "new reconstruction dated 2026-10-30; original plotting source not recovered",
+  "scope": "32 volatile compounds x 7 eligible targets; within-target ranks only",
+  "median_precision": "two decimal places as presented in manuscript Table S1",
+  "tie_rule": "average rank; lower, more negative Energy first",
+  "rank_comparisons": 224,
+  "rank_discrepancies": 0,
+  "pixel_identity_to_original_claimed": false,
+  "input_sha256": "535235d77775ea122511cf00dbbad78aa944b24aafca58a2111dc43da5f75676",
+  "expected_sha256": "bd2e9381b8219c28cda755fb78b3b0646c2ab2f2fc1b45010e1f4ae1d9bd66a9",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8"
+}

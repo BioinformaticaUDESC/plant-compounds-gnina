@@ -1,0 +1,11 @@
+{
+  "corrected_input": "caryophyllene_oxide_conf03_corrected",
+  "input_sha256": "a8f534a6259cd2ac6f5b6886a89caac77d0d7fbfac1493353a46fc22c23ea611",
+  "seeds": [
+    42,
+    142,
+    242
+  ],
+  "exported_poses": 60,
+  "protocol_sha256": "d5d462fdd44fa7d1531560b512c0fe1fc83a8d379a898c430a653fa15f4f8c48"
+}

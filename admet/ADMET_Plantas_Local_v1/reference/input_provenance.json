@@ -1,0 +1,12 @@
+{
+  "archive_name": "Supplementary_Data_7_Plants_GNINA_Final.zip",
+  "archive_sha256": "c5a4b797c260e3a4dd793009bdfb25936fbbbb9495eef3c77632a91a32f1609f",
+  "library_file_id": "libfile_6891f3f27734819184cc1725997a24df",
+  "archive_subdirectory": "Supplementary_Data_7_Plants_GNINA_Final/original_computational_package/Restinga_GNINA_Alvos_V4/",
+  "counts": {
+    "compounds": 40,
+    "structures": 51,
+    "sdf_entries": 59
+  },
+  "note": "Arquivos de química preservados; não constitui nova confirmação das associações históricas com espécies."
+}

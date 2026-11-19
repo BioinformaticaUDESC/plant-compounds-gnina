@@ -1,0 +1,4 @@
+target_id,flag,top1_observations,total_top1
+KEAP1_4XMB,severe_intraligand_nonbonded_overlap,2,177
+SEH_3ANS,outside_box_above_0.1A,9,177
+SEH_3ANS,severe_intraligand_nonbonded_overlap,3,177

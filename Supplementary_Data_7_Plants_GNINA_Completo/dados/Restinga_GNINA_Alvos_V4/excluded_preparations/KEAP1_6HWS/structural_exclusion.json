@@ -1,0 +1,7 @@
+{
+  "target": "KEAP1_6HWS",
+  "status": "EXCLUDED_BEFORE_RED0CKING",
+  "reason": "ARG380 missingCZ,NH1,NH2; existingatomsminimum3.024638986722217AfromGX8",
+  "policy": "No standard missing sidechain reconstructed within8A of native; alternative selected before outcomes",
+  "no_GNINA_simulation": true
+}

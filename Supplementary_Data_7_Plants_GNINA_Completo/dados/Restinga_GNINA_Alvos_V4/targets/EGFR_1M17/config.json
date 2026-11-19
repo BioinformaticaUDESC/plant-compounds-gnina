@@ -1,0 +1,22 @@
+{
+  "target_id": "EGFR_1M17",
+  "pdb": "1M17",
+  "chain": "A",
+  "ligand": "AQ4",
+  "receptor": "targets/EGFR_1M17/receptor_H.pdb",
+  "native_reference": "targets/EGFR_1M17/native_reference.sdf",
+  "redock_input": "targets/EGFR_1M17/redock_input.sdf",
+  "center": [
+    21.697499999999998,
+    0.30299999999999994,
+    52.0925
+  ],
+  "size": [
+    27.709,
+    22.0,
+    22.0
+  ],
+  "pH_model": 7.4,
+  "preparation_note": "Human EGFR kinase domain; erlotinib-bound active-like state, no resistance mutations or cellular ATP competition modeled",
+  "near_site_missing_residue_warning": false
+}

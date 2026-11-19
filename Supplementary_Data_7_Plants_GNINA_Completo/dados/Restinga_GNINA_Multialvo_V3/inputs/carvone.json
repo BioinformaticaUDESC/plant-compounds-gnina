@@ -1,0 +1,12 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 7439,
+        "MolecularFormula": "C10H14O",
+        "SMILES": "CC1=CCC(CC1=O)C(=C)C",
+        "InChIKey": "ULDHMXUKGWMISQ-UHFFFAOYSA-N"
+      }
+    ]
+  }
+}

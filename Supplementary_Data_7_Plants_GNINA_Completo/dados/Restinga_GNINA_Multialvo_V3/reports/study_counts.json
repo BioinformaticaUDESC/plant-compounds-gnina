@@ -1,0 +1,15 @@
+{
+  "compounds": 40,
+  "structures": 51,
+  "input_conformers": 59,
+  "attempted_inputs_including_quarantine": 61,
+  "targets_tested": 4,
+  "targets_geometry_pass": 3,
+  "targets_geometry_fail": 1,
+  "docking_top1_observations": 531,
+  "docking_poses": 10620,
+  "all_exported_docking_poses": 10980,
+  "quarantined_docking_poses": 180,
+  "diagnostic_correction_poses_outside_primary": 180,
+  "native_redocking_poses": 400
+}

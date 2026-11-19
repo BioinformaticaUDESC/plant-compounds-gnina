@@ -1,0 +1,660 @@
+[
+  {
+    "panel": "3A",
+    "pdb": "5IKR",
+    "seed": 101,
+    "source_session_sha256": "49ba3d886851c1276506d6001fb4767a8585d9f305d26b2c22b41e679b1e55ae",
+    "source_panel_sha256": "499744b0e533575a0210557f24cc270475049620220d7e4e720cf9887ef8e4c9",
+    "labelled_panel_sha256": "71cd76179f1e3774a448e6448a49a13f60835615a7e198c7fcb27af22d7c85ae",
+    "pose_sha256": "60aac9c8ad872afeb1aa0123914aa28e49ee859c17c55eae43bb1122b6de0ea0",
+    "receptor_sha256": "3c34460131f95a83cf73d7fb042245ae8988185e5416926cf11e159dc9d5cfb8",
+    "reference_sha256": "da9e9a0288de96d670b759f6d178ca3c196184cc15ffd894106484f5b49d9b0a",
+    "labels": [
+      {
+        "name": "TYR385 (A)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          353.0952380952381,
+          528.2857142857143
+        ]
+      },
+      {
+        "name": "SER530 (A)",
+        "text_pixel": [
+          134,
+          770
+        ],
+        "atom_pixel": [
+          531.4,
+          619.55
+        ]
+      },
+      {
+        "name": "VAL349 (A)",
+        "text_pixel": [
+          1066,
+          770
+        ],
+        "atom_pixel": [
+          609.4,
+          625.55
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "3B",
+    "pdb": "4EY7",
+    "seed": 101,
+    "source_session_sha256": "9673547fa0137119bc522db683bb1e7ac9ade2f932a2f74cef3ed32d0f687c84",
+    "source_panel_sha256": "0f956aacd6a1ea80ce762cdf9fbe4e21fb5ea45136002cc513d8236dd1f62965",
+    "labelled_panel_sha256": "29f54dac6d1aaeca4b36d7c44a9ddd76902dd59c32d99fea66dd2cf611c7a74d",
+    "pose_sha256": "9ebcfc760d3668bef462e6eca4ba08f5add1c72ab5c48ec3f9294ae6dbf31bac",
+    "receptor_sha256": "9831d215962131c83b50c6b9ff9e3f965fb29019de1a1358ce9fe3b7e4819e2b",
+    "reference_sha256": "6b7e8765fece442c335f65373b2f100912b2de1cfbfe02a38d15b3ead6797c27",
+    "labels": [
+      {
+        "name": "PHE295 (B)",
+        "text_pixel": [
+          1066,
+          130
+        ],
+        "atom_pixel": [
+          693.4166666666666,
+          276.0833333333333
+        ]
+      },
+      {
+        "name": "TYR124 (B)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          583.0,
+          514.25
+        ]
+      },
+      {
+        "name": "PHE338 (B)",
+        "text_pixel": [
+          134,
+          130
+        ],
+        "atom_pixel": [
+          551.6923076923077,
+          311.7692307692308
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "3C",
+    "pdb": "5ZTY",
+    "seed": 101,
+    "source_session_sha256": "807e4f3b6f72dda0448f39b3faccb6ba983a875a2823201fa81775a294e2070c",
+    "source_panel_sha256": "7cbceeabad224db8c22dcfe78020d5cca334e6e90d3936bd237cd95b04dc20f6",
+    "labelled_panel_sha256": "bfbcb0220691367247c0510cc28d91b19b787bf8017576d0476276075df52a4d",
+    "pose_sha256": "1aed4a4509eb9571bd33f194aa283dc2f9f4f372eea23ed1dc5d4c8f0b2c7ced",
+    "receptor_sha256": "8b963c71e6e57b5f3b70c93985e3fe3189b368ac48bc0f3f28ecdfd45119dc85",
+    "reference_sha256": "8842161439678e6b9eb97f3c0afd9b1a64efe1c26d0bed16b5527b1f3b91e7d7",
+    "labels": [
+      {
+        "name": "THR114 (A)",
+        "text_pixel": [
+          134,
+          770
+        ],
+        "atom_pixel": [
+          528.6842105263158,
+          604.3684210526316
+        ]
+      },
+      {
+        "name": "SER90 (A)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          908.7837837837837,
+          394.2432432432432
+        ]
+      },
+      {
+        "name": "VAL113 (A)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          607.2777777777778,
+          453.94444444444446
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "3D",
+    "pdb": "3ANS",
+    "seed": 101,
+    "source_session_sha256": "45125466732e05f7632c1bbf715aef8dfb7d8834b1d547709233062ffd0b5b9f",
+    "source_panel_sha256": "3ac01634dd8d8b6fa4bd5011dde8eaef5218fd468155c576aed9baafd566e076",
+    "labelled_panel_sha256": "3aa9baa052ab4e2a5c2e091527595e1e2f9a2a98b02c46331133848e4f1418b7",
+    "pose_sha256": "47c37204fa11deff401c63b41b42d48a3d0f43869d85ffd6d896fea09d6ca9f5",
+    "receptor_sha256": "94711ebef4bf8b4f792e73d164e7ed5c6d1dcf823aa05646deec2481ab9c8b10",
+    "reference_sha256": "9f68e5b70fd7de3c70e9158fe979dee788d12a0fd12d13075b3e957ebb300b59",
+    "labels": [
+      {
+        "name": "TYR466 (A)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          563.3333333333334,
+          416.5
+        ]
+      },
+      {
+        "name": "TYR383 (A)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          597.7826086956521,
+          363.95652173913044
+        ]
+      },
+      {
+        "name": "ASP335 (A)",
+        "text_pixel": [
+          1066,
+          770
+        ],
+        "atom_pixel": [
+          623.8333333333334,
+          569.75
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "3E",
+    "pdb": "4XMB",
+    "seed": 101,
+    "source_session_sha256": "375f3cc751fe1d70b5b76139715e22db019a48614b803e8797f90d5196330021",
+    "source_panel_sha256": "b8880b3e7906b7d3a0fbbfb43225e3268244f78107a2057913a0d2a141b106f7",
+    "labelled_panel_sha256": "e89bc2ee67f2896c29931e1a65396ec8304622a0e5a6d9900a282535a256294b",
+    "pose_sha256": "53b207b149dc72c9b45178e734131f3e1a447347741c8cbc6af78b3c23feaf5c",
+    "receptor_sha256": "5bfcb84dbd2e8e26fdf6b6c722908bfe115b4d72a2819118b8aaf10980326a34",
+    "reference_sha256": "14b886c25150584faac243dc36ff2f35227699c4b80da9fc44febd6f2d1a1ef5",
+    "labels": [
+      {
+        "name": "SER508 (A)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          802.6666666666666,
+          593.0666666666667
+        ]
+      },
+      {
+        "name": "ALA556 (A)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          558.75,
+          479.625
+        ]
+      },
+      {
+        "name": "TYR334 (A)",
+        "text_pixel": [
+          134,
+          130
+        ],
+        "atom_pixel": [
+          347.125,
+          361.75
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "3F",
+    "pdb": "7KK4",
+    "seed": 101,
+    "source_session_sha256": "7feac4d376bdcdb147baeff9113ed36aa3b4f941de6c1a7e134df852c1ae37c1",
+    "source_panel_sha256": "cfcfe2a98927507102b5fc36816a9021203a28c307e2ced3dbfc9dff66740d24",
+    "labelled_panel_sha256": "460436b0f8d3b8b78de06dea639893b57ceaaf7c81338f16b81281b7e318cd3e",
+    "pose_sha256": "0248ed7e42a69cca1cb1f96b8add6d599eebb087f1eba2c827099c2cda47fd50",
+    "receptor_sha256": "ba124dddd2d7493f18cb7874830de18c032090465174728148fe04a0630aa9ed",
+    "reference_sha256": "a89848a1934a24f9eea94f7a20c1f651ca2c46a0028e8374cce353de8dd99383",
+    "labels": [
+      {
+        "name": "SER904 (A)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          832.84,
+          308.76
+        ]
+      },
+      {
+        "name": "GLY863 (A)",
+        "text_pixel": [
+          1066,
+          130
+        ],
+        "atom_pixel": [
+          689.1904761904761,
+          290.04761904761904
+        ]
+      },
+      {
+        "name": "TYR889 (A)",
+        "text_pixel": [
+          134,
+          770
+        ],
+        "atom_pixel": [
+          530.2631578947369,
+          613.6315789473684
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "3G",
+    "pdb": "1JIL",
+    "seed": 101,
+    "source_session_sha256": "bcd42622a43554fb7ad93cd25c62faca68ecc087ee60d1564236a458ed74b4a8",
+    "source_panel_sha256": "6e5d5cae7ea2b5707d41bd1c8031b241a1a603d659b689447a9ebe49b07ef1cf",
+    "labelled_panel_sha256": "c03efcb25f0f18f5f4d384461c9f099d71b8b2bfa796e2f6c7ed2a209702718b",
+    "pose_sha256": "3c24f9988d38cd24df09a07204178c3e29311fb01a1e3f9880814b860e84386a",
+    "receptor_sha256": "8ccd49a521858227834fd9e421b886aa5987d225cde6a26d6ac539834ed2b8fe",
+    "reference_sha256": "ea5838c05a25df1ab21f87190b19a9dcaae552c9593d2773fe6b6dffdd5976da",
+    "labels": [
+      {
+        "name": "TYR36 (A)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          309.2307692307692,
+          366.38461538461536
+        ]
+      },
+      {
+        "name": "ASP195 (A)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          693.0,
+          401.51851851851853
+        ]
+      },
+      {
+        "name": "ARG88 (A)",
+        "text_pixel": [
+          1066,
+          770
+        ],
+        "atom_pixel": [
+          752.36,
+          655.8
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "7A",
+    "pdb": "5IKR",
+    "seed": 42,
+    "source_session_sha256": "b164eb2ad81231651cfa4242c989f5562cbfecc0ecbbb9289cd1ca8e4f92907d",
+    "source_panel_sha256": "99d2568d4c70ceda62f761a58001b8ffa49ce3263b51b702a52d100602474eac",
+    "labelled_panel_sha256": "f77242ee989940aba46795067954f6e1f59463c224e8f62ef513feb83c6c4d59",
+    "pose_sha256": "261998c14a2c0c9834cb924f8e26b024b08dab0ce55fab3c393f70051bfe8d5e",
+    "receptor_sha256": "3c34460131f95a83cf73d7fb042245ae8988185e5416926cf11e159dc9d5cfb8",
+    "reference_sha256": "da9e9a0288de96d670b759f6d178ca3c196184cc15ffd894106484f5b49d9b0a",
+    "labels": [
+      {
+        "name": "VAL349 (A)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          699.2051282051282,
+          565.8205128205128
+        ]
+      },
+      {
+        "name": "TYR348 (A)",
+        "text_pixel": [
+          134,
+          770
+        ],
+        "atom_pixel": [
+          446.7,
+          584.5
+        ]
+      },
+      {
+        "name": "TYR385 (A)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          366.9047619047619,
+          521.4761904761905
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "7B",
+    "pdb": "4EY7",
+    "seed": 42,
+    "source_session_sha256": "cb32900c266c7e5183bd5e2cc62a1708773a970715e332eaaa965f0a703a1cbf",
+    "source_panel_sha256": "847ecaf56bbb505225db7c4fe69493417dc2bd58d2f036dea7be3a0748be1a1a",
+    "labelled_panel_sha256": "b41408e306ac9e10db24c1411638916331f0c395bb11101e8feb79eadaf07418",
+    "pose_sha256": "bcbeffae54e512af23ef6b22dbdd171976a27a6feca7a4589d90b96a4f5b8be4",
+    "receptor_sha256": "9831d215962131c83b50c6b9ff9e3f965fb29019de1a1358ce9fe3b7e4819e2b",
+    "reference_sha256": "6b7e8765fece442c335f65373b2f100912b2de1cfbfe02a38d15b3ead6797c27",
+    "labels": [
+      {
+        "name": "ASP74 (B)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          621.4545454545455,
+          544.0909090909091
+        ]
+      },
+      {
+        "name": "TYR337 (B)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          540.1666666666666,
+          343.75
+        ]
+      },
+      {
+        "name": "HIS447 (B)",
+        "text_pixel": [
+          134,
+          130
+        ],
+        "atom_pixel": [
+          397.1,
+          324.9
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "7C",
+    "pdb": "5ZTY",
+    "seed": 42,
+    "source_session_sha256": "4bee5922e2d78e43686d296196c8e1239dbc4ec0711a9348d26a7767c6e2f9e9",
+    "source_panel_sha256": "a978fc4e297dbe4a2fff1cb737554a82ae9bfef69728c00da3bae4354ed67dd9",
+    "labelled_panel_sha256": "29aa9c9ffa6cee7c36933383a967a2bf0429b06f3d3775fbd21e41c0edf38224",
+    "pose_sha256": "85a20fe3b07103fb4b1006738ccc17eb49e77d402b60036f14d21b6a6348bdb2",
+    "receptor_sha256": "8b963c71e6e57b5f3b70c93985e3fe3189b368ac48bc0f3f28ecdfd45119dc85",
+    "reference_sha256": "8842161439678e6b9eb97f3c0afd9b1a64efe1c26d0bed16b5527b1f3b91e7d7",
+    "labels": [
+      {
+        "name": "ILE110 (A)",
+        "text_pixel": [
+          1066,
+          770
+        ],
+        "atom_pixel": [
+          697.4444444444445,
+          609.9629629629629
+        ]
+      },
+      {
+        "name": "PHE106 (A)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          812.3571428571429,
+          566.5714285714286
+        ]
+      },
+      {
+        "name": "VAL113 (A)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          562.5714285714286,
+          467.07142857142856
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "7D",
+    "pdb": "3ANS",
+    "seed": 42,
+    "source_session_sha256": "749b15b3abafd6f9528a659282aba34c4ccf6650368ee759f70a18242a50a923",
+    "source_panel_sha256": "d085a0625f3f046ea8616aa1f29c808b0ced93c99035d973088f22cc4f43dc28",
+    "labelled_panel_sha256": "7daa43b7426e84805ddf33b0adf2fbed85bf15b31dc3e6680b7494def4914d83",
+    "pose_sha256": "8214ba70e6e62dc3e97e987abc112ef23efa49145c0fa8e5fa64068867c9a732",
+    "receptor_sha256": "94711ebef4bf8b4f792e73d164e7ed5c6d1dcf823aa05646deec2481ab9c8b10",
+    "reference_sha256": "9f68e5b70fd7de3c70e9158fe979dee788d12a0fd12d13075b3e957ebb300b59",
+    "labels": [
+      {
+        "name": "LEU408 (A)",
+        "text_pixel": [
+          1066,
+          770
+        ],
+        "atom_pixel": [
+          788.8947368421053,
+          424.2631578947368
+        ]
+      },
+      {
+        "name": "LEU417 (A)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          812.7777777777778,
+          385.22222222222223
+        ]
+      },
+      {
+        "name": "SER407 (A)",
+        "text_pixel": [
+          1066,
+          130
+        ],
+        "atom_pixel": [
+          853.1,
+          370.5
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "7E",
+    "pdb": "4XMB",
+    "seed": 42,
+    "source_session_sha256": "69ac1c3f5bd11dce01c16e15c0046519f450ba0c741140f149a0ebb6675bc0e4",
+    "source_panel_sha256": "95f0bc05c2e1c9b84e8596f1aa483415fb8514dbe3b74471bd03797fdd38f03a",
+    "labelled_panel_sha256": "7b657cf18d4f312ce3832913847dabb4ec24528a758928d54d30eedd21041fa1",
+    "pose_sha256": "9180b11f5dc77e2f53c71cc0e3041cc020af50d8d46c921962c7142766d832ca",
+    "receptor_sha256": "5bfcb84dbd2e8e26fdf6b6c722908bfe115b4d72a2819118b8aaf10980326a34",
+    "reference_sha256": "14b886c25150584faac243dc36ff2f35227699c4b80da9fc44febd6f2d1a1ef5",
+    "labels": [
+      {
+        "name": "ARG380 (A)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          410.2903225806452,
+          419.64516129032256
+        ]
+      },
+      {
+        "name": "SER363 (A)",
+        "text_pixel": [
+          134,
+          770
+        ],
+        "atom_pixel": [
+          367.57142857142856,
+          501.2142857142857
+        ]
+      },
+      {
+        "name": "SER602 (A)",
+        "text_pixel": [
+          134,
+          130
+        ],
+        "atom_pixel": [
+          486.1333333333333,
+          379.2
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "7F",
+    "pdb": "7KK4",
+    "seed": 42,
+    "source_session_sha256": "b3d522cc8e16d1f17483df9e492b1dbe68861dc2bb9b3154183a831a1aec0ffa",
+    "source_panel_sha256": "471456eb972303f53e4444c5b6f8bf927bd4bfc9c64c7e91891a7e8c3279d409",
+    "labelled_panel_sha256": "ae266b9d88e9933d6d20fb8cefe71b5c3eed369d82b36740d90b5538e5ce5aba",
+    "pose_sha256": "0c69ccb3d2180c93a45596809c6e39bf7694efdbae5744b1044c92a39d401b38",
+    "receptor_sha256": "ba124dddd2d7493f18cb7874830de18c032090465174728148fe04a0630aa9ed",
+    "reference_sha256": "a89848a1934a24f9eea94f7a20c1f651ca2c46a0028e8374cce353de8dd99383",
+    "labels": [
+      {
+        "name": "GLY863 (A)",
+        "text_pixel": [
+          1066,
+          130
+        ],
+        "atom_pixel": [
+          648.5555555555555,
+          292.3333333333333
+        ]
+      },
+      {
+        "name": "TYR907 (A)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          750.3333333333334,
+          496.0
+        ]
+      },
+      {
+        "name": "TYR896 (A)",
+        "text_pixel": [
+          1066,
+          770
+        ],
+        "atom_pixel": [
+          653.8421052631579,
+          534.7894736842105
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  },
+  {
+    "panel": "7G",
+    "pdb": "1JIL",
+    "seed": 42,
+    "source_session_sha256": "74d393f48711b0fc47df7ba6883ead2fb254ffe58bbaa80c081d64e8fd815279",
+    "source_panel_sha256": "f7cc9586a9f0aaad05c75065e79b4927695896c7d28c7eacaaf955f01826c95f",
+    "labelled_panel_sha256": "ed0413916b35b2c9b4b2b14a43570922726e8e10d2e3f676a79180eb8f18a302",
+    "pose_sha256": "063ab7e715ab5702430ec36fa08b54155674aef8763b833bb6f04ba815dfe0f4",
+    "receptor_sha256": "8ccd49a521858227834fd9e421b886aa5987d225cde6a26d6ac539834ed2b8fe",
+    "reference_sha256": "ea5838c05a25df1ab21f87190b19a9dcaae552c9593d2773fe6b6dffdd5976da",
+    "labels": [
+      {
+        "name": "GLY38 (A)",
+        "text_pixel": [
+          130,
+          450
+        ],
+        "atom_pixel": [
+          588.0714285714286,
+          382.42857142857144
+        ]
+      },
+      {
+        "name": "TYR170 (A)",
+        "text_pixel": [
+          134,
+          770
+        ],
+        "atom_pixel": [
+          456.25925925925924,
+          572.7777777777778
+        ]
+      },
+      {
+        "name": "HIS50 (A)",
+        "text_pixel": [
+          1070,
+          450
+        ],
+        "atom_pixel": [
+          812.0370370370371,
+          323.81481481481484
+        ]
+      }
+    ],
+    "coordinate_check": "archive files match session objects; camera unchanged"
+  }
+]

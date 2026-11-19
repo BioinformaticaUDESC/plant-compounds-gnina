@@ -1,0 +1,12 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6549,
+        "MolecularFormula": "C10H18O",
+        "SMILES": "CC(=CCCC(C)(C=C)O)C",
+        "InChIKey": "CDOSHBSSFJOMGT-UHFFFAOYSA-N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "source": "dados/Restinga_GNINA_Multialvo_V3/targets/COX2_5IKR/native_reference.sdf",
+  "native_heavy_atom_extents_xyz_A": [
+    6.9780000000000015,
+    4.076,
+    7.024999999999999
+  ],
+  "native_extent_plus_12_A": [
+    18.978,
+    16.076,
+    19.025
+  ],
+  "rule": "edge=max(22 Å,native heavy-atom extent+12 Å); center=midpoint of coordinate extrema",
+  "rule_center": [
+    38.042,
+    2.131,
+    61.2795
+  ],
+  "inherited_center": [
+    38.042,
+    2.131,
+    61.2795
+  ],
+  "rule_size_A": [
+    22,
+    22,
+    22
+  ],
+  "inherited_size_A": [
+    22.0,
+    22.0,
+    22.0
+  ],
+  "identical": true,
+  "scope": "New arithmetic check of archived coordinates; no new docking or score evaluation."
+}

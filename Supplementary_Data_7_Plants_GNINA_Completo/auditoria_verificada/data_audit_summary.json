@@ -1,0 +1,13 @@
+{
+  "checks": 95277,
+  "divergences": 0,
+  "archive_hashes": 579,
+  "native_poses": 1200,
+  "primary_candidate_poses": 24780,
+  "candidate_top1": 1239,
+  "flagged_top1": 33,
+  "compound_target_summaries": 280,
+  "seed_stability_entries": 413,
+  "executed_commands_verified": 90,
+  "new_docking_simulations": 0
+}

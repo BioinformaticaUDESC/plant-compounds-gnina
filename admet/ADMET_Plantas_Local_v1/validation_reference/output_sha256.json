@@ -1,0 +1,18 @@
+{
+  "admet_by_compound_ranges.csv": "494688421c156d204c8bd1d8ed4674758ef33d4068b55a09f8547341468ab70c",
+  "admet_by_structure.csv": "ea1cd0f227e76d1b61748157684b5d2730f56d6b562e2ca95ef746d77ea09e05",
+  "admet_long_with_units.csv": "42bd7039e9a22c9d7c74400d8be40f2a59c88f639a7ec28b42335dd6b745f932",
+  "charge_sensitivity_inputs.csv": "db604c01a470d16287f3f520f2424d02d40e3ae5182639c743e02abeea132718",
+  "charge_sensitivity_predictions.csv": "2a6d3bd549f7cbce62b9cd108f3adde8ca50f369f002c27b184b1eac3d2c5d05",
+  "docking_input_mapping.csv": "54d5ec59cd1e4bd669620655f5ea2f224586bde58f8d5169bed509c0b2b44b5a",
+  "environment_freeze.txt": "53cf7c3784491a83c73cb76cb329c81eaa764db8feca4a3ebfaf9b2dcafb6f73",
+  "input_checksums.json": "104f8fbe0256e1cddcb08618249e90f974116f894002b2d673da6e9d67c3e812",
+  "input_identity_audit.csv": "e40fbaa574c78a49bbef7b8334ab92fd4d589448531a5949fcfea4555661cd33",
+  "model_weights_sha256.json": "648dfbc1368dfe42089d0b5d29d7185a23f57cd91c4ac007aaa88531059c0f40",
+  "physchem_by_structure.csv": "c5cffe7c3f20c61355dd2ca957eaf9909b871c3cf9eb8207a84b5bbbba72618a",
+  "protocol.json": "0accbe3b427363da67dbe67b695f6b45c67610a3e3b08c6e87d8aabb83d8e8db",
+  "raw_model_predictions.csv": "060736388dee300b7ea1111777980d1eaf4e0864720796c9370df0cb164b9514",
+  "validated_structures.csv": "6bedf3e6955fe08cd94fa9c4bf336f2f8febc1d454b37a0d4df4f0f80e2e568c",
+  "vendor_endpoint_metadata.csv": "3be2ff6d32ee5f163ad76858c725ea5311101708d59b9ecd16262edb89416d3c",
+  "vendor_endpoint_metadata_original.csv": "32d46092deab7a553e319bdecaaed5e7dc2300c992d74d0a68c13c37f4af9d2d"
+}

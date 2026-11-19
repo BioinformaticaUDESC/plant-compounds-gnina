@@ -1,0 +1,12 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 92138,
+        "MolecularFormula": "C15H26O",
+        "SMILES": "CC(=C)[C@@H]1C[C@@H](CC[C@@]1(C)C=C)C(C)(C)O",
+        "InChIKey": "GFJIQNADMLPFOW-VNHYZAJKSA-N"
+      }
+    ]
+  }
+}

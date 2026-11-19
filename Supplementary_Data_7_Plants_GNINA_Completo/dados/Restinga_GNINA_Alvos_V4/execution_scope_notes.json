@@ -1,0 +1,8 @@
+{
+  "round_A": "Six systems selected before all A native outcomes; original numeric search options, native gate, library and raw outputs unchanged",
+  "round_B": "Two additional targets selected after A native outcomes; independent protocol document; no prior failure removed",
+  "input_quality": "V3 curated59inputs; input byte hashes and chemical keys independently checked",
+  "additional_microstate_graph_QC": "Exact formal-charge/bond/H-state check added before B search and applied retrospectively to A native/candidate outputs; standard InChI alone may normalize zwitterions/tautomers; no search coordinates or scores altered",
+  "scope_routing_update": "Initial script routing changed only to select its explicit original six targets after complementary target configs were added; same GNINA options, seeds, prepared inputs and numerical routines",
+  "previous_results_recomputed": false
+}

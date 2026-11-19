@@ -1,0 +1,14 @@
+VERIFICACAO DAS ESTRUTURAS QUIMICAS E DAS IMAGENS PYMOL
+Data: 27/10/2026
+
+As imagens sao renderizacoes cientificas realizadas no PyMOL a partir dos arquivos de coordenadas do estudo. Nao foi usada geracao de imagens por inteligencia artificial. As poses de docking/redocking sao previsoes computacionais; os ligantes cristalograficos sao referencias experimentais provenientes das estruturas PDB identificadas nas legendas.
+
+A verificacao compara os arquivos PDB/SDF das figuras aos arquivos arquivados do estudo, confere os hashes de origem, reabre as sessoes PSE e compara as coordenadas dos atomos pesados. Tambem repete a renderizacao de cada sessao e compara todos os pixels com a imagem original entregue. Alteracoes numericas abaixo de 0,00002 A na sessao correspondem ao armazenamento em precisao simples. As figuras compostas acrescentam identificacao e legendas aos paineis originais.
+
+As 51 estruturas quimicas de 40 compostos foram verificadas contra os SMILES e InChIKeys da biblioteca e os 59 arquivos SDF de entrada. As referencias de 40 CIDs foram consultadas diretamente no PubChem em 27/10/2026.
+
+Ha 27 correspondencias exatas de InChIKey com o composto de referencia do PubChem, 23 representacoes compativeis com a enumeracao da estereoquimica nao especificada na referencia e uma representacao de microestado documentada: o acido rotundico foi modelado como carboxilato, C30H47O5-, em relacao ao composto neutro C30H48O5. Essas diferencas sao escolhas de representacao do estudo e nao confirmam estereoisomeros ou presenca dos compostos nas amostras vegetais.
+
+chemical_structure_audit.csv informa a formula, carga, InChIKey, CID e relacao com a referencia para cada desenho. authenticity_audit.json registra a verificacao das 19 imagens PyMOL. pubchem_properties_2026-10-27.json preserva a resposta original do PubChem. As imagens originais estao em panels; as sessoes editaveis em sessions; os arquivos de coordenadas usados nas figuras em structures. SHA256SUMS.txt permite verificar os arquivos do pacote.
+
+A revisao do manuscrito alterou apenas a apresentacao da Tabela 2: duas linhas horizontais, superior e inferior, sem fundo, linhas verticais ou grade interna. Os dados, textos e as 14 imagens incorporadas foram preservados.
