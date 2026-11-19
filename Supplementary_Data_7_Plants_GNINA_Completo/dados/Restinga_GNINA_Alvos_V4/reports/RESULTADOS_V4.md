@@ -1,26 +1,27 @@
-# Ampliação de alvos GNINA V4
+# GNINA V4 target expansion: technical results
 
-Biblioteca curada: 40 compostos, 51 estruturas, 59 entradas. Novos alvos testados: 8; aprovados: 4; reprovados: 4.
+**Curated library:** 40 compounds, 51 declared structures, and 59 verified docking inputs.  
+**New systems tested:** 8; **accepted for candidate screening:** 4; **not accepted:** 4.
 
-|Alvo|Origem|Controle|RMSD mediano (A)|Triagem|
-|---|---|---|---:|---|
-|EGFR_1M17|NEW_V4_A_INITIAL|1/5|7.825|não|
-|GYRB_1KZN|NEW_V4_A_INITIAL|0/5|10.051|não|
-|KEAP1_4XMB|NEW_V4_A_INITIAL|5/5|1.042|sim|
-|MAOA_2Z5X|NEW_V4_A_INITIAL|0/5|5.800|não|
-|MAOB_2V61|NEW_V4_A_INITIAL|0/5|2.701|não|
-|PARP1_7KK4|NEW_V4_B_COMPLEMENTARY|5/5|1.135|sim|
-|SEH_3ANS|NEW_V4_A_INITIAL|5/5|1.233|sim|
-|TYRS_1JIL|NEW_V4_B_COMPLEMENTARY|4/5|0.620|sim|
-|ACHE_4EY7|PREVIOUS_V3_NOT_RERUN|5/5|1.070|sim|
-|ALOX5_6N2W|PREVIOUS_V3_NOT_RERUN|0/5|3.549|não|
-|CB2_5ZTY|PREVIOUS_V3_NOT_RERUN|5/5|0.537|sim|
-|COX2_5IKR|PREVIOUS_V3_NOT_RERUN|5/5|0.481|sim|
+| Target | Source | Native-control pass rate | Median RMSD (Å) | Candidate screening |
+| --- | --- | ---: | ---: | --- |
+| EGFR_1M17 | New V4, stage A | 1/5 | 7.825 | No |
+| GYRB_1KZN | New V4, stage A | 0/5 | 10.051 | No |
+| KEAP1_4XMB | New V4, stage A | 5/5 | 1.042 | Yes |
+| MAOA_2Z5X | New V4, stage A | 0/5 | 5.800 | No |
+| MAOB_2V61 | New V4, stage A | 0/5 | 2.701 | No |
+| PARP1_7KK4 | New V4, complementary stage B | 5/5 | 1.135 | Yes |
+| SEH_3ANS | New V4, stage A | 5/5 | 1.233 | Yes |
+| TYRS_1JIL | New V4, complementary stage B | 4/5 | 0.620 | Yes |
+| ACHE_4EY7 | Previous V3; not rerun | 5/5 | 1.070 | Yes |
+| ALOX5_6N2W | Previous V3; not rerun | 0/5 | 3.549 | No |
+| CB2_5ZTY | Previous V3; not rerun | 5/5 | 0.537 | Yes |
+| COX2_5IKR | Previous V3; not rerun | 5/5 | 0.481 | Yes |
 
-Novas poses de candidatos: 14160; novas poses de redocking: 800. Acumulado com V3: 24780 poses de candidatos e1200 de controles. Resultados anteriores não recalculados.
+The V4 expansion produced 14,160 new candidate poses and 800 new native-control poses. Together with V3, the primary archive contains 24,780 candidate poses and 1,200 control poses. Previous V3 results were retained and were not recalculated.
 
-Aprovação refere-se à reprodução geométrica do ligante nativo no sistema e protocolo definidos. Não comprova atividade dos candidatos. Reprovação não demonstra inatividade biológica. Escores entre alvos não são escala comum de afinidade.
+Acceptance refers only to geometric recovery of the deposited native ligand under the recorded system preparation and docking protocol. It does not establish activity for any candidate. Conversely, failure of a native-control test does not demonstrate biological inactivity. Scores across distinct protein targets are not a common affinity scale.
 
-Todas as 40 substâncias permanecem candidatas de literatura; ausência de GC-MS do projeto. Dados químicos de Campomanesia littoralis e composição completa do óleo de Eugenia catharinae continuam pendentes. Sem previsão validada de toxicologia/ADMET, efeito antidepressivo, antitumoral ou ação antimicrobiana celular.
+All 40 compounds remain literature-derived candidates; project-specific GC–MS data were not available. Chemical assignment for *Campomanesia littoralis* and a complete essential-oil composition for *Eugenia catharinae* remain unresolved. The archive does not provide validated predictions of toxicity/ADMET, antidepressant effects, antitumour effects, or cellular antimicrobial activity.
 
-KEAP1 avalia sítio não covalente deNRF2, não modificação de Cys151 ou capacidade antioxidante direta. GyrB é uma construção com segmentos ausentes e exige cautela estrutural. Os controles falhos permanecem disponíveis e não geram rankings principais de candidatos.
+KEAP1 evaluates the non-covalent NRF2-binding site and does not test Cys151 modification or direct antioxidant capacity. GyrB is a construct with missing segments and requires structural caution. Systems that did not satisfy native-ligand recovery are retained in the archive but do not generate primary candidate rankings.
