@@ -1,9 +1,9 @@
-DADOS COMPLEMENTARES ADMET V4
+# Supplementary ADMET data, version 4
 
-A inferência de referência foi efetivamente executada em CPU no ambiente de preparação. Não foi recebida uma execução da máquina local de Juan. Os resultados desta V4 correspondem à execução registrada em ADMET_Plantas_Local_v1/validation_reference/protocol.json.
+The reference inference was executed on CPU in the recorded preparation environment. No run from Juan's local workstation was received. The results provided in this V4 delivery correspond to the execution recorded in `ADMET_Plantas_Local_v1/validation_reference/protocol.json`.
 
-Conteúdo: pacote local completo com dados originais, 59 SDF, 51 identidades químicas, scripts, requisitos, 2.091 predições primárias, 41 saídas de sensibilidade à carga, descritores e registros de execução. V4_Derived_Tables contém as tabelas do artigo e suplemento derivadas desses CSV, com a precisão de apresentação. Os CSV originais conservam a precisão completa.
+The package includes the original data, 59 SDF inputs, 51 chemical identities, scripts, requirements, 2,091 primary predictions, 41 charge-sensitivity outputs, molecular descriptors, and execution records. `V4_Derived_Tables` contains manuscript and supplementary tables derived from the underlying CSV files at presentation precision; the original CSV files retain full numerical precision.
 
-A V4 usa as predições como análise complementar pós hoc, sem alterar os onze pares composto–alvo selecionados por docking. Os painéis volátil e não volátil permanecem separados. Os 11 resultados de regressão fora dos limites declarados pelo fornecedor estão explicitados na Tabela S13. Os scores não são validação experimental de exposição, eficácia ou segurança.
+V4 uses ADMET predictions as a post hoc, complementary analysis and does not alter the eleven compound–target pairs selected by docking. Volatile and non-volatile panels remain separate. The eleven regression results outside vendor-declared limits are explicitly reported in Table S13. These scores do not provide experimental validation of exposure, efficacy, or safety.
 
-Para reproduzir localmente, consulte ADMET_Plantas_Local_v1/README_PT.md. Não é necessário instalar ou mudar drivers de GPU.
+For local reproduction, see [the ADMET execution guide](ADMET_Plantas_Local_v1/README.md). GPU-driver installation or modification is not required.
