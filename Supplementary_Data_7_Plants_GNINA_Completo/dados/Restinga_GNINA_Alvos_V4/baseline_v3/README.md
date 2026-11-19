@@ -1,101 +1,69 @@
-# GNINA multialvo V3 - Restinga
+# GNINA multi-target V3: reproducibility record
 
-Estudo computacional exploratório realizado em 25/10/2026, em CPU. Leia `reports/Relatorio_GNINA_Multialvo_V3_25-10-2026.pdf` e `reports/RESULTADOS_V3.md` para a síntese. Não foi recebida a GC-MS do projeto; as relações entre substâncias, espécies e matrizes são bibliográficas.
+This CPU-based exploratory study was run on 25 October 2026. The accompanying PDF and `reports/RESULTADOS_V3.md` provide the technical summary. Project-specific GC–MS data were not available; relationships among compounds, species, and matrices are literature-derived.
 
-## Alcance e controles
+## Scope and native controls
 
-A biblioteca contém 40 compostos de literatura (32 voláteis e 8 comparadores de extratos), representados por 51 estruturas estereoquímicas. Quatro sistemas foram avaliados por redocking, com cinco sementes e critério definido antes dos resultados: primeira pose por Energy com RMSD pesado com simetria até 2 Å, no referencial fixo da proteína, em pelo menos 4/5 sementes. A referência de partida foi gerada independentemente da conformação cristalográfica, sem usar alinhamento do ligante no cálculo de RMSD.
+The library contains 40 literature-derived compounds (32 volatile constituents and 8 extract comparators), represented by 51 declared stereochemical structures. Four systems were assessed by native-ligand redocking with five seeds. The prespecified criterion required a symmetry-aware heavy-atom RMSD ≤2 Å for the first Energy-ranked pose, in the fixed protein reference frame, for at least 4/5 seeds. The starting reference ligand was prepared independently of the crystallographic conformation.
 
-- COX-2 humana, 5IKR, mefenamato/ID8: aprovado, 5/5; RMSD mediano 0,481 Å.
-- Acetilcolinesterase humana, 4EY7 cadeia B, donepezila/E20 protonada +1: aprovado, 5/5; mediana 1,070 Å.
-- Construção cristalográfica CB2 humano/T4-lisozima, 5ZTY, AM10257/9JU: aprovado, 5/5; mediana 0,537 Å. Estado ligado a antagonista; não demonstra agonismo de candidatos.
-- Construção estável de 5-LOX humana, 6N2W cadeia B, NDGA/30Z e Fe2: reprovado, 0/5; mediana 3,549 Å. Poses próximas ao cristal foram amostradas, mas não ficaram em primeiro lugar por energia. Nenhum candidato foi triado nesse alvo sob este protocolo.
+- Human COX-2, 5IKR, mefenamate/ID8: **pass**, 5/5; median RMSD 0.481 Å.
+- Human acetylcholinesterase, 4EY7 chain B, protonated donepezil/E20: **pass**, 5/5; median RMSD 1.070 Å.
+- Human CB2/T4-lysozyme crystallographic construct, 5ZTY, AM10257/9JU: **pass**, 5/5; median RMSD 0.537 Å. The antagonist-bound construct does not establish agonism for any candidate.
+- Human 5-LOX stable construct, 6N2W chain B, NDGA/30Z and Fe²⁺: **fail**, 0/5; median RMSD 3.549 Å. Crystal-like poses were sampled but were not first by Energy; no candidate was screened against this target under the protocol.
 
-Nos três alvos aprovados, a biblioteca foi simulada nas sementes 42, 142 e 242, com até 20 poses por entrada. Repetições variam a busca, não a estrutura rígida da proteína. Escores de proteínas diferentes não são uma escala comum de afinidade. Os resultados não demonstram eficácia, atividade das misturas, seletividade, toxicidade ou segurança.
+For accepted targets, the library was screened with seeds 42, 142, and 242, with up to 20 poses per input. These repetitions vary the search, not the rigid protein structure. Scores from different proteins are not a common affinity scale and do not establish efficacy, mixture activity, selectivity, toxicity, or safety.
 
-## Correção de identidade e biblioteca principal
+## Curated primary library
 
-A preparação inicial herdou 60 entradas do conjunto anterior ampliado. A conferência da identidade após ler a geometria 3D detectou uma divergência estereoquímica em `caryophyllene_oxide_conf03`. Seus arquivos e saídas foram preservados e colocados em quarentena.
+The initial 60-input set contained `caryophyllene_oxide_conf03`, whose three-dimensional stereochemical identity differed from the declared structure. Its files and outputs are retained in quarantine. A corrected, identity-verified geometry was tested in the accepted systems but remained a separate diagnostic because it was not conformationally independent (0.5 Å threshold) from a retained correct conformer.
 
-Foi gerada uma geometria corrigida com identidade verificada e repetida nas três sementes nos alvos aprovados. Ela ficou praticamente igual a uma das duas conformações corretas já retidas, sem satisfazer o limiar de independência conformacional de 0,5 Å. Por isso, o teste corrigido ficou como diagnóstico separado, sem peso adicional na análise principal.
+The final primary library comprises **59 verified conformational inputs**, retaining all 40 compounds and 51 declared structures. Primary synthesis and contact tables use this library only.
 
-A biblioteca principal final contém **59 entradas conformacionais verificadas**, mantendo todos os 40 compostos e 51 estruturas. Todas as tabelas de síntese e contatos usam somente essa biblioteca. A auditoria completa identifica explicitamente as saídas em quarentena e o diagnóstico separado.
+- `docking_inputs.csv` and `prepared/all_inputs.sdf`: historical 60-input batch, including the quarantined input.
+- `primary_docking_inputs.csv` and `prepared/primary_inputs.sdf`: curated 59-input primary library.
+- `all_attempted_docking_inputs.csv`: all 61 attempted inputs, including the historical discrepancy and the correction diagnostic.
+- `correction_docking_inputs.csv`: corrected diagnostic outside the primary set.
+- `reports/input_identity_qc.csv` and `reports/input_curation.json`: expected/observed identities, exclusion rationale, and correction selection.
 
-- `docking_inputs.csv` e `prepared/all_inputs.sdf`: lote histórico inicial de 60 entradas, incluindo a entrada que foi posteriormente colocada em quarentena.
-- `primary_docking_inputs.csv` e `prepared/primary_inputs.sdf`: biblioteca principal curada de 59 entradas.
-- `all_attempted_docking_inputs.csv`: 61 entradas tentadas, contando a entrada histórica problemática e o diagnóstico corrigido.
-- `correction_docking_inputs.csv`: diagnóstico corrigido, fora do conjunto principal.
-- `reports/input_identity_qc.csv` e `reports/input_curation.json`: identidades esperadas/observadas, motivos de exclusão e seleção da correção.
+## Protocol and quality checks
 
-A existência desse problema na entrada herdada também limita a interpretação de sua linha no pacote anterior. As demais entradas foram conferidas contra as identidades declaradas. Não usar os scores da entrada em quarentena em médias, rankings ou conclusões sobre o óxido de cariofileno.
+GNINA 1.3.3 was fingerprinted by SHA-256 and executed on CPU (four CPUs per process; at most two simultaneous GNINA processes) using `--cnn_scoring rescore --cnn fast --pose_sort_order Energy --exhaustiveness 16 --num_modes 20 --no_gpu`. Energy ranking was specified before this analysis. CNN-based reordering within exported poses is a secondary diagnostic, not an independent search.
 
-## Preparação e parâmetros
+Deposited receptor heavy-atom coordinates were retained; hydrogens were modelled at pH 7.4. Loops were not rebuilt and no heavy-atom relaxation was performed. Waters, glycans, and additives were excluded. The structural limitations of the COX-2, 5-LOX, and CB2 constructs are retained in `target_rationale.json`.
 
-GNINA 1.3.3, executável oficial fixado por SHA256; CPU, quatro CPUs por processo, até dois processos simultâneos. `--cnn_scoring rescore --cnn fast --pose_sort_order Energy --exhaustiveness 16 --num_modes 20 --no_gpu`.
+The audit checks chemical identity, finite coordinates, non-metal contacts <2 Å, distance/radius ratios <0.70, positive energy, box escape >0.1 Å, mapped bond-length changes >0.15 Å, and severe intramolecular overlaps. Metal contacts are reported separately. An absence of flags does not establish pose correctness, and residue proximity ≤4 Å is not automatically assigned as a hydrogen bond or mechanism.
 
-O modelo CNN fast foi selecionado para viabilizar a biblioteca ampliada. Seus valores não devem ser comparados numericamente aos do ensemble padrão da entrega anterior. A ordenação principal por energia foi definida antes dos resultados desta rodada. A comparação com a melhor CNNscore dentro das poses exportadas é secundária e restrita ao mesmo conjunto; não é outra busca independente.
+## Contents and reproduction
 
-Os receptores mantêm as coordenadas pesadas depositadas. Hidrogênios no modelo pH 7,4; sem reconstrução de alças ou relaxação pesada. Águas, glicanos e aditivos foram excluídos. A preparação da COX-2 é a mesma do piloto, com ambas as cadeias e porfirinas COH de cobalto. Na 5-LOX, ferro foi retido com aproximação empírica e a região que recobre o sítio permanece desordenada. CB2 mantém a construção mutante com fusão T4-lisozima, sem membrana ou lipídios.
+- `reports/`: technical PDF, Markdown synthesis, compound/structure summaries, ranking comparisons, recurrent contacts, and PNG/SVG figures.
+- `results/<target>/redocking/`: all native-control runs, including failures.
+- `results/<target>/docking/`: historical and correction-diagnostic runs, including commands, logs, and completion hashes.
+- `results/<target>/primary_docking_poses.csv`: poses from the curated primary library only.
+- `targets/<target>/view_redocking.pml`: PyMOL inspection in the unaligned reference frame.
+- `protocol.json`, `correction_protocol.json`, `method_checks.json`, and `native_identity_checks.json`: parameter and validation records.
+- `SHA256SUMS.txt`: delivery inventory.
 
-As novas moléculas foram preparadas com ETKDGv3/MMFF; posições estereoquímicas indefinidas foram enumeradas. Estados do banco foram mantidos, exceto o carboxilato de ácido rotúndico. Não foi prevista a distribuição de microestados/pKa, uma limitação especialmente relevante para fenólicos. A estereoquímica do banco ou a enumeração não estabelecem o enantiômero nas amostras.
-
-A auditoria verifica identidade química, coordenadas finitas, contatos não metálicos <2 Å, distância inferior a 70% da soma dos raios de van der Waals, energia positiva, saída da caixa >0,1 Å, alteração de ligação >0,15 Å e sobreposição intramolecular grave entre átomos separados por mais de três ligações. Comprimentos de ligação usam correspondência de átomos. Metais são registrados separadamente. Ausência de alerta não demonstra pose correta. Proximidades de resíduos até 4 Å não são automaticamente classificadas como ligações de hidrogênio ou mecanismos.
-
-## Conteúdo
-
-- `reports/`: PDF, síntese Markdown, sínteses por composto/estrutura, comparação de ordenação, contatos recorrentes e figuras PNG/SVG.
-- `results/<alvo>/redocking/`: todos os controles, incluindo os reprovados.
-- `results/<alvo>/docking/`: lotes históricos e diagnósticos corrigidos, com comandos, logs e hashes de conclusão.
-- `results/<alvo>/primary_docking_poses.csv`: somente as poses da biblioteca principal.
-- `results/<alvo>/pose_quality_audit.csv`: todas as poses, com elegibilidade e motivo de exclusão.
-- `results/<alvo>/seed_stability_by_input.csv`: variação de energia e RMSD entre sementes para cada entrada principal.
-- `structures.csv`: identidades químicas declaradas e metadados da preparação inicial; a contagem efetiva de conformações após a curadoria está em `primary_docking_inputs.csv`.
-- `literature_species_links.csv`, `literature_sources.json`, `species_coverage.csv`: fontes, matrizes e cobertura botânica.
-- `physicochemical_descriptors.csv`: descritores calculados; não são ensaios nem previsões validadas de toxicologia.
-- `target_rationale.json`: justificativas, limitações de construções e contexto bibliográfico.
-- `targets/<alvo>/view_redocking.pml`: inspeção no PyMOL sem alinhamento ou fit.
-- `protocol.json`, `correction_protocol.json`, `method_checks.json`, `native_identity_checks.json`: parâmetros e verificações.
-- `SHA256SUMS.txt`: inventário da entrega.
-
-Eugenia catharinae está representada por comparadores de extratos; a composição completa do óleo continua pendente de acesso. Campomanesia littoralis permanece sem atribuição química nominal suficientemente confirmada. Não foi transferida automaticamente a composição genérica de C. xanthocarpa.
-
-## Ambiente e reprodução no HOME
-
-Extraia a pasta `Restinga_GNINA_Multialvo_V3` diretamente no seu HOME. O binário e o ambiente virtual não estão no pacote. A preparação baixa vários GB de binário/bibliotecas; não instala driver nem módulo de kernel e não exige sudo.
+To prepare the CPU environment:
 
 ```bash
 cd "$HOME/Restinga_GNINA_Multialvo_V3"
 INSTALL_REPORT=1 bash 00_preparar_ambiente.sh
 ```
 
-Se já possui uma cópia do mesmo binário, informe `GNINA_BIN` com caminho absoluto; o checksum ainda será conferido. O modo desta entrega é CPU. Para recriar somente as tabelas/figuras do material entregue:
+To regenerate delivered tables and figures only:
 
 ```bash
 bash run.sh audit --reuse-audited
 bash run.sh report
 ```
 
-Para uma **nova reprodução limpa**, gere uma pasta nova contendo somente as 59 entradas principais. A ferramenta recusa um destino já existente e não executa a simulação automaticamente:
+For a clean rerun, generate a new directory containing only the 59 primary inputs:
 
 ```bash
 .venv/bin/python prepare_clean_reproduction.py \
   --destination "$HOME/Restinga_GNINA_V3_Reproducao_Limpa"
 ```
 
-Nessa pasta nova, prepare o ambiente ou use o Python do ambiente anterior e execute `run_v3.py validate`, depois `run_v3.py screen`, `audit_v3.py` e `synthesize_v3.py`. A validação reprovada continuará impedindo a triagem de candidatos naquele alvo. As entradas em quarentena e diagnósticas não são usadas na reprodução limpa. A nova pasta não contém resultados entregues, evitando sobrescritas.
+The tool refuses an existing destination and does not automatically start simulations. The clean reproduction excludes quarantined and diagnostic inputs. Historical-batch reproduction requires its explicit option because the current preflight rejects the quarantined input.
 
-Para **reproduzir historicamente os lotes iniciais e o diagnóstico da entrega**, a opção explícita de reprodução histórica é necessária, pois o pré-voo atual recusa a entrada em quarentena. Em uma cópia de trabalho, preserve a pasta de resultados com outro nome antes de recalcular:
-
-```bash
-bash run.sh validate --resume
-bash run.sh screen --resume --historical-input-reproduction
-.venv/bin/python run_input_correction.py --gnina "$GNINA_BIN" --resume
-bash run.sh audit --reuse-audited
-bash run.sh report
-```
-
-Defina `GNINA_BIN` antes desse bloco, ou substitua por um caminho absoluto. `--resume` reaproveita apenas arquivos concluídos, com conteúdo e parâmetros conferidos; caminhos locais podem mudar, mas hashes e parâmetros precisam coincidir. Saídas incompletas ou parâmetros diferentes são recusados. Os registros dos comandos originais são preservados.
-
-Os scripts `prepare_targets.py` e `prepare_library.py` documentam a preparação original e recusam sobrescritas; `curate_input_identity.py` documenta a curadoria. Para calcular novamente a biblioteca principal, prefira a reprodução limpa. Não é necessário recriar o receptor para reproduzir a triagem com os arquivos preparados fornecidos.
-
-Antes de priorizar moléculas para o TCC/dissertação, integrar GC-MS/índices de retenção/áreas por matriz e espécie, confirmar vouchers, resolver composição pendente e confrontar as hipóteses com ensaios específicos. O docking não permite concluir qual planta é mais potente ou mais segura.
+Before prioritising compounds, integrate GC–MS data, retention indices, and matrix/species-specific abundances; confirm vouchers; resolve missing composition data; and test hypotheses in target-appropriate assays. Docking alone cannot identify the most potent or safest plant.
